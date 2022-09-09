@@ -1,6 +1,6 @@
 # WordPress instalation
 1. Downloads the files
-2. Upload the files to ypur Hosting account
+2. Upload the files to your Hosting account
 3. Import the database an connect database strings
 
 ## Connect database strings
