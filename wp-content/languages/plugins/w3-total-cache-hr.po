@@ -1,0 +1,4101 @@
+# Translation of Plugins - W3 Total Cache - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - W3 Total Cache - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-04 11:20:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - W3 Total Cache - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+#: SetupGuide_Plugin_Admin.php:1081 SetupGuide_Plugin_Admin.php:1127
+#: SetupGuide_Plugin_Admin.php:1199 SetupGuide_Plugin_Admin.php:1228
+msgid "W3 Total Cache"
+msgstr "W3 Total Cache"
+
+#: PgCache_ConfigLabels.php:38
+msgid "Additional pages:"
+msgstr "Dodatne stranice:"
+
+#: PgCache_ConfigLabels.php:19
+msgid "Update interval:"
+msgstr "Interval obnove: "
+
+#. Description of the plugin
+msgid "The highest rated and most complete WordPress performance plugin. Dramatically improve the speed and user experience of your site. Add browser, page, object and database caching as well as minify and content delivery network (CDN) to WordPress."
+msgstr "Najocjenjeniji i najkompletniji WordPress dodatak za performanse. Dramatično poboljšajte brzinu i korisničko iskustvo vaše web-stranice. Dodajte predmemoriju za preglednike, stranice, objekte i baze podataka, kao i minifikaciju i mrežu za dostavljanje sadržaja (CDN) WordPressu."
+
+#: Cdn_StackPath2_Page_View.php:52
+#: Cdn_StackPath2_Widget_View_Unauthorized.php:59 Generic_WidgetServices.php:33
+msgid "Premium Services"
+msgstr "Premium servisi"
+
+#: PageSpeed_Plugin_Widget.php:55
+msgid "Page Speed Report"
+msgstr "Izvještaj brzine stranice"
+
+#: Generic_Plugin_WidgetNews.php:50
+msgid "News"
+msgstr "Vijesti"
+
+#: Extension_NewRelic_Widget.php:77
+msgid "view visualizations"
+msgstr "pogledaj vizualizacije"
+
+#: Generic_ConfigLabels.php:27
+msgid "Varnish servers:"
+msgstr "Varnish poslužitelji:"
+
+#: Generic_ConfigLabels.php:11
+msgid "Topic <acronym title=\"Identification\">ID</acronym>:"
+msgstr "<acronym title=\"Identification\">ID</acronym> teme:"
+
+#: Generic_ConfigLabels.php:10
+msgid "<acronym title=\"Application Programming Interface\">API</acronym> secret:"
+msgstr "<acronym title=\"Application Programming Interface\">API</acronym> tajna:"
+
+#: Generic_ConfigLabels.php:21
+msgid "Referrer groups"
+msgstr "Referentne grupe"
+
+#: PgCache_ConfigLabels.php:57
+msgid "Handle <acronym title=\"Extensible Markup Language\">XML</acronym> mime type"
+msgstr "Obraditi <acronym title=\"Extensible Markup Language\">XML</acronym> mime tip"
+
+#: PgCache_ConfigLabels.php:56
+msgid "Specify page headers:"
+msgstr "Navedite zaglavlja stranice:"
+
+#: PgCache_ConfigLabels.php:55
+msgid "Non-trailing slash pages:"
+msgstr "Stranice bez prateće kose crte:"
+
+#: PgCache_ConfigLabels.php:54
+msgid "Cache exception list:"
+msgstr "Lista izuzetaka predmemorije:"
+
+#: PgCache_ConfigLabels.php:48
+msgid "Rejected cookies:"
+msgstr "Odbijeni kolačići (cookies):"
+
+#: PgCache_ConfigLabels.php:46
+msgid "Accepted query strings:"
+msgstr "Prihvaćeni upitni nizovi:"
+
+#: PgCache_ConfigLabels.php:45
+msgid "Comment cookie lifetime:"
+msgstr "Vrijeme trajanja \"kolačića\" komentara:"
+
+#: PgCache_ConfigLabels.php:42
+msgid " Disable caching of HEAD <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> requests"
+msgstr "Onemogući predmemoriranje HEAD <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> zahtjeva"
+
+#: PgCache_ConfigLabels.php:39
+msgid "Purge sitemaps:"
+msgstr "Pročistiti mape stranica:"
+
+#: PgCache_ConfigLabels.php:36
+msgid "Specify the feed types to purge:"
+msgstr "Navedite vrste izvora podataka koje treba pročistiti:"
+
+#: PgCache_ConfigLabels.php:35
+msgid "Yearly archive pages"
+msgstr "Stranice godišnje arhive"
+
+#: PgCache_ConfigLabels.php:34
+msgid "Monthly archive pages"
+msgstr "Stranice mjesečne arhive"
+
+#: PgCache_ConfigLabels.php:33
+msgid "Daily archive pages"
+msgstr "Stranice dnevne arhive"
+
+#: PgCache_ConfigLabels.php:32
+msgid "Post terms feeds"
+msgstr "Kanal pojmova objava"
+
+#: PgCache_ConfigLabels.php:31
+msgid "Post author feed"
+msgstr "Kanal autora objava"
+
+#: PgCache_ConfigLabels.php:30
+msgid "Post comments feed"
+msgstr "Kanal komentara objave"
+
+#: PgCache_ConfigLabels.php:29
+msgid "Post terms pages"
+msgstr "Stranice pojmova objava"
+
+#: PgCache_ConfigLabels.php:28
+msgid "Post author pages"
+msgstr "Stranice autora objava"
+
+#: PgCache_ConfigLabels.php:27
+msgid "Post comments pages"
+msgstr "Stranice s komentarima objava"
+
+#: PgCache_ConfigLabels.php:26
+msgid "Blog feed"
+msgstr "Blog kanal"
+
+#: PgCache_ConfigLabels.php:25
+msgid "Post page"
+msgstr "Stranica objave"
+
+#: PgCache_ConfigLabels.php:24
+msgid "Posts page"
+msgstr "Stranica objava"
+
+#: PgCache_ConfigLabels.php:23 PgCache_ConfigLabels.php:24
+msgid "Front page"
+msgstr "Početna stranica"
+
+#: PgCache_ConfigLabels.php:21
+msgid "Sitemap <acronym title=\"Uniform Resource Indicator\">URL</acronym>:"
+msgstr "<acronym title=\"Uniform Resource Indicator\">URL</acronym> mape stranica:"
+
+#: PgCache_ConfigLabels.php:20
+msgid "Pages per interval:"
+msgstr "Stranica po intervalu:"
+
+#: PgCache_ConfigLabels.php:18
+msgid "Automatically prime the page cache"
+msgstr "Automatski pripremiti predmemoriju stranice"
+
+#: PgCache_ConfigLabels.php:17
+msgid "Don't cache pages for following user roles"
+msgstr "Ne predmemorirati stranice za sljedeće korisničke uloge"
+
+#: PgCache_ConfigLabels.php:16
+msgid "Don't cache pages for logged in users"
+msgstr "Ne predmemorirati stranice za prijavljene korisnike"
+
+#: PgCache_ConfigLabels.php:15
+msgid "Cache 404 (not found) pages"
+msgstr "Predmemorirati 404 (nije pronađeno) stranice"
+
+#: PgCache_ConfigLabels.php:14
+msgid "Cache <acronym title=\"Uniform Resource Identifier\">URI</acronym>s with query string variables"
+msgstr "Predmemorirati <acronym title=\"Uniform Resource Identifier\">URI</acronym> -je s varijablama upitnog niza (query string)"
+
+#: PgCache_ConfigLabels.php:12
+msgid "Cache feeds: site, categories, tags, comments"
+msgstr "Predmemoriranje kanala: web-stranica, kategorija, oznaka, komentara"
+
+#: PgCache_ConfigLabels.php:11
+msgid "Don't cache front page"
+msgstr "Ne predmemorirati početnu stranicu"
+
+#: PgCache_ConfigLabels.php:10
+msgid "Cache posts page"
+msgstr "Predmemoriraj stranicu objava"
+
+#: PgCache_ConfigLabels.php:10
+msgid "Cache front page"
+msgstr "Predmemoriraj početnu stranicu"
+
+#: ObjectCache_ConfigLabels.php:14
+msgid "Flush all cache on post, comment etc changes."
+msgstr "Isprazniti svu predmemoriju pri izmjenama objava, komentara itd."
+
+#: ObjectCache_ConfigLabels.php:13
+msgid "Non-persistent groups:"
+msgstr "Kratkotrajne grupe:"
+
+#: ObjectCache_ConfigLabels.php:12
+msgid "Global groups:"
+msgstr "Globalne grupe:"
+
+#: ObjectCache_ConfigLabels.php:10
+msgid "Default lifetime of cache objects:"
+msgstr "Izvorno trajanje objekata predmemorije:"
+
+#: ObjectCache_ConfigLabels.php:8
+msgid "Object Cache:"
+msgstr "Objektna predmemorija:"
+
+#: ObjectCache_ConfigLabels.php:7
+msgid "Object Cache Method:"
+msgstr "Metoda predmemoriranja objekata:"
+
+#: Extension_CloudFlare_GeneralPage_View.php:19
+#: Extension_CloudFlare_Page_View.php:126
+#: Extension_NewRelic_Page_View_Apm.php:180
+msgid "Cache time:"
+msgstr "Vrijeme predmemoriranja:"
+
+#: Generic_ConfigLabels.php:23
+msgid "User Agent groups"
+msgstr "Grupe korisničkih agenata"
+
+#: Generic_ConfigLabels.php:22
+msgid "User Agents:"
+msgstr "Korisnički agenti:"
+
+#: Minify_ConfigLabels.php:82
+msgid "Disable all the built-in micro optimizations"
+msgstr "Isključiti sve ugrađene mikro optimizacije"
+
+#: Minify_ConfigLabels.php:81
+msgid "Preserve unnecessary semicolons"
+msgstr "Sačuvati znakove točke i zareza, koji nisu neophodni"
+
+#: Minify_ConfigLabels.php:80
+msgid "Minify only, do not obfuscate local symbols"
+msgstr "Samo smanjiti, ne pomiješati lokalne simbole"
+
+#: Minify_ConfigLabels.php:78 Minify_ConfigLabels.php:83
+msgid "Line break after:"
+msgstr "Prelomiti red poslije:"
+
+#: Minify_ConfigLabels.php:71
+msgid "Wrap after:"
+msgstr "Prelomiti poslije:"
+
+#: Minify_ConfigLabels.php:68
+msgid "Clean"
+msgstr "Očistiti"
+
+#: Minify_ConfigLabels.php:66
+msgid "Line break removal"
+msgstr "Uklanjanje prijeloma redova"
+
+#: Minify_ConfigLabels.php:74
+msgid "Line break removal (not safe, not applied when combine only is active)"
+msgstr "Uklanjanje prijeloma redova (nije sigurno, ne primjenjuje se kada je aktivno samo kombiniranje)"
+
+#: Minify_ConfigLabels.php:64
+msgid "Regroup selectors:"
+msgstr "Pregrupirati selektore:"
+
+#: Minify_ConfigLabels.php:63
+msgid "Case for properties:"
+msgstr "Veličina slova za svojstva:"
+
+#: Minify_ConfigLabels.php:62
+msgid "Optimize shorthands:"
+msgstr "Optimizirati kratice"
+
+#: Minify_ConfigLabels.php:61
+msgid "Compression:"
+msgstr "Kompresija:"
+
+#: Minify_ConfigLabels.php:59
+msgid "Add timestamp"
+msgstr "Dodati vremensku oznaku (timestamp)"
+
+#: Minify_ConfigLabels.php:58
+msgid "Preserve CSS"
+msgstr "Sačuvati CSS"
+
+#: Minify_ConfigLabels.php:57
+msgid "Discard invalid properties"
+msgstr "Odbaciti nevažeća svojstva"
+
+#: Minify_ConfigLabels.php:55
+msgid "Sort Selectors (caution)"
+msgstr "Poredati selektore (oprez)"
+
+#: Minify_ConfigLabels.php:54
+msgid "Sort Properties"
+msgstr "Poredaj svojstva"
+
+#: Minify_ConfigLabels.php:52
+msgid "Remove last ;"
+msgstr "Ukloniti posljednje ;"
+
+#: Minify_ConfigLabels.php:51
+msgid "Lowercase selectors"
+msgstr "Selektori malih slova"
+
+#: Minify_ConfigLabels.php:50
+msgid "Compress font-weight"
+msgstr "Komprimirati debljinu slova"
+
+#: Minify_ConfigLabels.php:49
+msgid "Compress colors"
+msgstr "Komprimirati boje"
+
+#: Minify_ConfigLabels.php:48
+msgid "Remove unnecessary backslashes"
+msgstr "Ukloniti kose crte koje nisu neophodne"
+
+#: Minify_ConfigLabels.php:46
+msgid "Line break removal (not applied when combine only is active)"
+msgstr "Uklanjanje prijeloma redova (ne primjenjuje se kada je aktivno samo kombiniranje)"
+
+#: Minify_ConfigLabels.php:45 Minify_ConfigLabels.php:73
+msgid "Preserved comment removal (not applied when combine only is active)"
+msgstr "Uklanjanje sačuvanog komentara (ne primjenjuje se kada je aktivno samo kombiniranje)"
+
+#: Minify_ConfigLabels.php:43
+msgid "Compilation level:"
+msgstr "Nivo kompiliranja:"
+
+#: Minify_ConfigLabels.php:31
+msgid "Update external files every:"
+msgstr "Ažurirati vanjske datoteke svakih:"
+
+#: Minify_ConfigLabels.php:30
+msgid "@import handling:"
+msgstr "@import obrada:"
+
+#: Minify_ConfigLabels.php:27
+msgid "Before <span class=\"html-tag\">&lt;/body&gt;</span>"
+msgstr "Prije <span class=\"html-tag\">&lt;/body&gt;</span> elementa"
+
+#: Minify_ConfigLabels.php:25
+msgid "After <span class=\"html-tag\">&lt;body&gt;</span>"
+msgstr "Poslije <span class=\"html-tag\">&lt;body&gt;</span> elementa"
+
+#: inc/options/minify.php:304 inc/options/minify.php:642
+#: Minify_ConfigLabels.php:24 Minify_ConfigLabels.php:26
+#: Minify_ConfigLabels.php:28
+msgid "Combine only"
+msgstr "Samo kombinirati"
+
+#: Minify_ConfigLabels.php:23
+msgid "Embed type:"
+msgstr "Vrsta ugradnje:"
+
+#: Minify_ConfigLabels.php:21
+msgid "Ignored comment stems:"
+msgstr "Ignorirani korjeni komentara:"
+
+#: Minify_ConfigLabels.php:20
+msgid "Don't minify feeds"
+msgstr "Ne minificirati kanale (feeds)"
+
+#: Minify_ConfigLabels.php:19
+msgid "Inline <acronym title=\"JavaScript\">JS</acronym> minification"
+msgstr "Minificiranje linijskog <acronym title=\"JavaScript\">JS</acronym> -a\t"
+
+#: Minify_ConfigLabels.php:18
+msgid "Inline <acronym title=\"Cascading Style Sheet\">CSS</acronym> minification"
+msgstr "Minificiranje linijskog <acronym title=\"Cascading Style Sheet\">CSS</acronym> -a"
+
+#: Minify_ConfigLabels.php:16
+msgid "Minify error notification:"
+msgstr "Smanjiti obavijesti o greškama:"
+
+#: Minify_ConfigLabels.php:15
+msgid "Disable minify for logged in users"
+msgstr "Isključiti minifikaciju za prijavljene korisnike"
+
+#: Minify_ConfigLabels.php:14
+msgid "Rewrite <acronym title=\"Uniform Resource Locator\">URL</acronym> structure"
+msgstr "Prepravite <acronym title=\"Uniform Resource Locator\">URL</acronym> strukturu"
+
+#: Minify_ConfigLabels.php:13
+msgid "Minify mode:"
+msgstr "Režim minifikacije:"
+
+#: Minify_ConfigLabels.php:12
+msgid "<acronym title=\"Cascading Style Sheets\">CSS</acronym> minifier:"
+msgstr "<acronym title=\"Cascading Style Sheets\">CSS</acronym> minifikacija:"
+
+#: Minify_ConfigLabels.php:11
+msgid "<acronym title=\"JavaScript\">JS</acronym> minifier:"
+msgstr "<acronym title=\"JavaScript\">JS</acronym> minifikacija:"
+
+#: Minify_ConfigLabels.php:10
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym> minifier:"
+msgstr "<acronym title=\"Hypertext Markup Language\">HTML</acronym> minifikacija:"
+
+#: Generic_ConfigLabels.php:17
+msgid "Verify rewrite rules"
+msgstr "Provjeriti pravila prepravljanja"
+
+#: Generic_ConfigLabels.php:16
+msgid "Nginx server configuration file path"
+msgstr "Putanja konfiguracijske datoteke Nginx poslužitelja"
+
+#: Generic_ConfigLabels.php:15
+msgid "Use single network configuration file for all sites."
+msgstr "Koristiti jednu mrežnu konfiguracijsku datoteku za sve web-stranice."
+
+#: Generic_ConfigLabels.php:13
+msgid "Page Speed <acronym title=\"Application Programming Interface\">API</acronym> Key:"
+msgstr "Page Speed <acronym title=\"Application Programming Interface\">API</acronym> ključ:"
+
+#: inc/options/general.php:716
+msgid "Enable Google Page Speed dashboard widget"
+msgstr "Uključiti widget Google Page Speed kontrolne ploče"
+
+#: Extension_FragmentCache_Page_View.php:113
+msgid "Manual fragment groups:"
+msgstr "Manualne grupe fragmenata:"
+
+#: Extension_FragmentCache_Page_View.php:99
+msgid "Default lifetime of cached fragments:"
+msgstr "Izvorno vrijeme trajanja predmemoriranih fragmenata:"
+
+#: Minify_ConfigLabels.php:39
+msgid "Pretty print"
+msgstr "Lijepi ispis"
+
+#: Extension_FragmentCache_GeneralPage_View.php:17
+msgid "Fragment Cache Method:"
+msgstr "Metoda Fragmentirana predmemorija"
+
+#: DbCache_ConfigLabels.php:15
+msgid "Reject query words:"
+msgstr "Odbaciti riječi upita:"
+
+#: DbCache_ConfigLabels.php:14
+msgid "Ignored query stems:"
+msgstr "Ignorirana stabla upita:"
+
+#: DbCache_ConfigLabels.php:13 PgCache_ConfigLabels.php:49
+msgid "Never cache the following pages:"
+msgstr "Nikada ne predmemorirati sljedeće stranice:"
+
+#: DbCache_ConfigLabels.php:12 Extension_FragmentCache_Page_View.php:106
+#: Minify_ConfigLabels.php:32 ObjectCache_ConfigLabels.php:11
+#: PgCache_ConfigLabels.php:44
+msgid "Garbage collection interval:"
+msgstr "Interval sakupljanja smeća:"
+
+#: DbCache_ConfigLabels.php:11 PgCache_ConfigLabels.php:43
+msgid "Maximum lifetime of cache objects:"
+msgstr "Maksimalno trajanje objekata predmemorije:"
+
+#: Util_ConfigLabel.php:23
+msgid "Memcached hostname:port / <acronym title=\"Internet Protocol\">IP</acronym>:port:"
+msgstr "Memcached hostname:port / <acronym title=\"Internet Protocol\">IP</acronym>:port:"
+
+#: DbCache_ConfigLabels.php:10
+msgid "Don't cache queries for logged in users"
+msgstr "Ne predmemorirati upite za prijavljene korisnike"
+
+#: DbCache_ConfigLabels.php:8
+msgid "Database Cache:"
+msgstr "Predmemorija baze podataka:"
+
+#: DbCache_ConfigLabels.php:7
+msgid "Database Cache Method:"
+msgstr "Metoda predmemoriranja baze podataka:"
+
+#: Cdn_ConfigLabels.php:33
+msgid "Rejected files:"
+msgstr "Odbijene datoteke:"
+
+#: Cdn_ConfigLabels.php:32 Minify_ConfigLabels.php:36
+#: PgCache_ConfigLabels.php:47
+msgid "Rejected user agents:"
+msgstr "Odbijeni korisnički agenti:"
+
+#: Cdn_ConfigLabels.php:30
+msgid "Custom file list:"
+msgstr "Korisnička lista datoteka:"
+
+#: Cdn_ConfigLabels.php:29
+msgid "File types to import:"
+msgstr "Vrste datoteka za uvoz:"
+
+#: Cdn_ConfigLabels.php:28
+msgid "Theme file types to upload:"
+msgstr "Vrste datoteka teme za prijenos:"
+
+#: Cdn_ConfigLabels.php:27
+msgid "wp-includes file types to upload:"
+msgstr "wp-includes vrste datoteka za prijenos:"
+
+#: Cdn_ConfigLabels.php:26
+msgid "Re-transfer cycle limit:"
+msgstr "Ograničenje ciklusa ponovnog prijenosa:"
+
+#: Cdn_ConfigLabels.php:25
+msgid "Re-transfer cycle interval:"
+msgstr "Interval ciklusa ponovnog prijenosa:"
+
+#: Cdn_ConfigLabels.php:24
+msgid "Auto upload interval:"
+msgstr "Interval automatskog prijenosa:"
+
+#: Cdn_ConfigLabels.php:23
+msgid "Export changed files automatically"
+msgstr "Automatski izvesti izmijenjene datoteke"
+
+#: Cdn_ConfigLabels.php:22
+msgid "Disable <acronym title=\"Content Delivery Network\">CDN</acronym> on the following pages:"
+msgstr "Onemogući <acronym title=\"Content Delivery Network\">CDN</acronym> na sljedećim stranicama:"
+
+#: Cdn_ConfigLabels.php:21
+msgid "Disable <acronym title=\"Content Delivery Network\">CDN</acronym> for the following roles"
+msgstr "Onemogući <acronym title=\"Content Delivery Network\">CDN</acronym> za sljedeće uloge"
+
+#: Cdn_ConfigLabels.php:19
+msgid "Disable <acronym title=\"Content Delivery Network\">CDN</acronym> on <acronym title=\"Secure Sockets Layer\">SSL</acronym> pages"
+msgstr "Onemogući <acronym title=\"Content Delivery Network\">CDN</acronym> na <acronym title=\"Secure Sockets Layer\">SSL</acronym> stranicama"
+
+#: Cdn_ConfigLabels.php:18
+msgid "Add canonical header"
+msgstr "Dodati kanoničko zaglavlje"
+
+#: Cdn_ConfigLabels.php:17
+msgid "Import external media library attachments"
+msgstr "Uvoz eksternih priloga medijske biblioteke"
+
+#: Cdn_ConfigLabels.php:16
+msgid "Force over-writing of existing files"
+msgstr "Forsirati prebrisavanje postojećih datoteka"
+
+#: Cdn_ConfigLabels.php:15
+msgid "Host custom files"
+msgstr "Smještaj prilagođenih datoteka"
+
+#: Cdn_ConfigLabels.php:14
+msgid "Host minified <acronym title=\"Cascading Style Sheet\">CSS</acronym> and <acronym title=\"JavaScript\">JS</acronym> files"
+msgstr "Smještaj smanjenih <acronym title=\"Cascading Style Sheet\">CSS</acronym> i <acronym title=\"JavaScript\">JS</acronym> datoteka"
+
+#: Cdn_ConfigLabels.php:13
+msgid "Host theme files"
+msgstr "Smještaj datoteka teme"
+
+#: Cdn_ConfigLabels.php:12
+msgid "Host wp-includes/ files"
+msgstr "Smještaj wp-includes/ datoteka"
+
+#: Cdn_ConfigLabels.php:11
+msgid "Host attachments"
+msgstr "Smještaj privitaka"
+
+#: Cdn_ConfigLabels.php:8
+msgid "<acronym title=\"Content Delivery Network\">CDN</acronym> Type:"
+msgstr "<acronym title=\"Content Delivery Network\">CDN</acronym> vrsta:"
+
+#: Cdn_ConfigLabels.php:7
+msgid "<acronym title=\"Content Delivery Network\">CDN</acronym>:"
+msgstr "<acronym title=\"Content Delivery Network\">CDN</acronym>:"
+
+#: BrowserCache_ConfigLabels.php:38
+msgid "Enable <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> (gzip) compression</label>"
+msgstr "Omogućiti <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> (gzip) kompresiju</label>"
+
+#: BrowserCache_ConfigLabels.php:21 BrowserCache_ConfigLabels.php:41
+msgid "Disable cookies for static files"
+msgstr "Isključiti \"kolačiće\" (cookies) za statičke datoteke"
+
+#: BrowserCache_ConfigLabels.php:27 BrowserCache_ConfigLabels.php:36
+#: inc/options/browsercache.php:113
+msgid "Set entity tag (ETag)"
+msgstr "Postavi entity tag (ETag)"
+
+#: BrowserCache_ConfigLabels.php:15 BrowserCache_ConfigLabels.php:26
+#: BrowserCache_ConfigLabels.php:35
+msgid "Cache Control policy:"
+msgstr "Odredbe kontrole predmemorije:"
+
+#: BrowserCache_ConfigLabels.php:13 BrowserCache_ConfigLabels.php:24
+#: BrowserCache_ConfigLabels.php:33
+msgid "Expires header lifetime:"
+msgstr "Trajanje isteka zaglavlja:"
+
+#: BrowserCache_ConfigLabels.php:10
+msgid "404 error exception list:"
+msgstr "Lista izuzetaka za grešku 404:"
+
+#: BrowserCache_ConfigLabels.php:9
+msgid "Do not process 404 errors for static objects with WordPress"
+msgstr "Ne obrađivati greške 404 za statičke objekte s WordPressom"
+
+#: BrowserCache_ConfigLabels.php:8
+msgid "Prevent caching exception list:"
+msgstr "Lista izuzetaka predmemorije:"
+
+#: BrowserCache_ConfigLabels.php:7
+msgid "Browser Cache:"
+msgstr "Predmemorija preglednika:"
+
+#: Generic_AdminNotes.php:183
+msgid "disable"
+msgstr "onemogući"
+
+#: Generic_AdminNotes.php:179
+msgid "deploy"
+msgstr "postaviti"
+
+#: Cdn_AdminNotes.php:275
+msgid " <a href=\"?page=w3tc_cdn#configuration\">Specify it here</a>."
+msgstr " <a href=\"?page=w3tc_cdn#configuration\">Navedite ovdje</a>."
+
+#: Cdn_AdminNotes.php:275
+msgid "A configuration issue prevents <acronym title=\"Content Delivery Network\">CDN</acronym> from working: "
+msgstr "Problem sa konfiguracijom sprječava rad <acronym title=\"Content Delivery Network\">CDN</acronym>-a:"
+
+#: Cdn_AdminNotes.php:253
+msgid "You need to select / create a pull zone."
+msgstr "Trebate odabrati / kreirate zonu povlačenja."
+
+#: Cdn_AdminNotes.php:251
+msgid "The <strong>\"Authorization key\"</strong> is not correct."
+msgstr "<strong>\"Autorizacijski ključ\"</strong> nije ispravan."
+
+#: Cdn_AdminNotes.php:245
+msgid "The <strong>%s</strong> field(s) cannot be empty."
+msgstr "<strong>%s</strong> polje ne može biti prazno."
+
+#: Cdn_AdminNotes.php:242
+msgid "Replace default hostname with"
+msgstr "Zamjena izvornog host imena s"
+
+#: Cdn_AdminNotes.php:233 Cdn_AdminNotes.php:258 Cdn_AdminNotes.php:262
+#: Cdn_AdminNotes.php:266
+msgid "The <strong>\"Replace default hostname with\"</strong> field cannot be empty."
+msgstr "Polje <strong>\"Zamjena izvornog host imena s (Replace default hostname with)\"</strong> ne može biti prazno."
+
+#: Cdn_AdminNotes.php:229
+msgid "The <strong>\"Account name\", \"Account key\" and \"Container\"</strong> fields cannot be empty."
+msgstr "Polja <strong>\"Ime računa (Account name)\", \"Ključ računa (Account key)\" i \"Kontejner (Container)\"</strong> ne mogu biti prazna."
+
+#: Cdn_AdminNotes.php:225
+msgid "The <strong>\"Username\", \"API key\", \"Container\" and \"Replace default hostname with\"</strong> fields cannot be empty."
+msgstr "Polja <strong>\"Korisničko ime (Username)\", \"API ključ (API key)\", \"Kontejner (Container)\" i \"Zamjena izvornog host imena s (Replace default hostname with)\"</strong> ne mogu biti prazna."
+
+#: Cdn_AdminNotes.php:221
+msgid "The <strong>\"Access key\", \"Secret key\" and \"Replace default hostname with\"</strong> fields cannot be empty."
+msgstr "Polja <strong>\"Pristupni ključ (Access key)\", \"Tajni ključ (Secret key)\" i \"Zamjena izvornog host imena s (Replace default hostname with)\"</strong> ne mogu biti prazna."
+
+#: Cdn_AdminNotes.php:217
+msgid "The <strong>\"Access key\", \"Secret key\", \"Bucket\" and \"Replace default hostname with\"</strong> fields cannot be empty."
+msgstr "Polja <strong>\"Pristupni ključ (Access key)\", \"Tajni ključ (Secret key)\", \"Buket - jedinica memorije (Bucket)\" i \"Zamjena izvornog host imena s (Replace default hostname with)\"</strong> ne mogu biti prazna."
+
+#: Cdn_AdminNotes.php:213
+msgid "The <strong>\"Access key\", \"Secret key\" and \"Bucket\"</strong> fields cannot be empty."
+msgstr "Polja <strong>\"Pristupni ključ (Access key)\", \"Tajni ključ (Secret key)\" i \"Bucket\"</strong>ne mogu biti prazna."
+
+#: Cdn_AdminNotes.php:190
+msgid "update the path"
+msgstr "ažuriraj putanju"
+
+#: Cdn_AdminNotes.php:187
+msgid "The uploads path found in the database (%s) is inconsistent with the actual path. Please manually adjust the upload path either in miscellaneous settings or if not using a custom path %s automatically to resolve the issue."
+msgstr "Putanja prijenosa, pronađena u bazi podataka (%s) se ne slaže s stvarnom putanjom. Manuslno podesite putanju prijenosa, ili, ako ne koristite prilagođenu putanju, %s automatski, kako bi otklonili problem."
+
+#: Cdn_AdminNotes.php:180
+msgid "The uploads directory is not available. Default WordPress directories will be created: <strong>%s</strong>."
+msgstr "Mapa prijenosa nije dostupan. Biti će kreirani izvorne WordPress mape: <strong>%s</strong>."
+
+#: Cdn_AdminNotes.php:131
+msgid "The <strong>CURL PHP</strong> extension is not available. Please install it to enable S3 or CloudFront functionality. %s"
+msgstr "<strong>CURL PHP</strong> ekstenzija nije dostupna. Instalirajte je, kako bi omogućili S3 ili CloudFront funkcionalnost. %s"
+
+#: ObjectCache_Plugin_Admin.php:32
+msgid "Object Cache: %s."
+msgstr "Objektna predmemorija: %s."
+
+#: DbCache_Plugin_Admin.php:61
+msgid "Database Cache: %s."
+msgstr "Predmemorija baze podataka: %s."
+
+#: Minify_Plugin_Admin.php:148
+msgid "Minify: %s."
+msgstr "Minifikacija: %s."
+
+#: PgCache_Plugin_Admin.php:295
+msgid "Page Cache: %s."
+msgstr "Predmemorija stranice: %s."
+
+#: Extension_NewRelic_AdminNotes.php:25
+msgid "Browser Cache and use compression"
+msgstr "Predmemorija preglednika i korištenje kompresije"
+
+#: Cdnfsd_MaxCdn_Popup_View_Zone.php:43 Cdnfsd_StackPath_Popup_View_Zone.php:43
+#: Cdnfsd_StackPath_Popup_View_Zone.php:51 Extension_NewRelic_AdminNotes.php:23
+msgid "CDN"
+msgstr "CDN"
+
+#: Cdn_AdminNotes.php:302
+msgid "Encountered issue with CDN: %s."
+msgstr "Primijećen je problem s CDN-om: %s."
+
+#: Cdn_AdminNotes.php:299
+msgid "Install page"
+msgstr "Instalacijska stranica"
+
+#: Cdn_AdminNotes.php:297
+msgid "Encountered issue with CDN: %s. See %s for instructions of creating correct table."
+msgstr "Primijećen je problem s CDN-om: %s. Proučite %s za instrukcije o kreiranju ispravne tablice."
+
+#: Cdn_AdminNotes.php:158
+msgid "unsuccessful transfer queue"
+msgstr "red čekanja neuspjelih prijenosa"
+
+#: Cdn_AdminNotes.php:155
+msgid "The %s has unresolved errors. Empty the queue to restore normal operation."
+msgstr "%s ima neriješene greške. Ispraznite listu čekanja da vratite normalno funkcioniranje."
+
+#: Cdn_AdminNotes.php:116
+msgid "Make sure to whitelist your servers IPs. Follow the instructions on %s. The IP for this server is %s. %s"
+msgstr "Uvjerite se da ste stavili IP adresu vašeg poslužitelja na bijelu listu. Pratite upute na %s. IP adresa ovog poslužitelja je %s. %s"
+
+#: Cdn_AdminNotes.php:100
+msgid "export the media library"
+msgstr "izvezi medijsku zbirku"
+
+#: Cdn_AdminNotes.php:97
+msgid "Settings that affect Browser Cache settings for files hosted by the CDN have been changed. To apply the new settings %s and %s. %s"
+msgstr "Promijenjene su postavke koja utječu na postavke predmemorije preglednika (Browser Cache), za datoteke smještene na CDN-u. Za primjenu novih postavki %s i %s. %s"
+
+#: Cdn_AdminNotes.php:84
+msgid "Make sure to %s and upload the %s, files to the <acronym title=\"Content Delivery Network\">CDN</acronym> to ensure proper operation. %s"
+msgstr "Provjerite da %s i prenesete %s datoteke na <acronym title=\"Content Delivery Network\">CDN</acronym>, kako bi osigurali pravilan rad. %s"
+
+#: Cdn_AdminNotes.php:42
+msgid "Upgraded WordPress? Please %s files now to ensure proper operation. %s"
+msgstr "Nadogradili ste WordPress? Odmah, %s datoteke kako bi osigurali pravilan rad. %s"
+
+#: Cdn_AdminNotes.php:28
+msgid "upload active theme files"
+msgstr "prenesi aktivne datoteke teme"
+
+#: Cdn_AdminNotes.php:25
+msgid "The active theme has changed, please %s now to ensure proper operation. %s"
+msgstr "Aktivna tema je promijenjena, odmah %s kako bi osigurali pravilan rad. %s"
+
+#: Minify_Plugin_Admin.php:168
+msgid "Empty the minify cache"
+msgstr "Isprazniti minify predmemoriju"
+
+#: Minify_Plugin_Admin.php:131
+msgid "Recently an error occurred while creating the CSS / JS minify cache: %s. %s"
+msgstr "Nedavno je došlo do greške u toku kreiranja CSS / JS minify predmemorije: %s. %s"
+
+#: ObjectCache_Plugin_Admin.php:57
+msgid "Empty the object cache"
+msgstr "Isprazniti objektnu predmemoriju"
+
+#: Minify_Plugin_Admin.php:165 ObjectCache_Plugin_Admin.php:54
+msgid "The setting change(s) made either invalidate the cached data or modify the behavior of the site. %s now to provide a consistent user experience."
+msgstr "Napravljena(e) izmijena(e) postavki, ili poništava(ju) predmemorirane podatke, ili mijenja(ju) ponašanje web-stranice. %s odmah, kako bi osigurali konzistentan korisnički doživljaj."
+
+#: Cdn_AdminNotes.php:246 Generic_AdminNotes.php:259
+msgid " and "
+msgstr "i"
+
+#: Generic_AdminNotes.php:227
+msgid "minify settings"
+msgstr "minify postavke"
+
+#: Generic_AdminNotes.php:213
+msgid "empty the page cache"
+msgstr "isprazniti predmemoriju stranice"
+
+#: Generic_Plugin_Admin.php:779
+msgid "Required files and directories have been automatically created"
+msgstr "Tražene datoteke i mape su automatski kreirane"
+
+#: Generic_Plugin_Admin.php:733
+msgid "Pull Zone was automatically created."
+msgstr "Zona povlačenja je automatski kreirana."
+
+#: Generic_Plugin_Admin.php:732
+msgid "Edge mode has been disabled."
+msgstr "Edge režim je isključen."
+
+#: Generic_Plugin_Admin.php:731
+msgid "Edge mode has been enabled."
+msgstr "Edge režim je uključen."
+
+#: Generic_Plugin_Admin.php:730
+msgid "The add-in has been removed."
+msgstr "Add-in je uklonjen."
+
+#: Minify_ConfigLabels.php:69
+msgid "Hide comments"
+msgstr "Sakrij komentare"
+
+#: Minify_ConfigLabels.php:8 UsageStatistics_Page_View.php:218
+msgid "Minify:"
+msgstr "Minificiranje:"
+
+#: Minify_ConfigLabels.php:33
+msgid "Never minify the following pages:"
+msgstr "Nikada ne minificirati sljedeće stranice:"
+
+#: extension-example/Extension_Example_Page_View.php:11
+#: Extensions_Plugin_Admin.php:76 Extensions_Plugin_Admin.php:77
+#: Extension_CloudFlare_Page_View.php:11 Extension_FeedBurner_Page_View.php:11
+#: Extension_FragmentCache_Page_View.php:14 Extension_Genesis_Page_View.php:11
+#: Extension_NewRelic_Page_View_Apm.php:12 Extension_Swarmify_Page_View.php:11
+#: FeatureShowcase_Plugin_Admin.php:456
+msgid "Extensions"
+msgstr "Ekstenzije"
+
+#: Generic_Plugin.php:244 Root_AdminMenu.php:160 Root_AdminMenu.php:161
+msgid "Performance"
+msgstr "Performanse"
+
+#: Generic_Plugin.php:324 Root_AdminMenu.php:113 Root_AdminMenu.php:114
+msgid "Support"
+msgstr "Podrška"
+
+#: Extension_NewRelic_Service.php:96
+msgid "Operating System"
+msgstr "Operacijski sustav"
+
+#: Generic_Plugin.php:295 Root_AdminMenu.php:55 Root_AdminMenu.php:56
+msgid "General Settings"
+msgstr "Općenite postavke"
+
+#: lib/NetDNA/NetDNAPresentation.php:64
+msgid "Pending"
+msgstr "Čeka odobrenje"
+
+#: lib/NetDNA/NetDNAPresentation.php:66
+msgid "Active"
+msgstr "Aktivno"
+
+#: CdnEngine_Mirror_Edgecast.php:130
+msgid "Invalid Request"
+msgstr "Nevažeći zahtjev"
+
+#: Cdn_Highwinds_Widget_View.php:12
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:41
+#: Cdn_StackPath2_Widget_View_Authorized.php:18
+#: Cdn_StackPath_Widget_View_Authorized.php:30
+msgid "Manage"
+msgstr "Upravljanje"
+
+#: Generic_Plugin_Admin.php:729
+msgid "New relic settings have been updated."
+msgstr "New relic postavke su ažurirane."
+
+#: Generic_Plugin_Admin.php:728
+msgid "Post successfully purged."
+msgstr "Objava je uspješno pročišćena."
+
+#: Generic_Plugin_Admin.php:727
+msgid "Attachment successfully purged."
+msgstr "Privitak je uspješno pročišćen."
+
+#: Generic_Plugin_Admin.php:726
+msgid "Preview settings successfully deployed. Preview mode remains enabled until it's disabled. Continue testing new settings or disable preview mode if done."
+msgstr "Postavke pretpregleda su uspješno postavljena. Režim pretpregleda ostaje uključen, dok se ne isključi. Nastavite sa testiranjem novih postavki, ili isključite režim pretpregleda, ako ste završili."
+
+#: Generic_Plugin_Admin.php:725
+msgid "Preview mode was successfully disabled"
+msgstr "Režim pretpregleda je uspješno isključen."
+
+#: Generic_Plugin_Admin.php:724
+msgid "Preview mode was successfully enabled"
+msgstr "Režim pretpregleda je uspješno isključen."
+
+#: Generic_Plugin_Admin.php:723
+msgid "Settings successfully restored."
+msgstr "Postavke su uspješno vraćene."
+
+#: Generic_Plugin_Admin.php:722
+msgid "Settings successfully imported."
+msgstr "Postavke su uspješno uvežene."
+
+#: Generic_Plugin_Admin.php:721
+msgid "The support request has been successfully sent."
+msgstr "Zahtjev za podršku je uspješno poslan."
+
+#: Generic_Plugin_Admin.php:719
+msgid "Varnish servers successfully purged."
+msgstr "Vanish poslužitelji su uspješno pročišćeni."
+
+#: Generic_Plugin_Admin.php:718
+msgid "Media Query string has been successfully updated."
+msgstr "Medijski upitni niz je uspješno ažuriran."
+
+#: Generic_Plugin_Admin.php:717
+msgid "Minify cache successfully emptied."
+msgstr "Minify predmemorija je uspješno ispražnjena."
+
+#: Generic_Plugin_Admin.php:716
+msgid "Fragment cache successfully emptied."
+msgstr "Fragmentna predmemorija je uspješno ispražnjena."
+
+#: Generic_Plugin_Admin.php:715
+msgid "Object cache successfully emptied."
+msgstr "Objektna predmemorija je uspješno ispražnjena."
+
+#: Generic_Plugin_Admin.php:714
+msgid "Database cache successfully emptied."
+msgstr "Predmemorija baze podataka je uspješno ispražnjena."
+
+#: Generic_Plugin_Admin.php:713
+msgid "Page cache successfully emptied."
+msgstr "Predmemorija stranice je uspješno ispražnjena."
+
+#: Generic_Plugin_Admin.php:712
+msgid "Disk cache(s) successfully emptied."
+msgstr "Predmemorija(e) diska je(su) uspješno ispražnjena."
+
+#: Generic_Plugin_Admin.php:711
+msgid "Opcode cache(s) successfully emptied."
+msgstr "Opcode predmemorija(e) je(su) uspješno ispražnjena."
+
+#: Generic_Plugin_Admin.php:710
+msgid "Memcached cache(s) successfully emptied."
+msgstr "Memcached predmemorija(e) je(su) uspješno ispražnjena(e)."
+
+#: Generic_Plugin_Admin.php:709
+msgid "All caches successfully emptied."
+msgstr "Sve predmemorije su uspješno ispražnjene."
+
+#: Generic_Plugin_Admin.php:708
+msgid "Plugin configuration successfully updated."
+msgstr "Konfiguracija dodatka je uspješno ažurirana."
+
+#: Generic_Plugin_Admin.php:704
+msgid "Pull Zone could not be automatically created."
+msgstr "Nije moguće automatski kreirati Zonu povlačenja."
+
+#: Generic_Plugin_Admin.php:703
+msgid "<strong>%swp-config.php</strong> could not be written, please edit config and add:<br /><strong style=\"color:#f00;\">define('COOKIE_DOMAIN', false);</strong> before <strong style=\"color:#f00;\">require_once(ABSPATH . 'wp-settings.php');</strong>."
+msgstr "u <strong>%swp-config.php</strong> nije moguće pisati, uredite config i dodajte:<br /><strong style=\"color:#f00;\">define('COOKIE_DOMAIN', false);</strong> before <strong style=\"color:#f00;\">require_once(ABSPATH . 'wp-settings.php');</strong>."
+
+#: Generic_Plugin_Admin.php:702
+msgid "<strong>%swp-config.php</strong> could not be written, please edit config and add:<br /><strong style=\"color:#f00;\">define('COOKIE_DOMAIN', '%s');</strong> before <strong style=\"color:#f00;\">require_once(ABSPATH . 'wp-settings.php');</strong>."
+msgstr "u <strong>%swp-config.php</strong> nije moguće pisati, uredite config i dodajte:<br /><strong style=\"color:#f00;\">define('COOKIE_DOMAIN', '%s');</strong> pre <strong style=\"color:#f00;\">require_once(ABSPATH . 'wp-settings.php');</strong>."
+
+#: Generic_Plugin_Admin.php:701
+msgid "Unable to purge post."
+msgstr "Nije moguće pročistiti objavu."
+
+#: Generic_Plugin_Admin.php:700
+msgid "Unable to purge attachment."
+msgstr "Nije moguće pročistiti privitak."
+
+#: Generic_Plugin_Admin.php:699
+msgid "Default settings could not be restored. Please run <strong>chmod 777 %s</strong> to make the configuration file write-able, then try again."
+msgstr "Nije moguće vratiti izvorne postavke. Pokrenite <strong>chmod 777 %s</strong> kako bi omogućili upis u konfiguracijsku datoteku, a zatim pokušajte ponovo."
+
+#: Generic_Plugin_Admin.php:698
+msgid "Configuration file could not be imported."
+msgstr "Konfiguracijska datoteka se nije mogla uvesti."
+
+#: Generic_Plugin_Admin.php:697
+msgid "Unable to upload config file."
+msgstr "Nije moguće prenijeti konfiguracijsku datoteku."
+
+#: Generic_Plugin_Admin.php:696
+msgid "Please select config file."
+msgstr "Odaberite konfiguracijsku datoteku."
+
+#: Generic_Plugin_Admin.php:695
+msgid "Unable to send the support request."
+msgstr "Nije moguće poslati zahtjev za podršku."
+
+#: Generic_Plugin_Admin.php:694
+msgid "Please enter <acronym title=\"Secure Shell\">SSH</acronym> or <acronym title=\"File Transfer Protocol\">FTP</acronym> password for the <acronym title=\"File Transfer Protocol\">FTP</acronym> account."
+msgstr "Unesite <acronym title=\"Secure Shell\">SSH</acronym> ili <acronym title=\"File Transfer Protocol\">FTP</acronym> lozinku za <acronym title=\"File Transfer Protocol\">FTP</acronym> račun."
+
+#: Generic_Plugin_Admin.php:693
+msgid "Please enter <acronym title=\"Secure Shell\">SSH</acronym> or <acronym title=\"File Transfer Protocol\">FTP</acronym> login for the server. Create a temporary one just for this support case if needed."
+msgstr "Unesite korisničko ime za <acronym title=\"Secure Shell\">SSH</acronym> ili <acronym title=\"File Transfer Protocol\">FTP</acronym> poslužitelj. Kreirajte jedan privremeni račun samo za ovaj slučaj podrške, ako je potrebno."
+
+#: Generic_Plugin_Admin.php:692
+msgid "Please enter <acronym title=\"Secure Shell\">SSH</acronym> or <acronym title=\"File Transfer Protocol\">FTP</acronym> host for the site."
+msgstr "Unesite <acronym title=\"Secure Shell\">SSH</acronym> ili <acronym title=\"File Transfer Protocol\">FTP</acronym> host za web-stranicu.t."
+
+#: Generic_Plugin_Admin.php:691
+msgid "Please enter WP Admin password, be sure it's spelled correctly."
+msgstr "Unesite WP administratorsku lozinku, provjerite jeste li ispravno unijeli sva slova."
+
+#: Generic_Plugin_Admin.php:690
+msgid "Please enter an administrator login. Create a temporary one just for this support case if needed."
+msgstr "Unesite administratorsko korisničko ime. Kreirajte jedan privremeni račun samo za ovaj slučaj podrške, ako je potrebno."
+
+#: Generic_Plugin_Admin.php:689
+msgid "Please describe the issue in the issue description field."
+msgstr "Opišite problem u polju za opis problema (issue description)."
+
+#: Generic_Plugin_Admin.php:688
+msgid "Please enter subject in the subject field."
+msgstr "Unesite naslov u polje za naslov (subject)."
+
+#: Generic_Plugin_Admin.php:687
+msgid "Please enter your phone in the phone field."
+msgstr "Unesite vaš broj telefona u polje za telefon (phone)."
+
+#: Generic_Plugin_Admin.php:686
+msgid "Please enter valid email address in the E-Mail field."
+msgstr "Unesite vaš adresu e-pošte u polje za e-poštu."
+
+#: Generic_Plugin_Admin.php:685
+msgid "Please enter your name in the Name field"
+msgstr "Unesite vaše ime u polje za ime (Name)"
+
+#: Generic_Plugin_Admin.php:684
+msgid "Please enter the address of the site in the site <acronym title=\"Uniform Resource Locator\">URL</acronym> field."
+msgstr "Unesite adresu web-stranice u polje <acronym title=\"Uniform Resource Locator\">URL</acronym> web-stranice."
+
+#: Generic_Plugin_Admin.php:683
+msgid "Please select request type."
+msgstr "Odaberite tip zahtjeva."
+
+#: Generic_Plugin_Admin.php:681
+msgid "Fancy permalinks are disabled. Please %s it first, then re-attempt to enabling the 'Do not process 404 errors for static objects with WordPress'."
+msgstr "Lijepe stalne veze su isključene. %s ih prvo, a zatim pokušajte ponovo uključiti 'Ne obrađivati 404 greške za statičke objekte s WordPress-om (Do not process 404 errors for static objects with WordPress)'."
+
+#: Generic_Plugin_Admin.php:680
+msgid "Fancy permalinks are disabled. Please %s it first, then re-attempt to enabling enhanced disk mode."
+msgstr "Lijepe stalne veze su isključene. %s ih prvo, a zatim pokušajte ponovo uključiti režim poboljšanog diska (enhanced disk mode)."
+
+#: Generic_Plugin_Admin.php:602
+msgid "Empty Caches"
+msgstr "Isprazniti predmemorije"
+
+#: Extension_NewRelic_Plugin.php:206
+msgid "Application Monitoring using New Relic%s"
+msgstr "Nadgledanje aplikacije, koristeći New Relic%s"
+
+#: Cdn_Plugin.php:837
+msgid "Content Delivery Network via %s%s"
+msgstr "Mreža za dostavu sadržaja preko %s%s"
+
+#: Extension_FragmentCache_WpObjectCache.php:534
+msgid "Fragment Caching %d/%d fragments using %s%s"
+msgstr "Fragmentno predmemoriranje %d/%d fragmenata, koristeći %s%s"
+
+#: Minify_Plugin.php:317
+msgid "Minified using %s%s"
+msgstr "Minificiranje korištenjem %s%s"
+
+#: Extension_NewRelic_Plugin_Admin.php:158
+msgid "Please review the <a href=\"%s\">settings</a>."
+msgstr "Pregledajte <a href=\"%s\">postavke</a>."
+
+#: Extension_NewRelic_Plugin.php:158
+msgid "logged in role is rejected"
+msgstr "prijavljena uloga je odbijena"
+
+#: Extension_NewRelic_Plugin.php:148
+msgid "DONOTAUTORUM constant is defined"
+msgstr "Definirana je konstanta DONOTAUTORUM"
+
+#: Extension_NewRelic_Plugin.php:138 Extension_Swarmify_Plugin.php:104
+msgid "DOING_AJAX constant is defined"
+msgstr "Definirana je konstanta DOING_AJAX"
+
+#: Cdn_Core_Admin.php:701
+msgid "Purge from CDN"
+msgstr "Pročistiti s CDN-a"
+
+#: Cdn_Plugin.php:301
+msgid "Upgrading database"
+msgstr "Nadogradnja baze podataka"
+
+#: ObjectCache_WpObjectCache_Regular.php:913
+msgid "DONOTCACHEOBJECT constant is defined"
+msgstr "Definirana je konstanta DONOTCACHEOBJECT"
+
+#: ObjectCache_WpObjectCache_Regular.php:911
+msgid "Object caching is disabled"
+msgstr "Objektno predmemoriranje je isključeno."
+
+#: Extension_NewRelic_Service.php:182
+msgid "API Key is invalid."
+msgstr "API ključ je nevažeći."
+
+#: Extension_NewRelic_Service.php:177
+msgid "Configured license key does not match license key(s) in account: <br />%s <br />%s"
+msgstr "Konfigurirani licencni ključ ne odgovara licencnom(im) ključu(evima) u računu: <br />%s <br />%s"
+
+#: Extension_NewRelic_Service.php:159 Extension_NewRelic_Service.php:169
+msgid "Application ID is not configured. Enter/Select application name."
+msgstr "ID aplikacije nije konfiguriran. Unesite/odaberite ime aplikacije."
+
+#: Extension_NewRelic_Service.php:167
+msgid "Account ID is not configured."
+msgstr "ID računa nije konfiguriran."
+
+#: Extension_NewRelic_Service.php:153
+msgid "API Key is not configured."
+msgstr "API ključ nije konfiguriran."
+
+#: Extension_NewRelic_Service.php:164
+msgid "PHP agent is not enabled."
+msgstr "PHP agent nije omogućen."
+
+#: Extension_NewRelic_Service.php:162
+msgid "PHP module is not enabled."
+msgstr "PHP modul nije omogućen."
+
+#: Extension_NewRelic_Service.php:133
+msgid "Web Server"
+msgstr "Web poslužitelj"
+
+#: Extension_NewRelic_Service.php:97 Extension_NewRelic_Service.php:134
+msgid "Not Supported. (%s %s See %s page.)"
+msgstr "Nije podržano. (%s %s Proučite %s stranicu.)"
+
+#: Extension_NewRelic_Service.php:48
+msgid "PHP version"
+msgstr "PHP inačica"
+
+#: Extension_NewRelic_Service.php:46
+msgid "Supported"
+msgstr "Podržano"
+
+#: Generic_Plugin.php:314 Root_AdminMenu.php:106 Root_AdminMenu.php:107
+msgid "FAQ"
+msgstr "ČPP"
+
+#: Cdnfsd_CloudFront_Page_View.php:46 Cdnfsd_GeneralPage_View.php:19
+#: Cdnfsd_GeneralPage_View.php:53 Cdnfsd_GeneralPage_View.php:101
+#: Cdnfsd_GeneralPage_View.php:122 Cdnfsd_MaxCdn_Page_View.php:49
+#: Cdnfsd_MaxCdn_Popup_View_Zone.php:42 Cdnfsd_MaxCdn_Popup_View_Zone.php:57
+#: Cdnfsd_StackPath2_Page_View.php:56 Cdnfsd_StackPath_Page_View.php:50
+#: Cdnfsd_StackPath_Popup_View_Zone.php:42
+#: Cdnfsd_StackPath_Popup_View_Zone.php:50 Cdn_GeneralPage_View.php:16
+#: Cdn_GeneralPage_View.php:45 Cdn_GeneralPage_View.php:66
+#: Cdn_GeneralPage_View.php:126 Cdn_Highwinds_Page_View.php:35
+#: Cdn_Highwinds_Page_View.php:92 Cdn_Highwinds_Page_View.php:144
+#: Cdn_Highwinds_Popup_View_ConfigureCnamesForm.php:49
+#: Cdn_LimeLight_Page_View.php:63 Cdn_LimeLight_Page_View.php:95
+#: Cdn_MaxCdn_Page_View.php:56 Cdn_MaxCdn_Page_View.php:84
+#: Cdn_MaxCdn_Page_View.php:114 Cdn_MaxCdn_Page_View.php:144
+#: Cdn_MaxCdn_Page_View.php:240 Cdn_MaxCdn_Page_View.php:272
+#: Cdn_Page_View_Fsd_HeaderActions.php:20
+#: Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:18
+#: Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:43
+#: Cdn_RackSpaceCdn_Page_View.php:53 Cdn_RackSpaceCdn_Page_View.php:91
+#: Cdn_RackSpaceCdn_Page_View.php:146
+#: Cdn_RackSpaceCdn_Popup_View_ConfigureDomains.php:49
+#: Cdn_RackSpaceCloudFiles_Page_View.php:52
+#: Cdn_RackSpaceCloudFiles_Page_View.php:110
+#: Cdn_RackSpaceCloudFiles_Page_View.php:142 Cdn_StackPath2_Page_View.php:72
+#: Cdn_StackPath2_Page_View.php:103 Cdn_StackPath2_Page_View.php:134
+#: Cdn_StackPath2_Page_View.php:165 Cdn_StackPath2_Page_View.php:261
+#: Cdn_StackPath2_Page_View.php:293 Cdn_StackPath_Page_View.php:54
+#: Cdn_StackPath_Page_View.php:94 Cdn_StackPath_Page_View.php:199
+#: Cdn_StackPath_Page_View.php:231 inc/lightbox/self_test.php:122
+#: inc/lightbox/self_test.php:247 inc/lightbox/self_test.php:278
+#: inc/lightbox/self_test.php:338 inc/options/about.php:21
+#: inc/options/about.php:99 inc/options/about.php:119 inc/options/about.php:141
+#: inc/options/about.php:226 inc/options/cdn.php:67 inc/options/cdn.php:89
+#: inc/options/cdn.php:143 inc/options/cdn.php:190 inc/options/cdn.php:221
+#: inc/options/cdn.php:259 inc/options/cdn.php:291 inc/options/cdn.php:389
+#: inc/options/cdn.php:408 inc/options/cdn.php:463 inc/options/cdn.php:490
+#: inc/options/cdn.php:590 inc/options/cdn.php:670 inc/options/cdn.php:698
+#: inc/options/cdn.php:735 inc/options/cdn.php:766 inc/options/cdn.php:793
+#: inc/options/cdn.php:835 inc/options/cdn.php:837 inc/options/cdn.php:872
+#: inc/options/cdn/akamai.php:87 inc/options/cdn/akamai.php:119
+#: inc/options/cdn/att.php:61 inc/options/cdn/att.php:93
+#: inc/options/cdn/azure.php:70 inc/options/cdn/cf.php:117
+#: inc/options/cdn/cf2.php:109 inc/options/cdn/cotendo.php:68
+#: inc/options/cdn/cotendo.php:100 inc/options/cdn/edgecast.php:61
+#: inc/options/cdn/edgecast.php:93 inc/options/cdn/ftp.php:214
+#: inc/options/cdn/mirror.php:47 inc/options/cdn/mirror.php:79
+#: inc/options/cdn/rscf.php:104 inc/options/cdn/s3.php:117
+#: inc/options/cdn/s3_compatible.php:99 inc/options/common/header.php:100
+#: inc/options/install.php:146 inc/options/install.php:150
+#: inc/popup/cdn_import_library.php:57 inc/popup/cdn_purge.php:19
+#: Root_AdminMenu.php:97 Root_AdminMenu.php:100
+msgid "Content Delivery Network"
+msgstr "Mreža za dostavu sadržaja"
+
+#: Licensing_Plugin_Admin.php:252
+msgid "The W3 Total Cache license key is activated for this site."
+msgstr "W3 Total Cache licencni ključ je aktiviran za ovu web-stranicu."
+
+#: Licensing_Plugin_Admin.php:248
+msgid "The W3 Total Cache license key is deactivated for this site."
+msgstr "W3 Total Cache licencni ključ je deaktiviran za ovu web-stranicu."
+
+#: Licensing_Plugin_Admin.php:221
+msgid "The W3 Total Cache license key can't be verified."
+msgstr "Nije moguće provjeriti W3 Total Cache licencni ključ."
+
+#: Licensing_Plugin_Admin.php:193
+msgid "The W3 Total Cache license key is not active for this site."
+msgstr "W3 Total Cache licencni ključ nije aktiviran za ovu web-stranicu."
+
+#: Licensing_Plugin_Admin.php:218
+msgid "The W3 Total Cache license key is not active."
+msgstr "W3 Total Cache licencni ključ nije aktiviran."
+
+#: Licensing_Plugin_Admin.php:191
+msgid "Please enter it again."
+msgstr "Ponovno unesite."
+
+#: Licensing_Plugin_Admin.php:189
+msgid "The W3 Total Cache license key you entered is not valid."
+msgstr "W3 Total Cache licencni ključ koji ste unijeli nije ispravan."
+
+#: Generic_Environment.php:101 ObjectCache_Environment.php:137
+msgid "Yes, remove it for me"
+msgstr "Da, ukloni to za mene"
+
+#: Generic_Environment.php:99
+msgid ""
+"The Page Cache add-in file advanced-cache.php is not a W3 Total Cache drop-in.\n"
+"                    It should be removed. %s"
+msgstr ""
+"Add-in datoteka advanced-cache.php Predmemorije stranice nije W3 Total Cache drop-in.\n"
+"                    Treba ju uklonit. %s"
+
+#: Generic_Plugin_AdminRowActions.php:36 Generic_Plugin_AdminRowActions.php:55
+#: Generic_Plugin_AdminRowActions.php:75
+msgid "Purge from cache"
+msgstr "Pročistiti iz predmemorije"
+
+#: Enterprise_Dbcache_WpdbInjection_Cluster.php:668
+msgid "<strong>ERROR</strong>: WordPress %s requires MySQL 4.1.2 or higher"
+msgstr "<strong>GREŠKA</strong>: WordPress %s zahtjeva MySQL 4.1.2 ili noviju inačicu"
+
+#: DbCache_Environment.php:124
+msgid "Remove it for me"
+msgstr "Ukloni to za mene"
+
+#: DbCache_WpdbInjection_QueryCaching.php:813
+msgid "User is logged in"
+msgstr "Korisnik je prijavljen"
+
+#: DbCache_WpdbInjection_QueryCaching.php:811
+msgid "Query is rejected"
+msgstr "Upit je odbijen"
+
+#: DbCache_WpdbInjection_QueryCaching.php:809
+msgid "Short init"
+msgstr "Kratka inicijalizacija"
+
+#: DbCache_WpdbInjection_QueryCaching.php:807
+msgid "wp-admin"
+msgstr "wp-admin"
+
+#: DbCache_WpdbInjection_QueryCaching.php:805
+msgid "XMLRPC request"
+msgstr "XMLRPC zahtjev"
+
+#: DbCache_WpdbInjection_QueryCaching.php:803
+msgid "Application request"
+msgstr "Zahtjev aplikacije"
+
+#: DbCache_WpdbInjection_QueryCaching.php:801
+msgid "Doing cron"
+msgstr "Obavalja se cron"
+
+#: DbCache_WpdbInjection_QueryCaching.php:799
+msgid "Cookie is rejected"
+msgstr "Kolačić je odbijen"
+
+#: DbCache_WpdbInjection_QueryCaching.php:797
+msgid "Request URI is rejected"
+msgstr "URI zahtjeva je odbijen"
+
+#: DbCache_WpdbInjection_QueryCaching.php:795
+msgid "Doing AJAX"
+msgstr "Obavlja se AJAX"
+
+#: DbCache_WpdbInjection_QueryCaching.php:793
+msgid "DONOTCACHEDB constant is defined"
+msgstr "DONOTCACHEDB konstanta je definirana"
+
+#: DbCache_WpdbInjection_QueryCaching.php:791
+msgid "Database caching is disabled"
+msgstr "Predmemoriranje baze podataka je isključeno"
+
+#: DbCache_WpdbInjection_QueryCaching.php:773
+msgid "Request-wide"
+msgstr "Širina zahtjeva"
+
+#: Cli.php:384
+msgid "PageCache Garbage cleanup triggered successfully."
+msgstr "PageCache sakupljanje smeća je uspješno pokrenuto."
+
+#: Cli.php:368
+msgid "Files purged successfully."
+msgstr "Datoteke su uspješno pročišćene."
+
+#: Cli.php:366
+msgid "Files did not successfully purge with error %s"
+msgstr "Datoteke nisu uspješno pročišćene, uz grešku %s"
+
+#: Cli.php:339
+msgid "The query string was updated successfully."
+msgstr "Upitni niz je uspješno ažuriran."
+
+#: Cli.php:335
+msgid "updating the query string failed. with error %s"
+msgstr "ažuriranje upitnog niza nije uspjelo. Uz grešku %s"
+
+#: Cli.php:164
+msgid "The page cache is flushed successfully."
+msgstr "Predmemorija stranice je uspješno očišćena."
+
+#: Cli.php:162
+msgid "Flushing the page cache failed."
+msgstr "Čišćenje predmemorije stranice nije uspjelo."
+
+#: Cli.php:143
+msgid "This is not a valid post id."
+msgstr "Ovo nije važeći id objave."
+
+#: Cli.php:141 Cli.php:153
+msgid "The page is flushed from cache successfully."
+msgstr "Stranica je uspješno očišćena iz predmemorija."
+
+#: Cli.php:139 Cli.php:151
+msgid "Flushing the page from cache failed."
+msgstr "Čišćenje stranice iz predmemorije nije uspjelo."
+
+#: Cli.php:129
+msgid "The object cache is flushed successfully."
+msgstr "Objektna predmemorija je uspješno očišćena."
+
+#: Cli.php:127
+msgid "Flushing the object cache failed."
+msgstr "Čišćenje objektne predmemorije nije uspjelo."
+
+#: Cli.php:118
+msgid "The minify cache is flushed successfully."
+msgstr "Minify predmemorija je uspješno očišćena."
+
+#: Cli.php:116
+msgid "Flushing the minify cache failed."
+msgstr "Čišćenje minify predmemorije nije uspjelo."
+
+#: Cli.php:107
+msgid "The DB cache is flushed successfully."
+msgstr "DB predmemorija je uspješno očišćena."
+
+#: Cli.php:105
+msgid "Flushing the DB cache failed."
+msgstr "Čišćenje DB predmemorije nije uspjelo."
+
+#: Cdn_Environment.php:152
+msgid "CDN module: Required Database SQL"
+msgstr "CDN modul: Potrebni SQL baze podataka (Required Database SQL)"
+
+#: CdnEngine_Mirror_MaxCdn.php:96 CdnEngine_Mirror_MaxCdn.php:166
+#: CdnEngine_Mirror_StackPath.php:68 CdnEngine_Mirror_StackPath.php:108
+#: CdnEngine_Mirror_StackPath2.php:54 CdnEngine_Mirror_StackPath2.php:87
+msgid "Failure to pull zone: "
+msgstr "Nije uspjelo povlačenje zone:"
+
+#: CdnEngine_Mirror_MaxCdn.php:159
+msgid "Failed with error code %s. Please check your alias, consumer key, and private key."
+msgstr "Nije uspjelo, uz kod greške %s. Provjerite vaš alijas, korisnički ključ, i privatni ključ."
+
+#: CdnEngine_Mirror_MaxCdn.php:92 CdnEngine_Mirror_MaxCdn.php:161
+msgid "Failed with error code "
+msgstr "Nije uspjelo, uz kod greške"
+
+#: CdnEngine_Mirror_MaxCdn.php:90
+msgid "Failed with error code %s Please check your alias, consumer key, and private key."
+msgstr "Nije uspjelo, uz kod greške %s Provjerite vaš alijas, korisnički ključ, i privatni ključ."
+
+#: CdnEngine_Mirror_MaxCdn.php:73 CdnEngine_Mirror_MaxCdn.php:149
+msgid "No zones match site: %s or %s."
+msgstr "Ni jedna zona ne odgovara web-stranici: %s ili %s."
+
+#: CdnEngine_Mirror_MaxCdn.php:71 CdnEngine_Mirror_MaxCdn.php:147
+msgid "No zones match site: %s."
+msgstr "Ni jedna zona ne odgovara web-stranici: %s."
+
+#: CdnEngine_Mirror_MaxCdn.php:41 CdnEngine_Mirror_MaxCdn.php:116
+#: CdnEngine_Mirror_StackPath.php:41 CdnEngine_Mirror_StackPath.php:88
+msgid "Malformed Authorization Key."
+msgstr "Loše formiran autorizacijski ključ."
+
+#: CdnEngine_Mirror_MaxCdn.php:35 CdnEngine_Mirror_MaxCdn.php:110
+#: CdnEngine_Mirror_StackPath.php:33 CdnEngine_Mirror_StackPath.php:82
+#: CdnEngine_Mirror_StackPath2.php:32 CdnEngine_Mirror_StackPath2.php:68
+msgid "Empty Authorization Key."
+msgstr "Obrisati autorizacijski ključ."
+
+#: CdnEngine_Mirror_Edgecast.php:134 Cdnfsd_TransparentCDN_Engine.php:160
+msgid "Server Error"
+msgstr "Greška poslužitelja"
+
+#: CdnEngine_Mirror_Edgecast.php:126 Cdnfsd_TransparentCDN_Engine.php:156
+msgid "Invalid Request URI"
+msgstr "Nevažeći URI zahtjeva"
+
+#: CdnEngine_Mirror_Edgecast.php:122 Cdnfsd_TransparentCDN_Engine.php:152
+msgid "Authentication Failure or Insufficient Access Rights"
+msgstr "Autorizacija nije uspješna, ili su pristupna prava nedovoljna"
+
+#: CdnEngine_Mirror_Edgecast.php:118 Cdnfsd_TransparentCDN_Engine.php:148
+msgid "Invalid Request Parameter"
+msgstr "Nevažeći parametar zahtjeva"
+
+#: CdnEngine_Mirror_Edgecast.php:44
+msgid "Empty token."
+msgstr "Obrisati token."
+
+#: CdnEngine_Mirror_Edgecast.php:38
+msgid "Empty account #."
+msgstr "Obrisati račun #."
+
+#: CdnEngine_Mirror_Cotendo.php:48
+msgid "Empty zones list."
+msgstr "Isprazniti listu zona."
+
+#: CdnEngine_Mirror_Akamai.php:95 CdnEngine_Mirror_Akamai.php:100
+#: CdnEngine_Mirror_Cotendo.php:100 CdnEngine_Mirror_Edgecast.php:63
+msgid "Unable to purge (%s)."
+msgstr "Pročišćavanje nije moguće (%s)."
+
+#: CdnEngine_Mirror_Akamai.php:85 CdnEngine_Mirror_Cotendo.php:92
+msgid "Invalid response."
+msgstr "Nevažeći odgovor."
+
+#: CdnEngine_Mirror_Akamai.php:55 CdnEngine_Mirror_Cotendo.php:63
+msgid "Constructor error (%s)."
+msgstr "Greška konstruktora (%s)."
+
+#: CdnEngine_Mirror_Akamai.php:40 CdnEngine_Mirror_Cotendo.php:42
+msgid "Empty password."
+msgstr "Obrisati lozinku."
+
+#: CdnEngine_Mirror_Akamai.php:34 CdnEngine_Mirror_Cotendo.php:36
+msgid "Empty username."
+msgstr "Obrisati korisničko ime."
+
+#: Generic_Plugin_AdminCompatibility.php:103
+msgid "Network Deactivate"
+msgstr "Mrežno deaktiviranje"
+
+#: Generic_Plugin_AdminCompatibility.php:103
+#: Generic_Plugin_AdminCompatibility.php:105
+msgid "Deactivate this plugin"
+msgstr "Deaktiviraj ovaj dodatak"
+
+#: Generic_Plugin_AdminCompatibility.php:97
+msgid "The following plugins are not compatible with W3 Total Cache and will cause unintended results:"
+msgstr "Sljedeći dodaci nisu kompatibilni s W3 Total Cache-om i izazvati će neželjene posljedice:"
+
+#: Generic_AdminActions_Test.php:150
+msgid "Invalid engine."
+msgstr "Nevažeći mehanizam."
+
+#: Generic_AdminActions_Test.php:115
+msgid "Empty JAR file path."
+msgstr "Prazna putanja JAR datoteke."
+
+#: Generic_AdminActions_Test.php:113
+msgid "Empty JAVA executable path."
+msgstr "Prazna putanja JAVA izvršne datoteke."
+
+#: Generic_AdminActions_Test.php:90
+msgid "Test failed."
+msgstr "Test nije uspio."
+
+#: Generic_AdminActions_Test.php:85
+msgid "Test passed."
+msgstr "Test uspješno završen."
+
+#: Generic_AdminActions_Default.php:625
+msgid "Added by W3 Total Cache"
+msgstr "Dodao W3 Total Cache"
+
+#: Generic_AdminActions_Default.php:228
+msgid "You do not have the rights to perform this action."
+msgstr "Nemate potrebne dozvole za izvođenje ove akcije."
+
+#: Generic_AdminActions_Config.php:149
+msgid "Database Cluster configuration file has been successfully saved"
+msgstr "Konfiguracijska datoteka klastera baza podataka je uspješno snimljena."
+
+#: Cdn_AdminActions.php:478
+msgid "Created successfully."
+msgstr "Uspješno kreirano."
+
+#: Cdn_AdminActions.php:487
+msgid "Incorrect type."
+msgstr "Pogrešna vrsta."
+
+#: Cdn_AdminActions.php:433 Cdn_AdminActions.php:437 Cdn_AdminActions.php:480
+msgid "Error: %s"
+msgstr "Greška: %s"
+
+#: Cdn_AdminActions.php:430
+msgid "Test passed"
+msgstr "Test uspješno završen"
+
+#: Cdn_AdminActions.php:345
+msgid "Empty files list."
+msgstr "Prazna lista datoteka."
+
+#: Cdn_AdminActions.php:313 Cdn_AdminActions.php:326
+msgid "Content Delivery Network (CDN): Purge Tool"
+msgstr "Mreža za dostavu sadržaja (CDN): Alat za pročišćavanje"
+
+#: Cdn_AdminActions.php:257
+msgid "Custom files export"
+msgstr "Izvoz prilagođenih datoteka"
+
+#: Cdn_AdminActions.php:251
+msgid "Minify files export"
+msgstr "Izvoz minify datoteka"
+
+#: Cdn_AdminActions.php:246
+msgid "Theme files export"
+msgstr "Izvoz datoteka teme"
+
+#: Cdn_AdminActions.php:241
+msgid "Includes files export"
+msgstr "Izvoz includes datoteka"
+
+#: Cdn_AdminActions.php:195
+msgid "Modify attachment URLs"
+msgstr "Izmijeniti URL-e privitaka"
+
+#: Cdn_AdminActions.php:148
+msgid "Media Library import"
+msgstr "Uvoz medijske zbirke"
+
+#: Cdn_AdminActions.php:75
+msgid "Media Library export"
+msgstr "Izvoz medijske zbirke"
+
+#: Cdn_AdminActions.php:61
+msgid "Unsuccessful file transfer queue."
+msgstr "Lista čekanja za neuspjele prijenose datoteka."
+
+#: Cdn_AdminActions.php:55
+msgid "Number of processed queue items: %d"
+msgstr "Broj obrađenih stavki s liste čekanja: %d"
+
+#: Cdn_AdminActions.php:48
+msgid "Queue successfully emptied."
+msgstr "Lista čekanja je uspješno ispražnjena."
+
+#: Cdn_AdminActions.php:40
+msgid "File successfully deleted from the queue."
+msgstr "Datoteka je uspješno obrisana s liste čekanja."
+
+#: DbCache_Plugin.php:218 UsageStatistics_Page_View.php:311
+msgid "Database"
+msgstr "Baza podataka"
+
+#: lib/NetDNA/NetDNAPresentation.php:74
+msgid "unknown"
+msgstr "nepoznato"
+
+#: lib/NetDNA/NetDNAPresentation.php:72
+msgid "Fraud"
+msgstr "Zloupotreba"
+
+#: lib/NetDNA/NetDNAPresentation.php:70
+msgid "Suspended"
+msgstr "Suspendirano"
+
+#: lib/NetDNA/NetDNAPresentation.php:68
+msgid "Cancelled"
+msgstr "Otkazano"
+
+#: Extension_NewRelic_Widget_View_Browser.php:11
+msgid "Upgrade your New Relic account to enable more metrics."
+msgstr "Nadogradite svoj New Relic račun, kako bi omogućili više metrika."
+
+#: Extension_NewRelic_Widget_View_Apm.php:64
+msgid "Subscription level:"
+msgstr "Nivo pretplate:"
+
+#: Extension_NewRelic_Widget_View_Apm.php:60
+msgid "PHP agent:"
+msgstr "PHP agent:"
+
+#: Extension_NewRelic_Widget_View_Apm.php:51
+msgid "Database times"
+msgstr "Vremena baze podataka"
+
+#: Extension_NewRelic_Widget_View_Apm.php:45
+msgid "Web Transaction times"
+msgstr "Vremena web transakcija"
+
+#: Extension_NewRelic_Widget_View_Apm.php:39
+msgid "Page load times"
+msgstr "Vremena učitavanja stranice"
+
+#: Extension_NewRelic_Widget_View_Apm.php:37
+msgid "Top 5 slowest times"
+msgstr "5 najsporijih vremena"
+
+#: Extension_NewRelic_Widget_View_Apm.php:28
+msgid "Average times"
+msgstr "Prosječna vremena"
+
+#: Extension_NewRelic_Widget_View_NotConfigured.php:8
+msgid "You have not configured API key and Account Id."
+msgstr "Niste konfigurirali API ključ i ID računa."
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:33
+#: Cdn_StackPath2_Widget_View_Unauthorized.php:44
+#: Cdn_StackPath_Widget_View_Unauthorized.php:14
+#: Extension_Swarmify_Widget_View_NotConfigured.php:14
+msgid "Current customers"
+msgstr "Trenutni klijenti"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:29
+#: Cdn_StackPath_Widget_View_Unauthorized.php:10
+#: Extension_Swarmify_Widget_View_NotConfigured.php:10
+msgid "New customers"
+msgstr "Novi klijenti"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:74
+#: Cdn_StackPath_Widget_View_Authorized.php:63 SetupGuide_Plugin_Admin.php:1261
+msgid "File"
+msgstr "Datoteka"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:72
+#: Cdn_StackPath_Widget_View_Authorized.php:61
+msgid "Content Breakdown"
+msgstr "Prekid u sadržaju"
+
+#: Cdn_Highwinds_Widget_View.php:38
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:70
+#: Cdn_StackPath2_Widget_View_Authorized.php:32
+#: Cdn_StackPath2_Widget_View_Authorized.php:37
+#: Cdn_StackPath_Widget_View_Authorized.php:59
+#: UsageStatistics_Page_View.php:203 UsageStatistics_Page_View.php:341
+#: UsageStatistics_Page_View.php:357
+msgid "Requests"
+msgstr "Zahtjevi"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:75
+#: Cdn_StackPath_Widget_View_Authorized.php:64
+msgid "Hits"
+msgstr "Pogodci"
+
+#: Cdn_Highwinds_Widget_View.php:15
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:42
+#: Cdn_StackPath2_Widget_View_Authorized.php:19
+#: Cdn_StackPath_Widget_View_Authorized.php:31
+msgid "Reports"
+msgstr "Izvještaji"
+
+#: inc/widget/latest.php:12 inc/widget/latest_news.php:12
+msgid "This widget requires JavaScript."
+msgstr "Ovaj widget zahtjeva JavaScript."
+
+#: inc/widget/latest.php:9
+msgid "Loading&#8230;"
+msgstr "Učitavanje&#8230;"
+
+#: inc/popup/pagespeed_results.php:58
+msgid "Refresh Analysis"
+msgstr "Osvježiti analizu"
+
+#: inc/popup/pagespeed_results.php:56
+msgid "Unable to fetch Page Speed results."
+msgstr "Nije moguće preuzeti Page Speed rezultate (brzine stranice)."
+
+#: inc/popup/pagespeed_results.php:48
+msgid "Resolution:"
+msgstr "Rezolucija:"
+
+#: inc/popup/pagespeed_results.php:17
+msgid "Refresh analysis"
+msgstr "Osvježiti analizu"
+
+#: inc/popup/pagespeed_results.php:16
+msgid "Collapse all"
+msgstr "Skupiti sve"
+
+#: inc/popup/pagespeed_results.php:15
+msgid "Expand all"
+msgstr "Proširiti sve"
+
+#: inc/popup/pagespeed_results.php:11
+msgid "Page Speed Score:"
+msgstr "Rezultat provjere brzine stranice:"
+
+#: inc/popup/cdn_rename_domain.php:62
+msgid "e.g.: domain.com"
+msgstr "npr.: domena.com"
+
+#: inc/popup/cdn_rename_domain.php:59
+msgid "Domains to rename:"
+msgstr "Domena za preimenovanje:"
+
+#: Root_AdminMenu.php:119 Root_AdminMenu.php:120
+msgid "Install"
+msgstr "Instalacija"
+
+#: Root_AdminMenu.php:131 Root_AdminMenu.php:132
+msgid "About"
+msgstr "Informacije"
+
+#: inc/options/general.php:1044
+msgid "Download"
+msgstr "Preuzimanje"
+
+#: inc/popup/cdn_queue.php:24 inc/popup/cdn_queue.php:57
+#: inc/popup/cdn_queue.php:87
+msgid "Date"
+msgstr "Datum"
+
+#: inc/options/general.php:1037
+msgid "Upload"
+msgstr "Prijenos"
+
+#: inc/options/minify/csstidy2.php:23 SetupGuide_Plugin_Admin.php:908
+msgid "None"
+msgstr "Nijedno"
+
+#: inc/popup/cdn_export_file.php:38 inc/popup/cdn_export_library.php:28
+#: inc/popup/cdn_import_library.php:29 inc/popup/cdn_rename_domain.php:47
+msgid "Status:"
+msgstr "Status:"
+
+#: inc/popup/cdn_queue.php:106
+msgid "Purge queue is empty"
+msgstr "Lista čekanja za pročišćavanje je prazna"
+
+#: inc/popup/cdn_queue.php:103
+msgid "Empty purge queue"
+msgstr "Isprazniti listu čekanja za pročišćavanje"
+
+#: inc/popup/cdn_queue.php:76
+msgid "Delete queue is empty"
+msgstr "Lista čekanja za brisanje je prazna"
+
+#: inc/popup/cdn_queue.php:73
+msgid "Empty delete queue"
+msgstr "Isprazniti listu čekanja za brisanje"
+
+#: inc/popup/cdn_queue.php:46
+msgid "Upload queue is empty"
+msgstr "Lista čekanja za prijenos je prazna"
+
+#: inc/popup/cdn_queue.php:43
+msgid "Process CDN queue now"
+msgstr "Obraditi CDN listu čekanja odmah"
+
+#: inc/popup/cdn_queue.php:40
+msgid "Empty upload queue"
+msgstr "Isprazniti listu čekanja za prijenos"
+
+#: inc/popup/cdn_queue.php:23 inc/popup/cdn_queue.php:56
+#: inc/popup/cdn_queue.php:86
+msgid "Last Error"
+msgstr "Posljednja greška"
+
+#: inc/popup/cdn_queue.php:22 inc/popup/cdn_queue.php:55
+#: inc/popup/cdn_queue.php:85
+msgid "Remote Path"
+msgstr "Udaljena putanja"
+
+#: inc/popup/cdn_queue.php:21 inc/popup/cdn_queue.php:54
+#: inc/popup/cdn_queue.php:84
+msgid "Local Path"
+msgstr "Lokalna putanja"
+
+#: inc/popup/cdn_queue.php:14
+msgid "Purge queue"
+msgstr "Lista čekanja za pročišćavanje"
+
+#: inc/popup/cdn_queue.php:13
+msgid "Delete queue"
+msgstr "Lista čekanja za brisanje"
+
+#: inc/popup/cdn_queue.php:12
+msgid "Upload queue"
+msgstr "Lista čekanja za prijenos"
+
+#: inc/popup/cdn_queue.php:10
+msgid "This tool lists the pending file uploads and deletions."
+msgstr "Ovaj alat prikazuje listu prijenosa i brisanja datoteka, koja su na čekanju."
+
+#: inc/popup/cdn_purge.php:58
+msgid "Files to purge:"
+msgstr "Datoteke za pročišćavanje:"
+
+#: inc/popup/cdn_purge.php:42
+msgid "the specific file with its extension, with the specific parameters."
+msgstr "određena datoteka, sa svojom ekstenzijom, s određenim parametrima."
+
+#: inc/popup/cdn_purge.php:41
+msgid "the specific file with its extension, with all variation of parameters."
+msgstr "određena datoteka, sa svojom ekstenzijom, i sa svim varijantama parametara."
+
+#: inc/popup/cdn_purge.php:40
+msgid "the specific file with its extension, and without parameters."
+msgstr "određena datoteka, sa svojom ekstenzijom, i bez parametara."
+
+#: inc/popup/cdn_purge.php:39
+msgid "the specific file (when the file does not have an extension), and without parameters."
+msgstr "određena datoteka (kada datoteka nema ekstenziju), i bez parametara."
+
+#: inc/popup/cdn_purge.php:38
+msgid "all files in the directory whose extension is \"jpg\"."
+msgstr "sve datoteke u mapi, čija ekstenzija je \"jpg\"."
+
+#: inc/popup/cdn_purge.php:37
+msgid "all files in the directory with no extension, with all parameter variations."
+msgstr "sve datoteke u mapi, bez ekstenzije, sa svim varijacijama parametara."
+
+#: inc/popup/cdn_purge.php:36
+msgid "the directory itself (only when accessed directly without any file)."
+msgstr "sama mapa (samo kada mu se pristupa direktno, bez ikakve datoteke)."
+
+#: inc/popup/cdn_import_library.php:90
+msgid "Add the following directives to your .htaccess file or if there are several hundred they should be added directly to your configuration file:"
+msgstr "Dodaj sljedeće direktive u vašu .htaccess datoteku, ili, ako ih ima nekoliko stotina, treba ih dodati direktno u vaš konfiguracijsku datoteku:"
+
+#: inc/popup/cdn_import_library.php:42
+msgid "Create a list of permanent (301) redirects for use in your site's .htaccess file"
+msgstr "Kreirati listu stalnih (301) preusmjeravanja, za korištenje u .htaccess datoteci vaše web-stranice"
+
+#: inc/popup/cdn_import_library.php:21 inc/popup/cdn_rename_domain.php:39
+msgid "Total posts:"
+msgstr "Ukupno objava:"
+
+#: inc/popup/cdn_import_library.php:18
+msgid "This tool will copy post or page attachments into the Media Library allowing WordPress to work as intended."
+msgstr "Ovaj alat će kopirati privitke iz objava, ili stranica, u medijsku zbirku, omogućujući WordPressu da radi kako treba."
+
+#: inc/popup/cdn_export_library.php:20
+msgid "Total media library attachments:"
+msgstr "Ukupno priloga za medijsku zbirku:"
+
+#: inc/popup/cdn_export_file.php:52 inc/popup/cdn_export_library.php:42
+#: inc/popup/cdn_import_library.php:79 inc/popup/cdn_rename_domain.php:68
+msgid "Start"
+msgstr "Start"
+
+#: inc/popup/cdn_export_file.php:46 inc/popup/cdn_export_library.php:36
+#: inc/popup/cdn_import_library.php:37 inc/popup/cdn_rename_domain.php:55
+msgid "Last response:"
+msgstr "Posljednji odziv:"
+
+#: inc/popup/cdn_export_file.php:42 inc/popup/cdn_export_library.php:32
+#: inc/popup/cdn_import_library.php:33 inc/popup/cdn_rename_domain.php:51
+msgid "Time elapsed:"
+msgstr "Proteklo vrijeme:"
+
+#: inc/popup/cdn_export_file.php:34 inc/popup/cdn_export_library.php:24
+#: inc/popup/cdn_import_library.php:25 inc/popup/cdn_rename_domain.php:43
+msgid "Processed:"
+msgstr "Obrađeno:"
+
+#: inc/popup/cdn_export_file.php:30
+msgid "Total files:"
+msgstr "Ukupno datoteka:"
+
+#: inc/popup/cdn_export_file.php:27 inc/popup/cdn_export_library.php:17
+msgid "This tool will upload files of the selected type to content delivery network provider."
+msgstr "Ovaj alat će prenijeti datoteke izabrane vrste pružatelju mreže za dostavu sadržaja."
+
+#: inc/options/support.php:15
+msgid "Request premium services, suggest a feature or submit a bug using the form below:"
+msgstr "Zatražite premium usluge, predložite značajku, ili pošaljite informaciju o programskoj grešci, koristeći donju formu:"
+
+#: Generic_WidgetServices_View.php:35
+msgid "Buy now"
+msgstr "Kupi odmah"
+
+#: CacheGroups_Plugin_Admin_View.php:229
+msgid "No groups added. All referrers recieve the same page and minify cache results."
+msgstr "Ni jedna grupa nije dodana. Svi referenti dobivaju istu stranicu i rezultate minify predmemorije."
+
+#: CacheGroups_Plugin_Admin_View.php:222
+msgid "Specify the referrers for this group. Remember to escape special characters like spaces, dots or dashes with a backslash. Regular expressions are also supported."
+msgstr "Navedite referente za ovu grupu. Ne zaboravite izbaciti specijalne znakove, kao što su razmaci, točke ili crtice sa kosom crtom. Regularni izrazi su također podržani."
+
+#: CacheGroups_Plugin_Admin_View.php:218 Generic_ConfigLabels.php:20
+msgid "Referrers:"
+msgstr "Referenti:"
+
+#: CacheGroups_Plugin_Admin_View.php:213
+msgid "A 302 redirect is used to send this group of referrers to another hostname (domain)."
+msgstr "302 preusmjeravanje se koristi za slanje ove grupe referenata drugom host imenu (domeni)."
+
+#: CacheGroups_Plugin_Admin_View.php:204
+msgid "Assign this group of referrers to a specific theme. Selecting \"Pass-through\" allows any plugin(s) (e.g. referrer plugins) to properly handle requests for these referrers. If the \"redirect users to\" field is not empty, this setting is ignored."
+msgstr "Dodijelite ovu grupu referenata određenoj temi. Biranje opcije \"Proslijediti (Pass-through)\" omogućuje bilo kojem dodatku (npr. referent dodacima) da pravilno obrade zahtjeve za ove referente. Ako polje \"preusmjeriti korisnike na (redirect users to)\" nije prazno, ova postavka se ignorira."
+
+#: CacheGroups_Plugin_Admin_View.php:84 CacheGroups_Plugin_Admin_View.php:199
+msgid "-- Pass-through --"
+msgstr "-- Proslijediti --"
+
+#: CacheGroups_Plugin_Admin_View.php:181
+msgid "Delete group"
+msgstr "Obrisati grupu"
+
+#: CacheGroups_Plugin_Admin_View.php:164
+msgid "of referrers by specifying names in the referrers field. Assign a set of referrers to use a specific theme, redirect them to another domain, create referrer groups to ensure that a unique cache is created for each referrer group. Drag and drop groups into order (if needed) to determine their priority (top -&gt; down)."
+msgstr "referenata navođenjem imena u polju referenti (refferrers ). Dodijelite setu referenata korištenje određene teme, preusmjerite ih na drugu domenu, kreirajte grupe referenata kako bi osigurali da se jedinstvena predmemorija napravi za svaku grupu referanata. Poredajte grupe po redoslijedu (ako je potrebno) kako bi odredili njihov prioritet (gore -&gt; dolje)."
+
+#: Extension_FragmentCache_Page_View.php:68
+msgid "Registered fragment groups:"
+msgstr "Registrirane grupe fragmenata:"
+
+#: Extension_FragmentCache_Page_View.php:15
+#: Extension_FragmentCache_Page_View.php:65
+#: Extension_NewRelic_Widget_View_Apm.php:14
+msgid "Overview"
+msgstr "Pregled"
+
+#: Extension_CloudFlare_Page_View.php:43
+#: Extension_FragmentCache_Page_View.php:59
+msgid "if needed."
+msgstr "ako je potrebno."
+
+#: Extension_FragmentCache_Page_View.php:58
+msgid "Empty the entire cache"
+msgstr "Isprazniti cijelu predmemoriju"
+
+#: inc/options/pgcache.php:797
+msgid "Specify additional page headers to cache."
+msgstr "Navedite dodatna zaglavlja stranice za predmemoriju."
+
+#: inc/options/pgcache.php:670
+msgid "Never cache pages that use the specified cookies."
+msgstr "Nikada ne predmemorirati stranice koje koriste navedene \"kolačiće\"."
+
+#: Extension_FragmentCache_Page_View.php:118
+msgid "Specify fragment groups that should be managed by W3 Total Cache. Enter one action per line comma delimited, e.g. (group, action1, action2). Include the prefix used for a transient by a theme or plugin."
+msgstr "Navedite grupe fragmenata kojima bi trebao upravljati W3 Total Cache. Unesite jednu akciju po retku odvojene zarezom, npr. (grupa, akcija1, akcija2). Navedite i prefiks koji tema ili dodataka koriste za transient."
+
+#: Extension_FragmentCache_Page_View.php:80
+msgid "No groups have been registered."
+msgstr "Nema registriranih grupa."
+
+#: Extension_FragmentCache_Page_View.php:78
+msgid "The groups above will be flushed upon setting changes."
+msgstr "Gore navedene grupe biti će pročišćene pri promjeni postavki."
+
+#: inc/options/pgcache.php:661
+msgid "Never send cache pages for these user agents."
+msgstr "Nikada ne slati predmemorirane stranice za ove korisničke agente."
+
+#: inc/options/pgcache.php:404
+msgid "Specify a regular expression that matches your sitemaps."
+msgstr "Navedite regularni izraz koji odgovara vašim mapama stranica."
+
+#: inc/options/pgcache.php:397
+msgid "Specify additional pages to purge. Including parent page in path. Ex: parent/posts."
+msgstr "Navedite dodatne stranice koje treba pročistiti. Uključujući matičnu stranicu u putanji. Primjer: matično/objave."
+
+#: inc/options/pgcache.php:315
+msgid "Purge Policy: "
+msgstr "Način pročišćavanja:"
+
+#: inc/options/pgcache.php:257
+msgid "Limit the number of pages to create per batch. Fewer pages may be better for under-powered servers."
+msgstr "Ograničavanje broja stranica koje će se kreirati po paketu. Manji broj stranica može biti bolji za poslužitelje manje snage."
+
+#: inc/options/pgcache.php:248
+msgid "The number of seconds to wait before creating another set of cached pages."
+msgstr "Broj sekundi koje treba pričekati prije kreiranja drugog seta predmemoriranih stranica."
+
+#: inc/options/pgcache.php:156
+msgid "Select user roles that should not receive cached pages:"
+msgstr "Odaberite korisničke uloge koje ne trebaju dobiti predmemorirane stranice:"
+
+#: inc/options/pgcache.php:150
+msgid "Unauthenticated users may view a cached version of the last authenticated user's view of a given page. Disabling this option is not recommended."
+msgstr "Neautorizirani korisnici mogu vidjeti predmemoriranu inačicu pregleda date stranice od posljednjeg autoriziranog korisnika. Isključivanje ove opcije se ne preporučuje."
+
+#: inc/options/pgcache.php:144
+msgid "Reduce server load by caching 404 pages. If the disk enhanced method of disk caching is used, 404 pages will be returned with a 200 response code. Use at your own risk."
+msgstr "Smanjiti opterećenje poslužitelja predmemoriranjem 404 stranica. Ako se koristi disk i poboljšana metoda disk predmemoriranja, 404 stranice će se vraćati s odzivnim kodom 200. Ovo koristite na osobni rizik."
+
+#: inc/options/pgcache.php:138
+msgid "Search result (and similar) pages will be cached if enabled."
+msgstr "Ako se omogući, stranice s rezultatima pretrage (i slične) će se predmemorirati."
+
+#: inc/options/pgcache.php:548
+msgid "Reject HEAD requests:"
+msgstr "Odbij HEAD zahtjeve:"
+
+#: inc/options/pgcache.php:543
+msgid "Resolve issues incorrect odd character encoding that may appear in cached pages."
+msgstr "Riješi probleme neispravnih prikaza znakova koji se mogu pojaviti na predmemoriranim stranicama."
+
+#: inc/options/pgcache.php:540
+msgid "Charset:"
+msgstr "Kodna tablica:"
+
+#: inc/options/pgcache.php:510
+msgid "Enables support for WordPress functionality in fragment caching for the page caching engine. Use of this feature may increase response times."
+msgstr "Omogućuje podršku za WordPress funkcionalnost u fragmentnom predmemoriranju za mehanizam predmemorije stranica. Korištenje ove mogućnosti može povećati vrijeme odziva."
+
+#: inc/options/pgcache.php:506
+msgid "Late initialization:"
+msgstr "Kasna inicijalizacija:"
+
+#: inc/options/pgcache.php:320
+msgid "Specify the pages and feeds to purge when posts are created, edited, or comments posted. The defaults are recommended because additional options may reduce server performance:"
+msgstr "Navedite stranice i kanale koje treba pročistiti kada su objave kreirane, uređene ili kad se objave komentari. Preporučuju se izvorne postavke jer dodatne opcije mogu smanjiti performanse poslužitelja."
+
+#: inc/options/pgcache.php:71
+msgid "By default the front page is cached when using static front page in reading settings."
+msgstr "Po izvornim postavkama, prva stranica se predmemorira kada se koristi statička prva stranica u postavkama čitanja."
+
+#: inc/options/pgcache.php:64
+msgid "For many blogs this is your most visited page, it is recommended that you cache it."
+msgstr "Za mnoge blogove, ovo je vaša najposjećenija stranica, preporučljivo je da je predmemorirate."
+
+#. translators: 1 HTML strong tag containing PageCache Engine name, 2 HTML span
+#. tag containing PageCache Engine enabled/disabled.
+#: inc/options/pgcache.php:16
+msgid "Page caching via %1$s is currently %2$s"
+msgstr "Predmemoriranje stranica preko %1$s je trenutno %2$s"
+
+#: inc/options/objectcache.php:93
+msgid "Groups that should not be cached."
+msgstr "Grupe koje ne treba predmemorirati."
+
+#: inc/options/objectcache.php:85
+msgid "Groups shared amongst sites in network mode."
+msgstr "Grupe koje se dijele između web-stranica u mrežnom režimu."
+
+#. translators: 1 HTML strong tag containing Objectcache Engine value, 2 HTML
+#. span tag containing Objectcache Engine enabled/disabled value.
+#: inc/options/objectcache.php:16
+msgid "Object caching via %1$s is currently %2$s"
+msgstr "Objektno predmemoriranje preko %1$s je trenutno %2$s"
+
+#: Extension_NewRelic_Page_View_Apm.php:337
+msgid "This is required when using New Relic on a network install to set the proper names for sites."
+msgstr "Ovo je potrebno kada se New Relic koristi na mrežnoj instalaciji, kako bi se ispravno podesila imena za web-stranice."
+
+#: Extension_NewRelic_Page_View_Apm.php:195 Extension_Swarmify_Page_View.php:44
+msgid "Behavior Settings"
+msgstr "Postavke ponašanja"
+
+#: Extension_NewRelic_Page_View_Apm.php:187
+msgid "How many minutes data retrieved from New Relic should be stored. Minimum is 1 minute."
+msgstr "Koliko minuta se trebaju čuvati podaci dobiveni od New Relica. Minimum je 1 minuta."
+
+#: Extension_NewRelic_Page_View_Apm.php:175
+msgid "Dashboard Settings"
+msgstr "Postavke kontrolne ploče"
+
+#: Extension_NewRelic_Page_View_Apm.php:169
+msgid "Application settings are only visible when New Relic is enabled"
+msgstr "Postavke aplikacije su vidljive samo kada je New Relic uključen"
+
+#: Extension_NewRelic_Page_View_Apm.php:28
+msgid "Application Settings"
+msgstr "Postavke aplikacije"
+
+#: CacheGroups_Plugin_Admin.php:48 CacheGroups_Plugin_Admin_View.php:336
+msgid "Per the above, make sure that visitors are notified about the cookie as per any regulations in your market."
+msgstr "Vezano za gore navedeno, provjerite jesu li posjetioci upozoreni o \"kolačiću\", u skladu sa svim propisima na vašem tržištu."
+
+#: CacheGroups_Plugin_Admin.php:42
+msgid "Enabling even a single user agent group will set a cookie called \"w3tc_referrer.\" It is used to ensure a consistent user experience across page views. Make sure any reverse proxy servers etc respect this cookie for proper operation."
+msgstr "Uključivanje čak i grupe sa jednim korisničkim agentom, postaviti će \"kolačić\" nazvan \"w3tc_referrer.\" On se koristi kako bi se osigurao dosljedan korisnički doživljaj kroz pregled cijele web-stranice. Provjerite da li svi reverse proxy poslužitelji, itd. poštuju ovaj \"kolačić\", za pravilno funkcioniranje."
+
+#: CacheGroups_Plugin_Admin_View.php:124
+msgid "No groups added. All user agents recieve the same page and minify cache results."
+msgstr "Ni jedna grupa nije dodana. Svi korisnički agenti dobivaju istu stranicu i umanjuju se rezultati predmemorije."
+
+#: CacheGroups_Plugin_Admin_View.php:116
+msgid "Specify the user agents for this group. Remember to escape special characters like spaces, dots or dashes with a backslash. Regular expressions are also supported."
+msgstr "Navedite korisničke agente za ovu grupu. Zapamtite izbaciti posebne znakove, kao što su razmaci, točke ili crtice sa kosom crtom. Regularni izrazi su također podržani."
+
+#: CacheGroups_Plugin_Admin_View.php:109
+msgid "User agents:"
+msgstr "Korisnički agenti:"
+
+#: CacheGroups_Plugin_Admin_View.php:104
+msgid "A 302 redirect is used to send this group of users to another hostname (domain); recommended if a 3rd party service provides a mobile version of your site."
+msgstr "302 preusmjeravanje se koristi kako bi se ova grupa korisnika poslala drugom host imenu (domeni); ovo se preporučuje ako servis treće strane poslužuju mobilnu inačicu vaše web-stranice."
+
+#: CacheGroups_Plugin_Admin_View.php:96 CacheGroups_Plugin_Admin_View.php:209
+msgid "Redirect users to:"
+msgstr "Preusmjeriti korisnike na:"
+
+#: CacheGroups_Plugin_Admin_View.php:90
+msgid "Assign this group of user agents to a specific theme. Selecting \"Pass-through\" allows any plugin(s) (e.g. mobile plugins) to properly handle requests for these user agents. If the \"redirect users to\" field is not empty, this setting is ignored."
+msgstr "Dodijelite ovu grupu agenata određenoj temi. Biranje opcije \"Proslijediti (Pass-through)\" omogućuje bilo ko(ji)m dodatku(cima) (npr. mobilni dodaci) da pravilno obrade zahtjeve za ove korisničke agente. Ako polje \"preusmjeriti korisnike na (redirect users to)\" nije prazno, ova postavka se ignorira."
+
+#: CacheGroups_Plugin_Admin_View.php:65 CacheGroups_Plugin_Admin_View.php:186
+#: CacheGroups_Plugin_Admin_View.php:269
+msgid "Enabled:"
+msgstr "Uključeno:"
+
+#: CacheGroups_Plugin_Admin_View.php:54 CacheGroups_Plugin_Admin_View.php:178
+#: CacheGroups_Plugin_Admin_View.php:256
+msgid "Group name:"
+msgstr "Ime grupe:"
+
+#: CacheGroups_Plugin_Admin_View.php:40
+msgid "of user agents by specifying names in the user agents field. Assign a set of user agents to use a specific theme, redirect them to another domain or if an existing mobile plugin is active, create user agent groups to ensure that a unique cache is created for each user agent group. Drag and drop groups into order (if needed) to determine their priority (top -&gt; down)."
+msgstr "korisničkih agenata, navodeći imena u polju Korisnički agenti (user agents). Dodijelite skup korisničkih agenata određenoj temi, preusmjerite ih na drugu domenu, ili ako je postojeći mobilni dodatak aktivan, napravite grupe korisničkih agenata, kako bi osigurali da se jedinstvena predmemorija kreira za svaku od grupa korisničkih agenata. Složite s povuci i ispusti, grupe po redoslijedu (ako je potrebno), kako bi im odredili prioritet (gore -&gt; dolje)."
+
+#: CacheGroups_Plugin_Admin_View.php:39 CacheGroups_Plugin_Admin_View.php:164
+#: CacheGroups_Plugin_Admin_View.php:242
+msgid "Create a group"
+msgstr "Kreirati grupu"
+
+#: inc/options/minify.php:973
+msgid "Specify external files/libraries that should be combined."
+msgstr "Navedite vanjske datoteke/biblioteke koje se trebaju kombinirati."
+
+#: inc/options/minify.php:965
+msgid "Specify user agents that will never receive minified content."
+msgstr "Navedite korisničke agente koji nikada neće dobiti minificirani sadržaj."
+
+#: inc/options/minify.php:879
+msgid "Specify the interval between download and update of external files in the minify cache. Hint: 6 hours is 21600 seconds. 12 hours is 43200 seconds. 24 hours is 86400 seconds."
+msgstr "Navedite interval između preuzimanja i ažuriranja vanjskih datoteka u minify predmemoriji. Natuknica: 6 sati je 21600 sekundi. 12 sati je 43200 sekundi. 24 sata je 86400 sekundi."
+
+#: inc/options/minify.php:809
+msgid "Add a style sheet"
+msgstr "Dodati stilski predložak"
+
+#: inc/options/minify.php:554
+msgid "Add a script"
+msgstr "Dodati skriptu"
+
+#: inc/options/minify.php:736
+msgid "Files are minified by template. First select the theme to manage, then add style sheets used in all templates to the \"All Templates\" group. Use the menu above to manage style sheets unique to a specific template. If necessary drag &amp; drop to resolve dependency issues (due to incorrect order)."
+msgstr "Datoteke se smanjuju po predlošku. Prvo odaberite temu za upravljanje, zatim dodajte skripte koje se koriste u svim predlošcima u grupu \"Svi predlošci\". Koristite gornji izbornik kako bi organizirali skripte jedinstvene za određeni predložak. Ako je neophodno, povucite i ispustite (drag &amp; drop) kako bi riješili pitanja zavisnosti (zbog nepravilnog redoslijeda)."
+
+#: inc/options/minify.php:473
+msgid "Files are minified by template. First select the theme to manage, then add scripts used in all templates to the \"All Templates\" group. Use the menu above to manage scripts unique to a specific template. If necessary drag &amp; drop to resolve dependency issues (due to incorrect order)."
+msgstr "Datoteke se minificiraju po predlošku. Prvo odaberite temu za upravljanje, zatim dodajte skripte koje se koriste u svim predlošcima u grupu \"Svi predlošci\". Koristite gornji izbornik kako bi organizirali skripte jedinstvene za određeni predložak. Ako je neophodno, povucite i ispustite (drag &amp; drop) kako bi riješili pitanja zavisnosti (zbog nepravilnog redoslijeda)."
+
+#: CacheGroups_Plugin_Admin_View.php:78 CacheGroups_Plugin_Admin_View.php:195
+#: inc/options/minify.php:458 inc/options/minify.php:721
+msgid "Theme:"
+msgstr "Tema:"
+
+#: inc/options/minify.php:355 inc/options/minify.php:374
+#: inc/options/minify.php:392
+msgid "Non-blocking using \"asyncsrc\""
+msgstr "Ne-blokirajuće koristeći \"asyncsrc\""
+
+#: inc/options/minify.php:354 inc/options/minify.php:373
+#: inc/options/minify.php:391
+msgid "Non-blocking using \"extsrc\""
+msgstr "Ne-blokirajuće koristeći \"extsrc\""
+
+#: inc/options/minify.php:352 inc/options/minify.php:371
+#: inc/options/minify.php:390
+msgid "Non-blocking using \"defer\""
+msgstr "Ne-blokirajuće koristeći \"defer\""
+
+#: inc/options/minify.php:351 inc/options/minify.php:370
+#: inc/options/minify.php:389
+msgid "Non-blocking using \"async\""
+msgstr "Ne-blokirajuće koristeći \"async\""
+
+#: inc/options/minify.php:350 inc/options/minify.php:369
+#: inc/options/minify.php:388
+msgid "Non-blocking using JS"
+msgstr "Ne-blokirajuće koristeći JS"
+
+#: inc/options/minify.php:349 inc/options/minify.php:368
+#: inc/options/minify.php:387
+msgid "Default (blocking)"
+msgstr "Izvorno (blokirajuće)"
+
+#: inc/options/minify.php:314
+msgid "Operations in areas:"
+msgstr "Operacije u području:"
+
+#: inc/options/minify.php:233
+msgid "Do not remove comments that contain these terms."
+msgstr "Ne uklanjati komentare koji sadrže ove pojmove."
+
+#: inc/options/minify.php:150
+msgid "Notify when minify cache creation errors occur."
+msgstr "Obavijestiti kada se pojavi greška kreiranja minificirane predmemorije."
+
+#: inc/options/minify.php:148
+msgid "Both Admin &amp; Email Notification"
+msgstr "Obje obavijesti, administratorske i e-poštom"
+
+#: inc/options/minify.php:147
+msgid "Email Notification"
+msgstr "Obavijesti e-poštom"
+
+#: inc/options/minify.php:146
+msgid "Admin Notification"
+msgstr "Administratorske obavijesti"
+
+#: inc/options/minify.php:136
+msgid "Authenticated users will not receive minified pages if this option is enabled."
+msgstr "Autorizirani korisnici neće dobivati minificirane stranice, ako je ova opcija uključena."
+
+#: inc/options/minify.php:66
+msgid "wizard."
+msgstr "čarobnjak."
+
+#: inc/options/minify.php:65
+msgid "help"
+msgstr "pomoć"
+
+#: inc/options/minify.php:64
+msgid "Get minify hints using the"
+msgstr "Dobijte savijete o minifikaciji koristeći"
+
+#: inc/options/minify/yuijs2.php:40
+msgid "symbols (set to 0 to disable)"
+msgstr "simboli (za isključivanje postaviti na vrijednost 0)"
+
+#: inc/options/minify/yuijs2.php:18 Minify_ConfigLabels.php:42
+#: Minify_ConfigLabels.php:77
+msgid "Path to JAR file:"
+msgstr "Putanja do JAR datoteke:"
+
+#: inc/options/minify/yuijs2.php:9 Minify_ConfigLabels.php:41
+#: Minify_ConfigLabels.php:76
+msgid "Path to JAVA executable:"
+msgstr "Putanja do JAVA izvršne datoteke:"
+
+#: inc/options/minify/yuicss2.php:38 inc/options/minify/yuijs2.php:30
+msgid "Test YUI Compressor"
+msgstr "Testirati YUI Compressor"
+
+#: inc/options/minify/csstidy2.php:31
+msgid "Merge selectors with the same properties (fast)"
+msgstr "Spojiti selektore s istim svojstvima (brzo)"
+
+#: inc/options/minify/csstidy2.php:30
+msgid "Only seperate selectors (split at ,)"
+msgstr "Samo razdvojiti selektore (razdvojiti s ,)"
+
+#: inc/options/minify/csstidy2.php:29
+msgid "Do not change anything"
+msgstr "Ne mijenjati ništa"
+
+#: inc/options/minify/csstidy2.php:25
+msgid "Uppercase"
+msgstr "Velika slova"
+
+#: inc/options/minify/csstidy2.php:24
+msgid "Lowercase"
+msgstr "Mala slova"
+
+#: inc/options/minify/csstidy2.php:19
+msgid "All optimisations"
+msgstr "Sve optimizacije"
+
+#: inc/options/minify/csstidy2.php:17
+msgid "Safe optimisations"
+msgstr "Sigurne optimizacije"
+
+#: inc/options/minify/csstidy2.php:16
+msgid "Don't optimise"
+msgstr "Ne optimizirati"
+
+#: inc/options/minify/csstidy2.php:12
+msgid "Low (higher readability)"
+msgstr "Niže (bolja čitljivost)"
+
+#: inc/options/minify/csstidy2.php:11
+msgid "Standard (balance between readability and size)"
+msgstr "Standardno (balans između čitljivosti i veličine)"
+
+#: inc/options/minify/csstidy2.php:10
+msgid "High (moderate readability, smaller size)"
+msgstr "Visok nivo (srednja čitljivost, manja veličina)"
+
+#: inc/options/minify/csstidy2.php:9
+msgid "Highest (no readability, smallest size)"
+msgstr "Najviši nivo (nečitljivo, najmanja veličina)"
+
+#: inc/options/minify/ccjs2.php:51 inc/options/minify/googleccjs2.php:20
+msgid "Test Closure Compiler"
+msgstr "Testirati Closure Compiler"
+
+#: inc/options/minify/ccjs2.php:11 inc/options/minify/googleccjs2.php:11
+msgid "Advanced optimizations"
+msgstr "Napredne optimizacije"
+
+#: inc/options/minify/ccjs2.php:10 inc/options/minify/googleccjs2.php:10
+msgid "Simple optimizations"
+msgstr "Jednostavne optimizacije"
+
+#: inc/options/minify/ccjs2.php:9 inc/options/minify/googleccjs2.php:9
+msgid "Whitespace only"
+msgstr "Samo prazan prostor"
+
+#: inc/options/install.php:412
+msgid "Restarting the web server will empty the opcode cache, which means it will have to be rebuilt over time and your site's performance will suffer during this period. Still, an opcode cache should be installed in any case to maximize WordPress performance."
+msgstr "Ponovno pokretanje web poslužitelja isprazniti će opcode predmemoriju, što znači da će on morati ponovo kreirati tokom vremena i performanse vaše web-stranice će opadati u toku tog perioda. Ipak, opcode predmemorija u svakom slučaju treba se instalira da maksimizira performanse WordPressa."
+
+#: inc/options/install.php:411
+msgid "In the case where Apache is not used, the .htaccess file located in the root directory of the WordPress installation, wp-content/w3tc/pgcache/.htaccess and wp-content/w3tc/min/.htaccess contain directives that must be manually created for your web server software."
+msgstr "U slučaju kada se ne koristi Apache, datoteka .htaccess, smještena u osnovnoj mapi WordPress instalacije, wp-content/w3tc/pgcache/.htaccess i wp-content/w3tc/min/.htaccess sadrži direktive koje se moraju manualno napraviti za softver vašeg web poslužitelja."
+
+#: inc/options/common/header.php:369 inc/options/install.php:282
+msgid "Other"
+msgstr "Drugo"
+
+#: inc/options/install.php:14
+msgid "Set the permissions of wp-content/ back to 755, e.g.:"
+msgstr "Postavite dozvole za wp-content/ ponovo na 755, npr.:"
+
+#: inc/options/general.php:1052
+msgid "Revert all settings to the defaults. Any settings staged in preview mode will not be modified."
+msgstr "Vraćanje svih postavki na izvorne. Sve postavke, postavljene u režimu prethodnog pregleda, neće biti izmijenjene."
+
+#: inc/options/general.php:1051
+msgid "Restore Default Settings"
+msgstr "Vratiti izvorne postavke"
+
+#: inc/options/general.php:1049
+msgid "Reset configuration:"
+msgstr "Ponovno postavljenje konfiguracije:"
+
+#: inc/options/general.php:1045
+msgid "Download the active settings file."
+msgstr "Preuzimanje datoteke s aktivnim postavkama."
+
+#: inc/options/general.php:1042
+msgid "Export configuration:"
+msgstr "Izvoz konfiguracije:"
+
+#: inc/options/general.php:1038
+msgid "Upload and replace the active settings file."
+msgstr "Prijenos i zamjena datoteka s aktivnim postavkama."
+
+#: inc/options/general.php:1034
+msgid "Import configuration:"
+msgstr "Uvoz konfiguracije:"
+
+#: inc/options/general.php:868
+msgid "Try this option if your hosting environment uses a network based file system for a possible performance improvement."
+msgstr "Probajte ovu opciju ako vaše hosting okruženje koristi mrežno zasnovan datotečni sistem za moguće unapređenje performansi."
+
+#: inc/options/general.php:821
+msgid "Enable file locking"
+msgstr "Uključiti zaključavanje datoteka"
+
+#: inc/options/general.php:236
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/options/extensions/list.php:64 inc/options/extensions/list.php:69
+msgid "Description"
+msgstr "Opis"
+
+#: inc/options/common/header.php:146 inc/options/general.php:901
+msgid "Debug"
+msgstr "Ispravljanje grešaka"
+
+#: Extension_CloudFlare_Page_View.php:9
+#: Extension_FragmentCache_Page_View.php:12 Extension_Genesis_Page_View.php:9
+#: inc/options/cdn.php:15
+msgid "Jump to:"
+msgstr "Skoči na:"
+
+#: Extension_Amp_Page_View.php:10 Extension_ImageService_Page_View.php:51
+#: Extension_Swarmify_Page_View.php:27 inc/options/cdn.php:18
+msgid "Configuration"
+msgstr "Konfiguracija"
+
+#: Extension_FragmentCache_Page_View.php:16
+#: Extension_FragmentCache_Page_View.php:87 inc/options/cdn.php:19
+#: inc/options/cdn.php:375 inc/options/common/header.php:186
+#: inc/options/common/header.php:263 inc/options/common/header.php:275
+#: inc/options/common/header.php:285 inc/options/dbcache.php:65
+#: inc/options/minify.php:862 inc/options/objectcache.php:53
+#: inc/options/pgcache.php:503
+msgid "Advanced"
+msgstr "Napredno"
+
+#: FeatureShowcase_Plugin_Admin.php:210 inc/options/extensions/list.php:32
+#: inc/options/extensions/list.php:140 inc/options/extensions/list.php:235
+msgid "Activate"
+msgstr "Aktiviraj"
+
+#: Generic_Plugin_AdminCompatibility.php:105 inc/options/extensions/list.php:33
+#: inc/options/extensions/list.php:131 inc/options/extensions/list.php:236
+msgid "Deactivate"
+msgstr "Deaktiviraj"
+
+#: inc/options/cdn/common/cnames.php:58 inc/options/minify.php:519
+#: inc/options/minify.php:774 inc/popup/cdn_queue.php:25
+#: inc/popup/cdn_queue.php:34 inc/popup/cdn_queue.php:58
+#: inc/popup/cdn_queue.php:67 inc/popup/cdn_queue.php:88
+#: inc/popup/cdn_queue.php:97
+msgid "Delete"
+msgstr "Izbriši"
+
+#: inc/options/general.php:788
+msgid "If empty the default path will be used.."
+msgstr "Ako je polje prazno, koristiti će se izvorno zadana putanja.."
+
+#: inc/options/general.php:779
+msgid "Only one configuration file for whole network will be created and used. Recommended if all sites have the same configuration."
+msgstr "Kreirati će se i koristiti samo jedan konfiguracijska datoteka za cijelu mrežu. Ovo se preporučuje ako sve web-stranice imaju istu konfiguraciju."
+
+#: inc/options/general.php:717
+msgid "Display Google Page Speed results on the WordPress dashboard."
+msgstr "Prikazati Google Page Speed rezultate na WordPress Nadzornoj ploči."
+
+#: inc/options/general.php:689
+msgid "upgrading"
+msgstr "nadograđivanje"
+
+#: inc/options/general.php:678
+msgid "Verify license key"
+msgstr "Provjera licencnog ključa"
+
+#: Extension_NewRelic_GeneralPage_View.php:75
+#: Extension_NewRelic_Page_View_Apm.php:41
+msgid "Application name:"
+msgstr "Naziv aplikacije:"
+
+#: Generic_ConfigLabels.php:26 inc/options/common/header.php:112
+#: inc/options/general.php:453 Varnish_Plugin.php:79
+msgid "Reverse Proxy"
+msgstr "Reversni proxy"
+
+#: Cdn_Plugin_Admin.php:243
+msgid "Self-hosted / File Transfer Protocol Upload"
+msgstr "Samostalno hostani / File Transfer Protocol prijenos"
+
+#: Cdn_Plugin_Admin.php:233
+msgid "Microsoft Azure Storage"
+msgstr "Microsoft Azure Storage"
+
+#: Cdn_Plugin_Admin.php:220
+msgid "Amazon Simple Storage Service (S3)"
+msgstr "Amazon Simple Storage Service (S3)"
+
+#: Cdnfsd_Plugin_Admin.php:98 Cdn_Plugin_Admin.php:194
+msgid "MaxCDN"
+msgstr "MaxCDN"
+
+#: Cdn_Plugin_Admin.php:238
+msgid "Rackspace Cloud Files"
+msgstr "Rackspace Cloud Files"
+
+#: Cdn_Plugin_Admin.php:182
+msgid "Generic Mirror"
+msgstr "Generička kopija"
+
+#: Cdn_Plugin_Admin.php:178
+msgid "Cotendo (Akamai)"
+msgstr "Cotendo (Akamai)"
+
+#: Cdn_Plugin_Admin.php:174
+msgid "AT&amp;T"
+msgstr "AT&amp;T"
+
+#: Cdnfsd_Plugin_Admin.php:88 Cdn_Plugin_Admin.php:169
+msgid "Amazon CloudFront"
+msgstr "Amazon CloudFront"
+
+#: Cdn_Plugin_Admin.php:165
+msgid "Akamai"
+msgstr "Akamai"
+
+#: Cdn_ConfigLabels.php:9
+msgid "<acronym title=\"Content Delivery Network\">CDN</acronym>"
+msgstr "<acronym title=\"Content Delivery Network\">CDN</acronym>"
+
+#: FeatureShowcase_Plugin_Admin.php:446 inc/options/general.php:417
+msgid "Reduce server load and decrease response time by using the cache available in site visitor's web browser."
+msgstr "Smanjite opterećenje poslužitelja i vrijeme odziva, koristeći raspoloživu predmemoriju u web pregledniku posjetitelja web-stranice."
+
+#: Util_Ui.php:1053
+msgid "Shared Server:"
+msgstr "Dijeljeni poslužitelj:"
+
+#: inc/options/general.php:362
+msgid "Enable object caching to further reduce execution time for common operations."
+msgstr "Uključite predmemoriranje objekata kako bi još više  smanjili vrijeme izvršenja uobičajenih operacija."
+
+#: inc/options/general.php:334
+msgid "Caching database objects decreases the response time of your site. Best used if object caching is not possible."
+msgstr "Predmemoriranje objekata baze podataka smanjuje vrijeme odziva vaše web-stranice. Najbolje je da se koristi ako nije moguće predmemoriranje objekata."
+
+#: inc/options/general.php:295
+msgid "CSS Tidy"
+msgstr "CSS Tidy"
+
+#: inc/options/general.php:284 inc/options/general.php:299
+msgid "YUI Compressor"
+msgstr "YUI Compressor"
+
+#: inc/options/general.php:280
+msgid "JSMin (default)"
+msgstr "JSMin (izvorno)"
+
+#: inc/options/general.php:266
+msgid "HTML Tidy"
+msgstr "HTML Tidy"
+
+#: SetupGuide_Plugin_Admin.php:909 Util_Ui.php:1011
+msgid "Disk"
+msgstr "Disk"
+
+#: inc/options/general.php:237
+msgid "Manual"
+msgstr "Manualno"
+
+#: Cdn_GeneralPage_View.php:145 Extension_CloudFlare_GeneralPage_View.php:40
+#: Extension_FragmentCache_GeneralPage_View.php:27 inc/options/general.php:182
+#: inc/options/general.php:310 inc/options/general.php:349
+#: inc/options/general.php:404 SystemOpCache_GeneralPage_View.php:50
+msgid "Empty cache"
+msgstr "Isprazniti predmemoriju"
+
+#: inc/options/general.php:154 UsageStatistics_Page_View.php:405
+#: Util_Ui.php:1036
+msgid "Memcached"
+msgstr "Memcached"
+
+#: inc/options/general.php:171 Util_Ui.php:1055
+msgid "Multiple Servers:"
+msgstr "Višestruki poslužitelji:"
+
+#: inc/options/general.php:149 Util_Ui.php:1031
+msgid "Opcode: WinCache"
+msgstr "Opcode: WinCache"
+
+#: inc/options/general.php:144 Util_Ui.php:1026
+msgid "Opcode: XCache"
+msgstr "Opcode: XCache"
+
+#: inc/options/general.php:139 Util_Ui.php:1021
+msgid "Opcode: eAccelerator"
+msgstr "Opcode: eAccelerator"
+
+#: inc/options/general.php:170 Util_Ui.php:1054
+msgid "Dedicated / Virtual Server:"
+msgstr "Namjenski / Virtualni poslužitelj:"
+
+#: inc/options/general.php:129 SetupGuide_Plugin_Admin.php:911
+msgid "Disk: Enhanced"
+msgstr "Disk: Poboljšani"
+
+#: inc/options/general.php:125 SetupGuide_Plugin_Admin.php:910
+msgid "Disk: Basic"
+msgstr "Disk: Osnovni"
+
+#: inc/options/general.php:169
+msgid "Shared Server (disk enhanced is best):"
+msgstr "Dijeljeni poslužitelj (najbolji je disk poboljšani):"
+
+#: inc/options/general.php:116
+msgid "Caching pages will reduce the response time of your site and increase the scale of your web server."
+msgstr "Predmemorirana stranica smanjiti će vrijeme odziva vaše web-stranice i povećati opseg vašeg web poslužitelja."
+
+#: inc/options/general.php:94
+msgid "Use preview mode to test configuration scenarios prior to releasing them (deploy) on the actual site. Preview mode remains active even after deploying settings until the feature is disabled."
+msgstr "Upotrijebite pretpregled kako bi provjerili konfiguracijske scenarije prije nego ih objavite (postavite) na stvarnu web-stranicu. Pretpregled ostaje aktivan čak i nakon postavljanja postavki, sve dok se značajka ne isključi."
+
+#: inc/options/general.php:54
+msgid "Deploy"
+msgstr "Postaviti"
+
+#: inc/options/general.php:50
+msgid "Disable"
+msgstr "Isključiti"
+
+#: inc/options/extensions/list.php:207
+msgid "Visit author homepage"
+msgstr "Posjeti web-stranicu autora"
+
+#: inc/options/extensions/list.php:219 inc/options/extensions/list.php:220
+msgid "Visit extension site"
+msgstr "Posjeti web-stranicu ekstenzije"
+
+#. translators: 1 HTML a tag to extension author page.
+#: inc/options/extensions/list.php:203
+msgid "By %s"
+msgstr "Autor %s"
+
+#. translators: 1 extension version number.
+#: inc/options/extensions/list.php:190
+msgid "Version %s"
+msgstr "Inačica %s"
+
+#. translators: 1 plugin requirements.
+#: inc/options/extensions/list.php:171
+msgid "Requirements: %s"
+msgstr "Zahtjevi: %s"
+
+#: inc/options/extensions/list.php:139
+msgid "Activate this extension"
+msgstr "Aktiviraj ekstenziju"
+
+#: inc/options/extensions/list.php:130
+msgid "Deactivate this extension"
+msgstr "Deaktiviraj ekstenziju"
+
+#: inc/options/extensions/list.php:64 inc/options/extensions/list.php:69
+msgid "Extension"
+msgstr "Ekstenzija"
+
+#: inc/options/extensions/list.php:64 inc/options/extensions/list.php:69
+msgid "Select All"
+msgstr "Odaberi sve"
+
+#. translators: 1 count of extensions.
+#: inc/options/extensions/list.php:46 inc/options/extensions/list.php:249
+msgid "%s extension"
+msgid_plural "%s extensions"
+msgstr[0] "%s ekstenzija"
+msgstr[1] "%s ekstenzije"
+msgstr[2] "%s ekstenzija"
+
+#: Cdnfsd_CloudFront_Popup_View_Distribution.php:75
+#: Cdnfsd_CloudFront_Popup_View_Distributions.php:52
+#: Cdnfsd_MaxCdn_Popup_View_Zone.php:75 Cdnfsd_MaxCdn_Popup_View_Zones.php:47
+#: Cdnfsd_StackPath2_Popup_View_Sites.php:50
+#: Cdnfsd_StackPath2_Popup_View_Stacks.php:45
+#: Cdnfsd_StackPath_Popup_View_Zone.php:61
+#: Cdnfsd_StackPath_Popup_View_Zones.php:45
+#: Cdn_GoogleDrive_Popup_AuthReturn_View.php:50
+#: Cdn_Highwinds_Popup_View_ConfigureCnamesForm.php:66
+#: Cdn_Highwinds_Popup_View_SelectHost.php:56 Cdn_MaxCdn_Popup_View_Zone.php:72
+#: Cdn_MaxCdn_Popup_View_Zones.php:51
+#: Cdn_RackSpaceCdn_Popup_View_ConfigureDomains.php:66
+#: Cdn_RackSpaceCdn_Popup_View_Services.php:59
+#: Cdn_RackSpaceCdn_Popup_View_Service_Actualize.php:54
+#: Cdn_RackSpaceCloudFiles_Popup_View_Containers.php:55
+#: Cdn_StackPath2_Popup_View_Sites.php:48
+#: Cdn_StackPath2_Popup_View_Stacks.php:47 Cdn_StackPath_Popup_View_Zone.php:39
+#: Cdn_StackPath_Popup_View_Zones.php:51
+#: Extension_NewRelic_Popup_View_Intro.php:51
+#: Extension_NewRelic_Popup_View_ListApplications.php:63
+#: inc/options/extensions/list.php:35 inc/options/extensions/list.php:238
+msgid "Apply"
+msgstr "Primijeni"
+
+#: inc/options/extensions/list.php:31 inc/options/extensions/list.php:234
+msgid "Bulk Actions"
+msgstr "Grupne radnje"
+
+#: inc/options/enterprise/dbcluster-config.php:54
+msgid "Save configuration file"
+msgstr "Spremi konfiguracijsku datoteku"
+
+#: inc/options/enterprise/dbcluster-config.php:12
+msgid "Database Cluster Configuration File"
+msgstr "Konfiguracijska datoteka klastera baza podataka"
+
+#: inc/options/edd/buy.php:40
+msgid "here"
+msgstr "ovdje"
+
+#: inc/options/edd/buy.php:18 UsageStatistics_Page_View_Free.php:18
+msgid "upgrade"
+msgstr "nadogradnja"
+
+#: inc/options/dbcache.php:139
+msgid "Do not cache queries that contain these words or regular expressions."
+msgstr "Ne predmemorirati upite koji sadrže ove riječi ili regularne izraze."
+
+#: inc/options/dbcache.php:131
+msgid "Do not cache queries that contain these terms. Any entered prefix (set in wp-config.php) will be replaced with current database prefix (default: wp_). Query stems can be identified using debug mode."
+msgstr "Ne predmemorirati upite koji sadrže ove pojmove. Bilo koji unijeti prefiks (postavljen u wp-config.php) biti će zamijenjen prefiksom trenutno korištene baze podataka (izvorno je: wp_). Stabla upita mogu se identificirati korištenjem režima za otklanjanje programskih grešaka."
+
+#: Extension_FragmentCache_Page_View.php:109 inc/options/dbcache.php:90
+#: inc/options/minify.php:894 inc/options/objectcache.php:77
+#: inc/options/pgcache.php:595
+msgid "If caching to disk, specify how frequently expired cache data is removed. For busy sites, a lower value is best."
+msgstr "Ako se koristi predmemorija na disku, navedite koliko često se uklanjaju istekli podaci. Za web-stranice s velikim prometom najbolja je manja vrijednost."
+
+#: Extension_FragmentCache_Page_View.php:102 inc/options/dbcache.php:82
+#: inc/options/objectcache.php:69 inc/options/pgcache.php:585
+msgid "Determines the natural expiration time of unchanged cache items. The higher the value, the larger the cache."
+msgstr "Određuje prirodno vrijeme isteka neizmijenjenih elemenata predmemorije. Što je veća vrijednost, veća je predmemorija."
+
+#: inc/options/parts/memcached.php:23
+#: inc/options/parts/memcached_extension.php:25
+msgid "Multiple servers may be used and seperated by a comma; e.g. 192.168.1.100:11211, domain.com:22122"
+msgstr "Može se koristiti više poslužitelja, razdvojenih zapetom; npr. 192.168.1.100:11211, domain.com:22122"
+
+#: inc/options/dbcache.php:57
+msgid "Enabling this option is recommended to maintain default WordPress behavior."
+msgstr "Uključivanje ove opcije je preporučeno, kako bi se održalo izvorno WordPress ponašanje."
+
+#: Cdn_Highwinds_Page_View.php:164 Cdn_LimeLight_Page_View.php:114
+#: Cdn_RackSpaceCdn_Page_View.php:167 Cdn_RackSpaceCloudFiles_Page_View.php:162
+#: inc/options/parts/memcached.php:21
+#: inc/options/parts/memcached_extension.php:23 inc/options/parts/redis.php:28
+#: inc/options/parts/redis_extension.php:30
+msgid "Test"
+msgstr "Testirati"
+
+#: inc/options/dbcache.php:46
+msgid "operation."
+msgstr "operaciju."
+
+#: inc/options/dbcache.php:45 inc/options/minify.php:50
+#: inc/options/objectcache.php:46
+msgid "empty cache"
+msgstr "isprazniti predmemoriju"
+
+#: inc/options/dbcache.php:32
+msgid "To rebuild the database cache use the"
+msgstr "Za ponovnu izgradnju predmemorije baze podataka, upotrijebite"
+
+#: inc/options/dashboard.php:95 Root_AdminMenu.php:43 Root_AdminMenu.php:44
+msgid "Dashboard"
+msgstr "Nadzorna ploča"
+
+#: inc/options/dashboard.php:71
+msgid "update Media Query String"
+msgstr "ažurirati medijski upitni string"
+
+#: inc/options/dashboard.php:69
+msgid "purge CDN completely"
+msgstr "očistiti CDN u potpunosti"
+
+#: inc/options/dashboard.php:67
+msgid "empty only the disk cache(s)"
+msgstr "isprazniti samo predmemoriju(e) diska"
+
+#: inc/options/dashboard.php:66
+msgid "empty only the opcode cache"
+msgstr "isprazniti samo opcode predmemoriju"
+
+#: inc/options/dashboard.php:65 inc/options/dashboard.php:66
+#: inc/options/dashboard.php:67 inc/options/dashboard.php:69
+#: inc/options/dashboard.php:73
+msgid "or"
+msgstr "ili"
+
+#: inc/options/dashboard.php:65
+msgid "empty only the memcached cache(s)"
+msgstr "isprazniti samo memcached predmemorije"
+
+#: inc/options/dashboard.php:64
+msgid "at once or"
+msgstr "odjednom ili"
+
+#: inc/options/dashboard.php:64
+msgid "empty all caches"
+msgstr "isprazniti sve predmemorije"
+
+#: inc/options/dashboard.php:51
+msgid "compatibility check"
+msgstr "provjera kompatibilnosti"
+
+#: CacheGroups_Plugin_Admin_View.php:162 inc/options/common/header.php:354
+msgid "Manage Referrer Groups"
+msgstr "Upravljanje grupama referenata"
+
+#: CacheGroups_Plugin_Admin_View.php:35 inc/options/common/header.php:353
+msgid "Manage User Agent Groups"
+msgstr "Upravljanje grupama korisničkih agenata"
+
+#: inc/options/common/header.php:342
+msgid "Media"
+msgstr "Mediji"
+
+#: inc/options/common/header.php:197 inc/options/common/header.php:272
+#: inc/options/common/header.php:283 inc/options/common/header.php:293
+#: inc/options/common/header.php:351
+msgid "Jump to: "
+msgstr "Preći na:"
+
+#: inc/options/cdn.php:20 inc/options/common/header.php:189
+#: inc/options/common/header.php:264 inc/options/pgcache.php:833
+msgid "Note(s)"
+msgstr "Napomena(e)"
+
+#: inc/options/common/header.php:188
+msgid "Purge Policy"
+msgstr "Politika pročišćavanja"
+
+#: inc/options/common/header.php:187 inc/options/pgcache.php:235
+msgid "Cache Preload"
+msgstr "Učitavanje predmemorije unaprijed"
+
+#: extension-example/Extension_Example_Page_View.php:10
+#: Extension_CloudFlare_Page_View.php:10 Extension_FeedBurner_Page_View.php:10
+#: Extension_FragmentCache_Page_View.php:13 Extension_Genesis_Page_View.php:10
+#: Extension_NewRelic_Page_View_Apm.php:11 Extension_Swarmify_Page_View.php:10
+#: inc/options/cdn.php:16 inc/options/common/header.php:183
+#: inc/options/common/header.php:198 inc/options/common/header.php:273
+#: inc/options/common/header.php:284 inc/options/common/header.php:294
+#: inc/options/common/header.php:352
+msgid "Main Menu"
+msgstr "Glavni izbornik"
+
+#: inc/options/common/header.php:142 inc/options/general.php:709
+msgid "Miscellaneous"
+msgstr "Razno"
+
+#: inc/options/common/header.php:132 inc/options/general.php:670
+msgid "Licensing"
+msgstr "Licenciranje"
+
+#: Extension_NewRelic_GeneralPage_View.php:9
+#: Extension_NewRelic_Plugin_Admin.php:97
+#: Extension_NewRelic_Plugin_Admin.php:98 inc/options/common/header.php:126
+msgid "Monitoring"
+msgstr "Nadziranje"
+
+#: FeatureShowcase_Plugin_Admin.php:444 inc/options/common/header.php:89
+#: inc/options/general.php:413 Root_AdminMenu.php:85 Root_AdminMenu.php:86
+#: SetupGuide_Plugin_Admin.php:1060 SetupGuide_Plugin_Admin.php:1221
+#: SetupGuide_Plugin_Admin.php:1254
+msgid "Browser Cache"
+msgstr "Predmemorija preglednika"
+
+#: Extension_FragmentCache_Plugin_Admin.php:101
+#: Extension_FragmentCache_Plugin_Admin.php:103
+#: Extension_FragmentCache_Plugin_Admin.php:161
+#: Extension_FragmentCache_Plugin_Admin.php:169
+#: FeatureShowcase_Plugin_Admin.php:312 inc/options/common/header.php:80
+#: inc/options/general.php:932
+msgid "Fragment Cache"
+msgstr "Fragmentna predmemorija"
+
+#: FeatureShowcase_Plugin_Admin.php:432 inc/options/common/header.php:73
+#: inc/options/general.php:358 ObjectCache_ConfigLabels.php:9
+#: ObjectCache_Plugin.php:274 ObjectCache_Plugin.php:310
+#: ObjectCache_Plugin.php:318 ObjectCache_Plugin.php:326 Root_AdminMenu.php:79
+#: Root_AdminMenu.php:80 SetupGuide_Plugin_Admin.php:1056
+#: SetupGuide_Plugin_Admin.php:1192 SetupGuide_Plugin_Admin.php:1206
+#: UsageStatistics_Page_View.php:250 UsageStatistics_Page_View.php:255
+msgid "Object Cache"
+msgstr "Objektna predmemorija"
+
+#: DbCache_ConfigLabels.php:9 DbCache_Plugin.php:251 DbCache_Plugin.php:258
+#: DbCache_Plugin.php:266 FeatureShowcase_Plugin_Admin.php:420
+#: inc/options/common/header.php:69 inc/options/general.php:321
+#: Root_AdminMenu.php:73 Root_AdminMenu.php:74 SetupGuide_Plugin_Admin.php:1052
+#: SetupGuide_Plugin_Admin.php:1158 SetupGuide_Plugin_Admin.php:1169
+#: UsageStatistics_Page_View.php:316
+msgid "Database Cache"
+msgstr "Predmemorija baze podataka"
+
+#: Extension_NewRelic_AdminNotes.php:19 FeatureShowcase_Plugin_Admin.php:360
+#: inc/options/common/header.php:57 inc/options/general.php:103
+#: PgCache_ConfigLabels.php:9 PgCache_Plugin.php:276 PgCache_Plugin.php:284
+#: PgCache_Plugin.php:291 Root_AdminMenu.php:61 Root_AdminMenu.php:62
+#: SetupGuide_Plugin_Admin.php:1048 SetupGuide_Plugin_Admin.php:1115
+#: UsageStatistics_Page_View.php:28
+msgid "Page Cache"
+msgstr "Predmemorija stranice"
+
+#: inc/options/cdn.php:860
+msgid "You can use placeholders {wp_content_dir}, {plugins_dir}, {uploads_dir} instead of writing folder paths (wp-content, wp-content/plugins, wp-content/uploads)."
+msgstr "Možete koristiti zamijene (placeholders) {wp_content_dir}, {plugins_dir}, {uploads_dir} umjesto pisanja putanja mapa (wp-content, wp-content/plugins, wp-content/uploads)."
+
+#: CacheGroups_Plugin_Admin_View.php:134 CacheGroups_Plugin_Admin_View.php:323
+#: inc/options/cdn.php:855 inc/options/install.php:361
+#: inc/options/minify.php:989
+msgid "Note(s):"
+msgstr "Napomena(e):"
+
+#: inc/options/cdn.php:747
+msgid "To upload files in blogs.dir for current blog write wp-content/&lt;currentblog&gt;/."
+msgstr "Za prijenos datoteka u blogs.dir za trenutni blog, napišite wp-content/&lt;currentblog&gt;/."
+
+#: inc/options/cdn.php:717
+msgid "Automatically import files hosted with 3rd parties of these types (if used in your posts / pages) to your media library."
+msgstr "Automatski uvesti datoteke ovih tipova, hostane od trećih strana (ako se koriste u vašim objavama), u vašu medijsku zbirku."
+
+#: inc/options/cdn.php:651
+msgid "Number of files processed per upload attempt."
+msgstr "Broj obrađenih datoteka po pokušaju prijenosa."
+
+#: inc/options/cdn.php:642
+msgid "The number of seconds to wait before upload attempt."
+msgstr "Broj sekundi koje treba sačekati prije pokušaja prijenosa."
+
+#: inc/options/cdn.php:633
+msgid "Specify the interval between upload of changed files."
+msgstr "Navedite interval između prijenosa izmijenjenih datoteka."
+
+#: inc/options/cdn.php:623
+msgid "Automatically attempt to find and upload changed files."
+msgstr "Automatski pokušati nalaženje i prijenos izmijenjenih datoteka."
+
+#: inc/options/cdn.php:580
+msgid "Automatically upload minify files"
+msgstr "Automatski prenesi minificirane datoteke"
+
+#: inc/options/cdn.php:532
+msgid "Select user roles that will use the origin server exclusively:"
+msgstr "Odaberite korisničke uloge koje će isključivo koristiti poslužitelj porijekla:"
+
+#: inc/options/cdn.php:315
+msgid "If modified files are not always detected and replaced, use this option to over-write them."
+msgstr "Ako se izmijenjene datoteke ne detektiraju i ne zamjenjuju uvijek, upotrijebite ovu opciju kako bi ih prepisali."
+
+#: inc/options/cdn.php:306
+msgid "Upload custom files"
+msgstr "Prenesi prilagođene datoteke"
+
+#: inc/options/cdn.php:274
+msgid "Upload minify files"
+msgstr "Prijenos minificiranih datoteka"
+
+#: inc/options/cdn.php:236
+msgid "Upload theme files"
+msgstr "Prijenos datoteka teme"
+
+#: inc/options/cdn.php:205
+msgid "Upload includes files"
+msgstr "Prijenos includes datoteka"
+
+#: inc/options/cdn.php:173
+msgid "Upload attachments"
+msgstr "Prijenos privitaka"
+
+#: inc/options/cdn.php:114
+msgid "to make existing file modifications visible to visitors with a primed cache."
+msgstr "da se postojeće izmijene datoteka učine vidljivim za posjetitelje s pripremljenom  predmemorijom."
+
+#: inc/options/browsercache.php:60 inc/options/cdn.php:114
+#: inc/options/minify.php:76
+msgid "Update media query string"
+msgstr "Ažurirati media upitni niz"
+
+#: inc/options/cdn.php:100
+msgid "if the domain name of your site has ever changed."
+msgstr "ako se ime domene vaše web-stranice ikada mjenjalo."
+
+#: Cdn_Highwinds_Widget_View.php:18
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:43
+#: Cdn_StackPath2_Widget_View_Authorized.php:20
+#: Cdn_StackPath_Widget_View_Authorized.php:32 inc/options/cdn.php:80
+#: inc/popup/cdn_purge.php:75
+msgid "Purge"
+msgstr "Očistiti"
+
+#: inc/options/cdn.php:78
+msgid "if some objects appear to be missing."
+msgstr "ako se pokaže da neki objekti nedostaju."
+
+#: inc/options/cdn.php:78
+msgid "unsuccessful file transfers"
+msgstr "neuspješni prijenosi datoteka"
+
+#: inc/options/cdn.php:77
+msgid "importing attachments into the Media Library"
+msgstr "uvoz privitaka u Medijsku zbirku"
+
+#. translators: 1 HTML strong tag containing CDNFSD engine name, 2 HTML span
+#. tag containing CDNFSD engine enabled/disabled.
+#. translators: 1 HTML strong element with CDN engine content, 2 HTML span
+#. element with CDN enabled/disabled status.
+#. translators: 1 HTML strong tag containing CDN Engine value, 2 HTML span tag
+#. containing CDN Engine enabled/disabled value.
+#: Cdnfsd_Page_View_Header.php:14 Cdn_Page_View_Header.php:15
+#: inc/options/cdn.php:28
+msgid "Content Delivery Network support via %1$s is currently %2$s."
+msgstr "Content Delivery Network (mreža za dostavljanje sadržaja) podrška preko %1$s je trenutno %2$s."
+
+#: inc/options/cdn/s3.php:188 inc/options/cdn/s3_compatible.php:152
+msgid "Test S3 upload"
+msgstr "Testirati S3 prijenos"
+
+#: inc/options/cdn/rscf.php:150
+msgid "Test Cloud Files upload"
+msgstr "Testirati Cloud prijenos datoteka"
+
+#: Cdn_ConfigLabels.php:31
+msgid "Location:"
+msgstr "Lokacija:"
+
+#: Generic_ConfigLabels.php:9
+msgid "<acronym title=\"Application Programming Interface\">API</acronym> key:"
+msgstr "<acronym title=\"Application Programming Interface\">API</acronym> ključ:"
+
+#: inc/options/cdn/mirror.php:96
+msgid "Test Mirror"
+msgstr "Testiraj zrcalni poslužitelj"
+
+#: Cdn_MaxCdn_Page_View.php:289
+msgid "Test MaxCDN"
+msgstr "Testiraj MaxCDN"
+
+#: Cdn_AdminNotes.php:239
+msgid "Authorization key"
+msgstr "Autorizacijski ključ"
+
+#: Cdnfsd_CloudFront_Page_View.php:28 Cdnfsd_LimeLight_Page_View.php:28
+#: Cdnfsd_MaxCdn_Page_View.php:30 Cdnfsd_StackPath2_Page_View.php:37
+#: Cdnfsd_StackPath_Page_View.php:31 Cdn_GoogleDrive_Page_View.php:16
+#: Cdn_Highwinds_Page_View.php:14 Cdn_LimeLight_Page_View.php:15
+#: Cdn_MaxCdn_Page_View.php:35 Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:54
+#: Cdn_RackSpaceCdn_Page_View.php:17 Cdn_RackSpaceCloudFiles_Page_View.php:13
+#: Cdn_StackPath2_Page_View.php:50
+#: Cdn_StackPath2_Widget_View_Unauthorized.php:56
+#: Cdn_StackPath_Page_View.php:33 Cdn_StackPath_Widget_View_Unauthorized.php:16
+#: Extension_CloudFlare_Page_View.php:68
+msgid "Authorize"
+msgstr "Autoriziraj"
+
+#: Cdnfsd_CloudFront_Page_View.php:19 Cdnfsd_LimeLight_Page_View.php:19
+#: Cdnfsd_MaxCdn_Page_View.php:18 Cdnfsd_StackPath2_Page_View.php:25
+#: Cdnfsd_StackPath_Page_View.php:19 Cdn_MaxCdn_Page_View.php:23
+#: Cdn_StackPath2_Page_View.php:34 Cdn_StackPath_Page_View.php:21
+#: Extension_CloudFlare_Page_View.php:55
+msgid "Specify account credentials:"
+msgstr "Navedite vjerodajnice računa:"
+
+#: Extension_Swarmify_Widget_View_NotConfigured.php:12
+msgid "Sign Up Now and Save 25%"
+msgstr "Registrirajte se sad i uštedite 25%"
+
+#: Cdn_MaxCdn_Page_View.php:10 Cdn_StackPath2_Page_View.php:10
+#: Cdn_StackPath_Page_View.php:10
+msgid "Create account:"
+msgstr "Kreiraj račun:"
+
+#: inc/options/cdn/ftp.php:346
+msgid "Test FTP server"
+msgstr "Testirati FTP poslužitelj"
+
+#: inc/options/cdn/ftp.php:172
+msgid "Specify the directory where files must be uploaded to be accessible in a web browser (the document root)."
+msgstr "Navedite mape u kojim datoteke moraju biti prenesene kako bi bile dostupni u web pregledniku (osnovna mapa dokumenta)."
+
+#: inc/options/cdn/ftp.php:56
+msgid "Specify the server's address, e.g.: \"ftp.domain.com\". Try \"127.0.0.1\" if using a sub-domain on the same server as your site."
+msgstr "Navedite adresu poslužitelja, npr.\"ftp.domain.com\". Pokušajte \"127.0.0.1\", ako koristite pod-domenu na istom poslužitelju gdje je vaša web-stranica."
+
+#: inc/options/cdn/ftp.php:29
+msgid "Enable this option only if there are connectivity issues, otherwise it's not recommended."
+msgstr "Uključite ovu opciju samo ako imate probleme s povezivanjem, u drugim slučajevima to nije preporučljivo."
+
+#: inc/options/cdn/edgecast.php:110
+msgid "Test EdgeCast"
+msgstr "Testirati EdgeCast"
+
+#: inc/options/cdn/cotendo.php:117
+msgid "Test Cotendo"
+msgstr "Testirati Cotendo"
+
+#: inc/options/cdn/cotendo.php:23
+msgid "Zones to purge:"
+msgstr "Zone za pročišćavanje:"
+
+#: inc/options/cdn/common/cnames.php:66
+msgid "Add CNAME"
+msgstr "Dodati CNAME"
+
+#: inc/options/cdn/common/cnames-readonly.php:24
+#: inc/options/cdn/common/cnames.php:45
+msgid "(reserved for JS before </body>)"
+msgstr "(rezervirano za JS prije </body> elementa)"
+
+#: inc/options/cdn/common/cnames-readonly.php:22
+#: inc/options/cdn/common/cnames.php:41
+msgid "(reserved for JS after <body>)"
+msgstr "(rezervirano za JS poslije <body> elementa)"
+
+#: inc/options/cdn/common/cnames-readonly.php:20
+#: inc/options/cdn/common/cnames.php:37
+msgid "(reserved for JS in <head>)"
+msgstr "(rezervirano za JS u <head> elementu)"
+
+#: inc/options/cdn/common/cnames-readonly.php:18
+#: inc/options/cdn/common/cnames.php:33
+msgid "(reserved for CSS)"
+msgstr "(rezervirano za CSS)"
+
+#: inc/options/cdn/cf2.php:167
+msgid "Test CloudFront distribution"
+msgstr "Testirati CloudFront distribuciju"
+
+#: inc/options/cdn/cf2.php:66
+msgid "Create distribution"
+msgstr "Kreirati distribuciju"
+
+#: Cdnfsd_CloudFront_Popup_View_Distribution.php:24
+#: Cdn_RackSpaceCdn_Popup_View_Service_Create.php:63 inc/options/cdn/cf2.php:62
+msgid "Origin:"
+msgstr "Porijeklo:"
+
+#: inc/options/cdn/cf.php:185
+msgid "Test S3 upload &amp; CloudFront distribution"
+msgstr "Testirati S3 prijenos ii CloudFront distribuciju"
+
+#: inc/options/cdn/cf.php:62 inc/options/cdn/s3.php:62
+#: inc/options/cdn/s3_compatible.php:54
+msgid "Bucket:"
+msgstr "\"Buket\" (jedinica memorije):"
+
+#: inc/options/cdn/cf.php:55 inc/options/cdn/cf2.php:55
+#: inc/options/cdn/s3.php:55 inc/options/cdn/s3_compatible.php:47
+msgid "Secret key:"
+msgstr "Tajni ključ:"
+
+#: inc/options/cdn/cf.php:48 inc/options/cdn/cf2.php:48
+#: inc/options/cdn/s3.php:48 inc/options/cdn/s3_compatible.php:20
+msgid "Access key ID:"
+msgstr "ID pristupnog ključa:"
+
+#: inc/options/cdn/azure.php:120
+msgid "Test Microsoft Azure Storage upload"
+msgstr "Testirati Microsoft Azure Storage prijenos"
+
+#: inc/options/cdn/s3.php:143
+msgid "or CNAME:"
+msgstr "ili CNAME:"
+
+#: inc/options/cdn/azure.php:27 inc/options/cdn/rscf.php:61
+msgid "Create container"
+msgstr "Kreirati kontejner"
+
+#: Cdn_RackSpaceCloudFiles_Page_View.php:35 inc/options/cdn/azure.php:23
+#: inc/options/cdn/rscf.php:56
+msgid "Container:"
+msgstr "Kontejner:"
+
+#: inc/options/cdn/azure.php:16
+msgid "Account key:"
+msgstr "Ključ računa:"
+
+#: inc/options/cdn/azure.php:9
+msgid "Account name:"
+msgstr "Ime računa:"
+
+#: inc/options/cdn/att.php:16 inc/options/cdn/edgecast.php:16
+msgid "Token:"
+msgstr "Token:"
+
+#: inc/options/cdn/att.php:9 inc/options/cdn/edgecast.php:9
+msgid "Account #:"
+msgstr "Račun #:"
+
+#: inc/options/cdn/akamai.php:136
+msgid "Test akamai"
+msgstr "Testirati akamai"
+
+#: Cdn_Highwinds_Page_View.php:108 Cdn_LimeLight_Page_View.php:79
+#: Cdn_MaxCdn_Page_View.php:256 Cdn_RackSpaceCdn_Page_View.php:73
+#: Cdn_RackSpaceCdn_Page_View.php:108 Cdn_RackSpaceCloudFiles_Page_View.php:126
+#: Cdn_StackPath2_Page_View.php:277 Cdn_StackPath_Page_View.php:215
+#: inc/options/cdn/akamai.php:103 inc/options/cdn/att.php:77
+#: inc/options/cdn/azure.php:86 inc/options/cdn/cf.php:133
+#: inc/options/cdn/cf2.php:125 inc/options/cdn/cotendo.php:84
+#: inc/options/cdn/edgecast.php:77 inc/options/cdn/ftp.php:310
+#: inc/options/cdn/mirror.php:63 inc/options/cdn/rscf.php:120
+#: inc/options/cdn/s3.php:133 inc/options/cdn/s3_compatible.php:115
+msgid "Replace site's hostname with:"
+msgstr "Zamijeniti host ime web-stranice s:"
+
+#: Cdn_Highwinds_Page_View.php:80 Cdn_LimeLight_Page_View.php:51
+#: Cdn_RackSpaceCloudFiles_Page_View.php:98 inc/options/cdn/akamai.php:75
+#: inc/options/cdn/att.php:49 inc/options/cdn/azure.php:58
+#: inc/options/cdn/cf.php:105 inc/options/cdn/cf2.php:97
+#: inc/options/cdn/cotendo.php:56 inc/options/cdn/edgecast.php:49
+#: inc/options/cdn/ftp.php:202 inc/options/cdn/mirror.php:35
+#: inc/options/cdn/rscf.php:92 inc/options/cdn/s3.php:105
+#: inc/options/cdn/s3_compatible.php:87
+msgid "Disabled (always use HTTP)"
+msgstr "Isključeno (uvijek koristiti HTTP)"
+
+#: Cdn_Highwinds_Page_View.php:79 Cdn_LimeLight_Page_View.php:50
+#: Cdn_RackSpaceCloudFiles_Page_View.php:97 inc/options/cdn/akamai.php:74
+#: inc/options/cdn/att.php:48 inc/options/cdn/azure.php:57
+#: inc/options/cdn/cf.php:104 inc/options/cdn/cf2.php:96
+#: inc/options/cdn/cotendo.php:55 inc/options/cdn/edgecast.php:48
+#: inc/options/cdn/ftp.php:201 inc/options/cdn/mirror.php:34
+#: inc/options/cdn/rscf.php:91 inc/options/cdn/s3.php:104
+#: inc/options/cdn/s3_compatible.php:86
+msgid "Enabled (always use SSL)"
+msgstr "Uključeno (uvijek koristiti SSL)"
+
+#: inc/options/common/header.php:150 inc/options/general.php:1019
+msgid "Import / Export Settings"
+msgstr "Uvoz / izvoz postavki"
+
+#: inc/options/general.php:107
+msgid "Enable page caching to decrease the response time of the site."
+msgstr "Uključite predmemoriranje stranica kako bi se smanjilo vrijeme odziva web-stranice."
+
+#: Extension_NewRelic_AdminNotes.php:21 FeatureShowcase_Plugin_Admin.php:372
+#: inc/options/common/header.php:61 inc/options/general.php:190
+#: inc/options/minify.php:344 inc/options/minify.php:363
+#: inc/options/minify.php:383 Minify_ConfigLabels.php:9 Minify_Plugin.php:306
+#: Minify_Plugin_Admin.php:52 Root_AdminMenu.php:67 Root_AdminMenu.php:68
+#: UsageStatistics_Page_View.php:214
+msgid "Minify"
+msgstr "Minificiranje"
+
+#: inc/options/general.php:239
+msgid "Select manual mode to use fields on the minify settings tab to specify files to be minified, otherwise files will be minified automatically."
+msgstr "Odaberite manualni režim kako bi upotrijebili polja na kartici s postavkama minifikacije za određivanje datoteka koje treba smanjiti, u suprotnom će datoteke biti smanjene automatski."
+
+#: inc/options/general.php:325
+msgid "Enable database caching to reduce post, page and feed creation time."
+msgstr "Uključite predmemoriranje baze podataka kako bi smanjili vrijeme kreiranja objava, stranica i kanal."
+
+#: Util_Widget.php:193
+msgid "Submit"
+msgstr "Pošalji"
+
+#: inc/lightbox/self_test.php:524 inc/options/minify.php:145
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+#: BrowserCache_Page_View_QuickReference.php:12 inc/lightbox/self_test.php:11
+msgid "Legend"
+msgstr "Natpis"
+
+#: Util_Widget.php:160
+msgid "Cancel"
+msgstr "Prekini"
+
+#: inc/lightbox/self_test.php:303 inc/lightbox/self_test.php:531
+msgid "On"
+msgstr "Uključeno"
+
+#: Extension_CloudFlare_Page_View.php:355
+#: Extension_CloudFlare_Page_View.php:523
+#: Extension_CloudFlare_Page_View.php:543
+#: Extension_CloudFlare_Page_View.php:733 inc/lightbox/self_test.php:296
+#: inc/lightbox/self_test.php:305 inc/lightbox/self_test.php:504
+#: inc/lightbox/self_test.php:533
+msgid "Off"
+msgstr "Isključeno"
+
+#: inc/lightbox/self_test.php:522 SetupGuide_Plugin_Admin.php:912
+msgid "Enabled"
+msgstr "Omogućeno"
+
+#: Extension_CloudFlare_Page_View.php:13 Extension_CloudFlare_Page_View.php:87
+#: inc/options/browsercache.php:79 inc/options/cdn.php:17
+#: inc/options/cdn.php:119 inc/options/common/header.php:53
+#: inc/options/common/header.php:184 inc/options/common/header.php:199
+#: inc/options/common/header.php:274 inc/options/common/header.php:295
+#: inc/options/dbcache.php:52 inc/options/general.php:32
+#: inc/options/minify.php:94 inc/options/pgcache.php:59
+msgid "General"
+msgstr "Osnovno"
+
+#: inc/lightbox/self_test.php:540
+msgid "Close"
+msgstr "Zatvori"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:45
+msgid "Description:"
+msgstr "Opis:"
+
+#: inc/lightbox/self_test.php:491
+msgid "Error:"
+msgstr "Greška:"
+
+#: Util_Ui.php:1178
+msgid "Preview"
+msgstr "Pretpregled"
+
+#: Cdnfsd_GeneralPage_View.php:63 Cdn_GeneralPage_View.php:90
+#: extension-example/Extension_Example_Page_View.php:28
+#: Extension_Genesis_Page_View.php:38 Extension_Genesis_Page_View.php:47
+#: Extension_Genesis_Page_View.php:56 Extension_Genesis_Page_View.php:65
+#: Extension_Genesis_Page_View.php:81 Extension_Genesis_Page_View.php:90
+#: Extension_Genesis_Page_View.php:107 Extension_Genesis_Page_View.php:116
+#: Extension_Genesis_Page_View.php:133 Extension_Genesis_Page_View.php:142
+#: Extension_Genesis_Page_View.php:159 Extension_Genesis_Page_View.php:184
+#: Extension_Genesis_Page_View.php:193 Extension_Genesis_Page_View.php:202
+#: inc/options/general.php:92 inc/options/general.php:115
+#: inc/options/general.php:201 inc/options/general.php:333
+#: inc/options/general.php:370 inc/options/general.php:425
+#: inc/options/minify.php:285 inc/options/minify.php:564
+#: inc/options/minify.php:624 inc/options/minify.php:819
+#: inc/options/pgcache.php:181 inc/options/pgcache.php:509
+#: inc/options/pgcache.php:517 Minify_ConfigLabels.php:17
+#: Minify_ConfigLabels.php:22 Minify_ConfigLabels.php:29
+#: PgCache_ConfigLabels.php:40 SystemOpCache_GeneralPage_View.php:41
+#: UsageStatistics_GeneralPage_View.php:20
+msgid "Enable"
+msgstr "Uključi"
+
+#: Extension_Swarmify_Widget_View_NotConfigured.php:16 Util_Widget.php:144
+#: Util_Widget.php:169
+msgid "Configure"
+msgstr "Podesi"
+
+#: Cdn_LimeLight_Popup_View_Intro.php:26 Cdn_RackSpaceCdn_Page_View.php:24
+#: Cdn_RackSpaceCdn_Popup_View_Intro.php:19
+#: Cdn_RackSpaceCloudFiles_Page_View.php:23
+#: Cdn_RackSpaceCloudFiles_Popup_View_Intro.php:20 inc/options/cdn/akamai.php:9
+#: inc/options/cdn/cotendo.php:9 inc/options/cdn/rscf.php:9
+msgid "Username:"
+msgstr "Korisničko ime:"
+
+#: Cdn_Highwinds_Page_View.php:78 Cdn_LimeLight_Page_View.php:49
+#: Cdn_MaxCdn_Page_View.php:187 Cdn_RackSpaceCloudFiles_Page_View.php:96
+#: Cdn_StackPath2_Page_View.php:208 Cdn_StackPath_Page_View.php:146
+#: inc/options/cdn/akamai.php:73 inc/options/cdn/att.php:47
+#: inc/options/cdn/azure.php:56 inc/options/cdn/cf.php:103
+#: inc/options/cdn/cf2.php:95 inc/options/cdn/cotendo.php:54
+#: inc/options/cdn/edgecast.php:47 inc/options/cdn/ftp.php:200
+#: inc/options/cdn/mirror.php:33 inc/options/cdn/rscf.php:90
+#: inc/options/cdn/s3.php:103 inc/options/cdn/s3_compatible.php:85
+msgid "Auto (determine connection type automatically)"
+msgstr "Auto (automatsko određivanje vrste veze)"
+
+#: inc/options/cdn/akamai.php:40
+msgid "Purge action:"
+msgstr "Akcija pročišćavanja:"
+
+#: inc/options/cdn/akamai.php:31
+msgid "Domain to purge:"
+msgstr "Domen za pročišćavanje:"
+
+#: inc/options/cdn/akamai.php:27
+msgid "Specify email addresses for completed removal notifications. One email per line."
+msgstr "Navedite adrese e-pošte za slanje obavijesti o završenom uklanjanju. Jedan adresa e-pošte po redu."
+
+#: inc/options/cdn/akamai.php:23
+msgid "Email notification:"
+msgstr "Obavijesti e-pošte:"
+
+#: inc/options/cdn/akamai.php:16 inc/options/cdn/cotendo.php:16
+msgid "Password:"
+msgstr "Lozinka:"
+
+#: inc/options/browsercache.php:648
+msgid "cache (\"public\")"
+msgstr "predmemorija (\"public\")"
+
+#: inc/options/browsercache.php:606
+msgid "Media &amp; Other Files"
+msgstr "Medijske i druge datoteke"
+
+#: inc/options/browsercache.php:570 inc/options/browsercache.php:653
+msgid "no-cache (\"max-age=0, private, no-store, no-cache, must-revalidate\")"
+msgstr "bez predmemoriranja (\"max-age=0, private, no-store, no-cache, must-revalidate\")"
+
+#: inc/options/browsercache.php:421 inc/options/browsercache.php:567
+#: inc/options/browsercache.php:650
+msgid "cache with validation (\"public, must-revalidate, proxy-revalidate\")"
+msgstr "predmemorija s validacijom (\"public, must-revalidate, proxy-revalidate\")"
+
+#: inc/options/browsercache.php:522
+msgid "Specify browser cache policy for posts, pages, feeds and text-based files."
+msgstr "Navesti politiku predmemorije preglednika za objave, stranice, izvore podataka i tekstualne datoteke."
+
+#: inc/options/browsercache.php:423 inc/options/browsercache.php:569
+#: inc/options/browsercache.php:652
+msgid "cache without proxy (\"private, must-revalidate\")"
+msgstr "predmemorija bez proxya (\"private, must-revalidate\")"
+
+#: inc/options/browsercache.php:422 inc/options/browsercache.php:568
+#: inc/options/browsercache.php:651
+msgid "cache with max-age and validation (\"max-age=EXPIRES_SECONDS, public, must-revalidate, proxy-revalidate\")"
+msgstr "predmemorirati s max-age i validacijom (\"max-age=EXPIRES_SECONDS, public, must-revalidate, proxy-revalidate\")"
+
+#: inc/options/browsercache.php:420 inc/options/browsercache.php:566
+#: inc/options/browsercache.php:649
+msgid "cache with max-age (\"public, max-age=EXPIRES_SECONDS\")"
+msgstr "predmemorirati s max-age (\"public, max-age=EXPIRES_SECONDS\")"
+
+#: Extension_FragmentCache_Page_View.php:101
+#: Extension_FragmentCache_Page_View.php:108 inc/options/browsercache.php:398
+#: inc/options/browsercache.php:545 inc/options/browsercache.php:627
+#: inc/options/cdn.php:632 inc/options/cdn.php:641 inc/options/dbcache.php:81
+#: inc/options/dbcache.php:89 inc/options/minify.php:878
+#: inc/options/minify.php:893 inc/options/objectcache.php:68
+#: inc/options/objectcache.php:76 inc/options/pgcache.php:247
+#: inc/options/pgcache.php:584 inc/options/pgcache.php:594
+#: inc/options/pgcache.php:601
+msgid "seconds"
+msgstr "sekundi"
+
+#: inc/options/browsercache.php:376
+msgid "Specify browser cache policy for Cascading Style Sheets and JavaScript files."
+msgstr "Navesti politiku predmemorije preglednika za CSS i JavaScript datoteke."
+
+#: inc/options/browsercache.php:253
+msgid "Reduce server load by allowing the web server to handle 404 (not found) errors for static files (images etc)."
+msgstr "Smanjivanje opterećenja poslužitelja, omogućavajući web poslužitelju da obradi greške 404 (nije pronađeno) za statičke datoteke (slike itd.)."
+
+#: inc/options/browsercache.php:247 inc/options/browsercache.php:489
+#: inc/options/browsercache.php:718
+msgid "Removes Set-Cookie header for responses."
+msgstr "Uklanja Set-Cookie (podesiti \"kolačić\") zaglavlje za odgovore."
+
+#: inc/options/browsercache.php:184 inc/options/browsercache.php:458
+#: inc/options/browsercache.php:687
+msgid "Whenever settings are changed, a new query string will be generated and appended to objects allowing the new policy to be applied."
+msgstr "Kad god se izmijene postavke, novi upitni niz će se generirati i pridodati objektima, omogućavajući da se primijeni nova politika."
+
+#: inc/options/browsercache.php:148 inc/options/browsercache.php:176
+#: inc/options/browsercache.php:446 inc/options/browsercache.php:452
+#: inc/options/browsercache.php:592 inc/options/browsercache.php:598
+#: inc/options/browsercache.php:675 inc/options/browsercache.php:681
+msgid "Reduce the download time for text-based files."
+msgstr "Smanjiti vrijeme preuzimanja za tekstualne datoteke."
+
+#: inc/options/browsercache.php:246
+msgid "Don't set cookies for static files"
+msgstr "Nemoj postaviti kolačiće za statične datoteke"
+
+#: BrowserCache_ConfigLabels.php:18 BrowserCache_ConfigLabels.php:29
+msgid "Enable <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> (gzip) compression"
+msgstr "Omogućiti <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> (gzip) kompresiju"
+
+#: inc/options/browsercache.php:121 inc/options/browsercache.php:440
+#: inc/options/browsercache.php:586 inc/options/browsercache.php:669
+msgid "Set this header to assist in identifying optimized files."
+msgstr "Podesiti ovo zaglavlje kao pomoć u identificiranju optimiziranih datoteka."
+
+#: BrowserCache_ConfigLabels.php:17 BrowserCache_ConfigLabels.php:28
+#: BrowserCache_ConfigLabels.php:37 inc/options/browsercache.php:120
+msgid "Set W3 Total Cache header"
+msgstr "Podesiti W3 Total Cache zaglavlje"
+
+#: BrowserCache_ConfigLabels.php:16
+msgid "Set entity tag (eTag)"
+msgstr "Podesiti oznaku entiteta (eTag)"
+
+#: inc/options/browsercache.php:106 inc/options/browsercache.php:404
+#: inc/options/browsercache.php:551 inc/options/browsercache.php:633
+msgid "Set pragma and cache-control headers to encourage browser caching of files."
+msgstr "Podesiti zaglavlja pragme i kontrole predmemorije, kako bi potaknuli preglednik da predmemorira datoteke."
+
+#: BrowserCache_ConfigLabels.php:14 BrowserCache_ConfigLabels.php:25
+#: BrowserCache_ConfigLabels.php:34 inc/options/browsercache.php:105
+msgid "Set cache control header"
+msgstr "Podesiti zaglavlje kontrole predmemorije"
+
+#: inc/options/browsercache.php:99 inc/options/browsercache.php:388
+#: inc/options/browsercache.php:534 inc/options/browsercache.php:617
+msgid "Set the expires header to encourage browser caching of files."
+msgstr "Podesiti zaglavlje isteka, kako bi potaknuli preglednik da predmemorira datoteke."
+
+#: BrowserCache_ConfigLabels.php:12 BrowserCache_ConfigLabels.php:23
+#: BrowserCache_ConfigLabels.php:32 inc/options/browsercache.php:98
+msgid "Set expires header"
+msgstr "Podesiti zaglavlje isteka"
+
+#: inc/options/browsercache.php:90 inc/options/browsercache.php:382
+#: inc/options/browsercache.php:528 inc/options/browsercache.php:611
+msgid "Set the Last-Modified header to enable 304 Not Modified response."
+msgstr "Podesiti zaglavlje koje je posljednje izmijenjeno, kako bi se omogućio odgovor 304 Nije izmijenjeno (Not Modified)."
+
+#: BrowserCache_ConfigLabels.php:11 BrowserCache_ConfigLabels.php:22
+#: BrowserCache_ConfigLabels.php:31 inc/options/browsercache.php:88
+msgid "Set Last-Modified header"
+msgstr "Podesiti zaglavlje koje je posljednje izmijenjeno"
+
+#: inc/options/browsercache.php:80
+msgid "Specify global browser cache policy."
+msgstr "Navesti globalnu politiku preglednika, po pitanju predmemorije."
+
+#: inc/options/about.php:260
+msgid "Please reach out to all of these people and support their projects if you're so inclined."
+msgstr "Ako ste u mogućnosti javite se svim ovim ljudima i podržite njihove projekte."
+
+#: inc/options/about.php:243
+msgid "It's quite difficult to recall all of the innovators that have shared their thoughts, code and experiences in the blogosphere over the years, but here are some names to get you started:"
+msgstr "Prilično je teško spomenuti sve inovatore koji su podijelili svoja razmišljanja, kod, i višegodišnja iskustva iz blogosfere, ali evo nekih imena od kojih možete početi:"
+
+#: inc/options/about.php:241
+msgid "Who do I thank for all of this?"
+msgstr "Kome zahvaliti za sve ovo?"
+
+#: inc/options/about.php:239
+msgid "Your users have less data to download, you can now serve more visitors at once without upgrading your hardware and you don't have to change how you do anything; just set it and forget it."
+msgstr "Vaši korisnici imaju manje podataka za preuzimanje, sada možete posluživati više posjetilaca odjednom, bez unaprjeđenja vašeg hardvera i bez promijene bilo čega u vašem načinu rada; samo podesite i zaboravite na to."
+
+#: inc/options/about.php:216
+msgid "JavaScript embedding group and location management"
+msgstr "Upravljanje grupiranjem i lokacijama kod JavaScript ugrađivanja"
+
+#: inc/options/about.php:175
+msgid "Minification of posts / pages and feeds"
+msgstr "Minifikacija objava / stranica i kanala"
+
+#: inc/options/about.php:154
+msgid "Caching of feeds (site, categories, tags, comments, search results) in memory or on disk"
+msgstr "Predmemoriranje kanala (web-stranica, kategorije, oznake, komentari, rezultati pretraga) u memoriji ili na disku"
+
+#: inc/options/about.php:153
+msgid "Caching of objects in memory or on disk"
+msgstr "Predmemoriranje objekata u memoriji ili na disku"
+
+#: inc/options/about.php:152
+msgid "Caching of database objects in memory or on disk"
+msgstr "Predmemoriranje objekata baze podataka u memoriji ili na disku"
+
+#: inc/options/about.php:89
+msgid "Increased web server concurrency and increased scale (easily sustain high traffic spikes)"
+msgstr "Povećana konkurentnost web poslužitelja i povećana opseg (lako izdržava \"pikove\" velikog prometa)"
+
+#: inc/options/about.php:39
+msgid "Optimized progressive render (pages start rendering immediately)"
+msgstr "Optimizirano progresivno iscrtavanje (stranice se odmah počinju iscrtavati)"
+
+#: inc/options/about.php:38
+msgid "Increased visitor time on site"
+msgstr "Produženo zadržavanje posjetilaca na web-stranici"
+
+#: inc/options/about.php:37
+msgid "Improved Google search engine ranking"
+msgstr "Poboljčano rangiranje na Google tražilici"
+
+#: inc/lightbox/support_us.php:115
+msgid "Yes, sign me up."
+msgstr "Da, registriraj me."
+
+#: inc/lightbox/support_us.php:52
+msgid "Login & Rate Us"
+msgstr "Prijavite se i ocijenite nas"
+
+#: inc/lightbox/support_us.php:76
+msgid "Tell Your Friends"
+msgstr "Recite svojim prijateljima"
+
+#: inc/lightbox/self_test.php:529
+msgid "Network mode:"
+msgstr "Mrežni režim:"
+
+#: inc/lightbox/self_test.php:520
+msgid "URL rewrite:"
+msgstr "Prepravljanje URL-a:"
+
+#: inc/lightbox/self_test.php:515
+msgid "Not defined"
+msgstr "Nije definirano"
+
+#: inc/lightbox/self_test.php:509
+msgid "WP_CACHE define:"
+msgstr "WP_CACHE definicija:"
+
+#: inc/lightbox/self_test.php:500
+msgid "Fancy permalinks:"
+msgstr "Lijepe stalne veze:"
+
+#: inc/lightbox/self_test.php:467
+msgid "Write-able"
+msgstr "Moguć je upis"
+
+#: inc/lightbox/self_test.php:463 inc/lightbox/self_test.php:469
+#: inc/lightbox/self_test.php:483 inc/lightbox/self_test.php:493
+msgid "Not write-able"
+msgstr "Nije moguć upis"
+
+#: CdnEngine_Mirror_Akamai.php:105 CdnEngine_Mirror_Cotendo.php:106
+#: CdnEngine_Mirror_Edgecast.php:59 CdnEngine_Mirror_MaxCdn.php:156
+#: inc/lightbox/self_test.php:461 inc/lightbox/self_test.php:481
+#: inc/lightbox/self_test.php:495
+msgid "OK"
+msgstr "OK"
+
+#: inc/lightbox/self_test.php:441
+msgid "WordPress Resources"
+msgstr "WordPress resursi"
+
+#: inc/lightbox/self_test.php:429
+msgid "Additional Server Modules"
+msgstr "Dodatni moduli poslužitelja"
+
+#: inc/lightbox/self_test.php:420
+msgid "(required for disk enhanced Page Cache and Browser Cache)"
+msgstr "(potrebno za disk-poboljšanu predmemoriju stranice i predmemoriju preglednika)"
+
+#: inc/lightbox/self_test.php:170 inc/lightbox/self_test.php:323
+#: inc/lightbox/self_test.php:418
+msgid "Not detected"
+msgstr "Nije detektirano"
+
+#: inc/lightbox/self_test.php:197 inc/lightbox/self_test.php:206
+#: inc/lightbox/self_test.php:215 inc/lightbox/self_test.php:314
+msgid "Not available"
+msgstr "Nije dostupno"
+
+#: inc/lightbox/self_test.php:312
+msgid "Available"
+msgstr "Dostupno"
+
+#: inc/lightbox/self_test.php:310
+msgid "set_time_limit:"
+msgstr "set_time_limit:"
+
+#: inc/lightbox/self_test.php:301
+msgid "zlib output compression:"
+msgstr "zlib izlazna kompresija:"
+
+#: inc/lightbox/self_test.php:294
+msgid "On:"
+msgstr "Na:"
+
+#: inc/lightbox/self_test.php:292
+msgid "Open basedir:"
+msgstr "Otvoriti basedir:"
+
+#: inc/lightbox/self_test.php:265
+msgid "Installed (mhash)"
+msgstr "Instalirano (mhash)"
+
+#: inc/lightbox/self_test.php:263
+msgid "Installed (hash)"
+msgstr "Instalirano (hash)"
+
+#: inc/lightbox/self_test.php:261
+msgid "Hash function:"
+msgstr "Heš (hash) funkcija:"
+
+#: inc/lightbox/self_test.php:234
+msgid "Installed (mime_content_type)"
+msgstr "Instalirano (mime_content_type)"
+
+#: inc/lightbox/self_test.php:232
+msgid "Installed (Fileinfo)"
+msgstr "Instalirano (Fileinfo)"
+
+#: inc/lightbox/self_test.php:230
+msgid "Mime type detection:"
+msgstr "Detekcija mime vrste:"
+
+#: inc/lightbox/self_test.php:220
+msgid "HTML Tidy extension:"
+msgstr "HTML Tidy ekstenzija:"
+
+#: inc/lightbox/self_test.php:202
+msgid "Memcache extension:"
+msgstr "Memcache ekstenzija:"
+
+#: inc/lightbox/self_test.php:186
+msgid "PHP6"
+msgstr "PHP6"
+
+#: inc/lightbox/self_test.php:184
+msgid "Installed (XCache)"
+msgstr "Instalirano (XCache)"
+
+#: inc/lightbox/self_test.php:182
+msgid "Installed (eAccelerator)"
+msgstr "Instalirano (eAccelerator)"
+
+#: inc/lightbox/self_test.php:180
+msgid "Installed (APC)"
+msgstr "Instalirano (APC)"
+
+#: inc/lightbox/self_test.php:152
+msgid "(required for Amazon S3, Amazon CloudFront, Rackspace CloudFiles support)"
+msgstr "(potrebno za Amazon S3, Amazon CloudFront, Rackspace CloudFiles podršku)"
+
+#: inc/lightbox/self_test.php:146
+msgid "cURL extension:"
+msgstr "cURL ekstenzija:"
+
+#: inc/lightbox/self_test.php:142
+msgid "(required for Rackspace Cloud Files support)"
+msgstr "(potrebno za Rackspace Cloud Files podršku)"
+
+#: inc/lightbox/self_test.php:140 inc/lightbox/self_test.php:150
+#: inc/lightbox/self_test.php:160 inc/lightbox/self_test.php:188
+#: inc/lightbox/self_test.php:224 inc/lightbox/self_test.php:236
+#: inc/lightbox/self_test.php:267 inc/lightbox/self_test.php:415
+msgid "Not installed"
+msgstr "Nije instalirano"
+
+#: inc/lightbox/self_test.php:138 inc/lightbox/self_test.php:148
+#: inc/lightbox/self_test.php:158 inc/lightbox/self_test.php:168
+#: inc/lightbox/self_test.php:195 inc/lightbox/self_test.php:204
+#: inc/lightbox/self_test.php:213 inc/lightbox/self_test.php:222
+#: inc/lightbox/self_test.php:321 inc/lightbox/self_test.php:413
+msgid "Installed"
+msgstr "Instalirano"
+
+#: inc/lightbox/self_test.php:136
+msgid "Multibyte String support:"
+msgstr "Podrška za višebajtne nizove:"
+
+#: inc/lightbox/self_test.php:82
+msgid "PHP Version:"
+msgstr "PHP inačica:"
+
+#: inc/lightbox/self_test.php:78
+msgid "Plugin Version:"
+msgstr "Inačica dodatka:"
+
+#: inc/lightbox/self_test.php:74
+msgid "Server Modules &amp; Resources:"
+msgstr "Moduli i resursi poslužitelja:"
+
+#: inc/lightbox/minify_recommendations.php:137
+msgid "Typically minification of advertiser code, analytics/statistics or any other types of tracking code is not recommended."
+msgstr "Obično nije preporučljiva minifikacija koda reklama, analitičkih/statističkih alata, ili bilo kakve druge vrste koda za praćenje."
+
+#: inc/lightbox/minify_recommendations.php:134
+msgid "Notes"
+msgstr "Napomene"
+
+#: inc/lightbox/minify_recommendations.php:130
+msgid "Apply &amp; close"
+msgstr "Primijeniti i zatvoriti"
+
+#: inc/lightbox/minify_recommendations.php:78
+msgid "Cascading Style Sheets:"
+msgstr "Kaskadne liste stilova:"
+
+#: inc/lightbox/minify_recommendations.php:75
+msgid "No files found."
+msgstr "Nije pronađena ni jedna datoteka."
+
+#: inc/lightbox/minify_recommendations.php:72
+#: inc/lightbox/minify_recommendations.php:121
+msgid "Check / Uncheck All"
+msgstr "Označiti / od-značiti sve"
+
+#: inc/lightbox/minify_recommendations.php:63
+#: inc/lightbox/minify_recommendations.php:112 inc/options/minify.php:520
+#: inc/options/minify.php:775
+msgid "Verify URI"
+msgstr "Provjeriti URI"
+
+#: inc/lightbox/minify_recommendations.php:59 inc/options/minify.php:515
+msgid "Embed before &lt;/body&gt;"
+msgstr "Ugraditi prije elementa &lt;/body&gt;"
+
+#: inc/lightbox/minify_recommendations.php:58 inc/options/minify.php:514
+msgid "Embed after &lt;body&gt;"
+msgstr "Ugraditi poslije elementa &lt;body&gt;"
+
+#: inc/lightbox/minify_recommendations.php:57 inc/options/minify.php:513
+msgid "Embed in &lt;head&gt;"
+msgstr "Ugraditi u &lt;head&gt;"
+
+#: inc/lightbox/minify_recommendations.php:37 inc/options/minify.php:492
+msgid "Embed Location:"
+msgstr "Ugraditi lokaciju:"
+
+#: inc/lightbox/minify_recommendations.php:36
+#: inc/lightbox/minify_recommendations.php:94 inc/options/minify.php:491
+#: inc/options/minify.php:754
+msgid "Template:"
+msgstr "Predložak:"
+
+#: inc/lightbox/minify_recommendations.php:35
+#: inc/lightbox/minify_recommendations.php:93 inc/options/minify.php:490
+#: inc/options/minify.php:753
+msgid "File URI:"
+msgstr "URI datoteke:"
+
+#: inc/lightbox/minify_recommendations.php:33
+#: inc/lightbox/minify_recommendations.php:91
+msgid "Add:"
+msgstr "Dodati:"
+
+#: inc/lightbox/minify_recommendations.php:17
+msgid "theme. Select \"add\" the files you wish to minify, then click \"apply &amp; close\" to save the settings."
+msgstr "temi. Odaberite \"dodati\", kako bi minify dodali datoteke koje želite, a zatim kliknite na \"primijeniti i zatvoriti\", kako bi sačuvali postavke."
+
+#: inc/lightbox/minify_recommendations.php:11
+msgid "To get started with minify, we've identified the following external CSS and JS objects in the"
+msgstr "Za početak rada s minifyem, identificirali smo sljedeće eksterne CSS i JS objekte u"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:47
+msgid "Something that describes your zone. Length: 1-255 chars"
+msgstr "Nešto što opisuje vašu zonu. Dužina: 1-255 znakova"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:41
+msgid "Your server's hostname or domain"
+msgstr "Host ime ili domena vašeg poslužitelja"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:14
+msgid "Pull Zone Name. Length: 3-32 chars; only letters, digits, and dash (-) accepted"
+msgstr "Ime zone povlačenja. Dužina: 3-32 znakova; prihvaćaju se samo slova, brojke i crtica (-)"
+
+#: Cdnfsd_MaxCdn_Popup_View_Zone.php:19 Cdnfsd_StackPath_Popup_View_Zone.php:19
+#: Cdn_RackSpaceCdn_Popup_View_Service_Actualize.php:37
+#: Cdn_RackSpaceCdn_Popup_View_Service_Create.php:35
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:12
+msgid "Name:"
+msgstr "Ime:"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:6
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:55
+msgid "Create Pull Zone"
+msgstr "Kreirati zonu povlačenja"
+
+#: Util_Widget.php:54
+msgid "View all"
+msgstr "Pregledati sve"
+
+#: Util_Theme.php:80
+msgid "All Templates"
+msgstr "Svi predlošci"
+
+#: Util_Ui.php:187
+msgid "Click to toggle"
+msgstr "Kliknite za prikazati/sakriti"
+
+#: Generic_Plugin_Admin.php:646
+msgid "Take a minute to update, here's why:"
+msgstr "Odvojite minutu za ažuriranje, evo zašto:"
+
+#: Util_Activation.php:249
+msgid "Update via FTP"
+msgstr "Ažurirati putem FTP-a"
+
+#: Util_Activation.php:244
+msgid "View required changes"
+msgstr "Pogledati zahtjevane izmijene"
+
+#: Util_Activation.php:185
+msgid "Execute next commands in a shell:"
+msgstr "Izvršite sljedeće naredbu u komandnom okruženju (shell-u):"
+
+#: Util_Activation.php:172
+msgid "Technical info"
+msgstr "Tehničke informacije"
+
+#: Util_WpFile.php:270
+msgid "FTP credentials don't allow to delete "
+msgstr "FTP vjerodajnice ne dozvoljavaju brisanje"
+
+#: Util_WpFile.php:236
+msgid "FTP credentials don't allow to chmod "
+msgstr "FTP vjerodajnice ne dozvoljavaju izvršavanje chmod-a"
+
+#: Util_WpFile.php:206
+msgid "FTP credentials don't allow to delete folder "
+msgstr "FTP vjerodajnice ne dozvoljavaju brisanje mape"
+
+#: Util_Activation.php:80
+msgid "<strong>%s</strong> could not be created, please run following command:<br />%s"
+msgstr "<strong>%s</strong> nije moguće kreirati, izvršite sljedeću naredbu:<br />%s"
+
+#: Util_Activation.php:72
+msgid "<li><strong style=\"color: #f00;\">chmod 777 %s</strong></li>"
+msgstr "<li><strong style=\"color: #f00;\">chmod 777 %s</strong></li>"
+
+#: Util_Activation.php:57
+msgid "%s<br />then %s."
+msgstr "%s<br />zatim %s."
+
+#: Extension_FragmentCache_Plugin_Admin.php:91
+#: Extension_ImageService_Plugin_Admin.php:132
+#: Extension_ImageService_Plugin_Admin.php:557
+#: Extension_ImageService_Plugin_Admin.php:733
+#: Extension_NewRelic_Plugin_Admin.php:120 FeatureShowcase_Plugin_Admin.php:209
+#: FeatureShowcase_Plugin_Admin.php:269 FeatureShowcase_Plugin_Admin.php:281
+#: FeatureShowcase_Plugin_Admin.php:293 FeatureShowcase_Plugin_Admin.php:305
+#: FeatureShowcase_Plugin_Admin.php:317 FeatureShowcase_Plugin_Admin.php:329
+#: FeatureShowcase_Plugin_Admin.php:341 FeatureShowcase_Plugin_Admin.php:353
+#: FeatureShowcase_Plugin_Admin.php:365 FeatureShowcase_Plugin_Admin.php:377
+#: FeatureShowcase_Plugin_Admin.php:389 FeatureShowcase_Plugin_Admin.php:401
+#: FeatureShowcase_Plugin_Admin.php:413 FeatureShowcase_Plugin_Admin.php:425
+#: FeatureShowcase_Plugin_Admin.php:437 FeatureShowcase_Plugin_Admin.php:449
+#: FeatureShowcase_Plugin_Admin.php:461 FeatureShowcase_Plugin_Admin.php:473
+#: inc/options/extensions/list.php:102
+msgid "Settings"
+msgstr "Postavke"
+
+#: Cdnfsd_Page_View_Header.php:19 Cdn_Page_View_Header.php:20
+#: Extension_CloudFlare_Page_View.php:22
+#: Extension_FragmentCache_Page_View.php:31 Extension_Genesis_Page_View.php:23
+#: Extension_NewRelic_Page_View_Apm.php:20 Extension_Swarmify_Page_View.php:19
+#: inc/options/browsercache.php:27 inc/options/cdn.php:33
+#: inc/options/dashboard.php:27 inc/options/dbcache.php:21
+#: inc/options/general.php:20 inc/options/minify.php:31
+#: inc/options/objectcache.php:21 inc/options/pgcache.php:21
+msgid "disabled"
+msgstr "isključeno"
+
+#: Extension_CloudFlare_Plugin_Admin.php:300
+msgid "empty all caches except CloudFlare"
+msgstr "isprazniti sve predmemorije osim CloudFlarea"
+
+#: Extension_CloudFlare_Plugin.php:169
+msgid "Account"
+msgstr "Račun"
+
+#: Extension_CloudFlare_Plugin.php:163
+msgid "Analytics"
+msgstr "Analitike"
+
+#: Extension_CloudFlare_Plugin.php:157
+msgid "My Websites"
+msgstr "Moje web-stranice"
+
+#: Extension_CloudFlare_Plugin.php:151
+msgid "CloudFlare"
+msgstr "CloudFlare"
+
+#: inc/options/general.php:522
+msgid "Purge cache"
+msgstr "Pročistiti predmemoriju"
+
+#: Util_Ui.php:217
+msgid "Save all settings"
+msgstr "Spremi sve postavke"
+
+#: Extension_CloudFlare_Page_View.php:167
+msgid "Development mode:"
+msgstr "Razvojni režim:"
+
+#: Extension_CloudFlare_Page_View.php:352
+msgid "Rocket Loader:"
+msgstr "Rocket Loader:"
+
+#: Extension_CloudFlare_Page_View.php:540
+msgid "Security level:"
+msgstr "Sigurnosni nivo:"
+
+#: Extension_CloudFlare_GeneralPage_View.php:8
+msgid "Network Performance &amp; Security powered by CloudFlare"
+msgstr "Mrežne performanse i sigurnost, pokretani CloudFlareom"
+
+#: Extension_Genesis_Page_View.php:270
+msgid "Select user roles that should not use the fragment cache."
+msgstr "Odaberite korisničke uloge koje ne bi trebale koristiti fragment predmemoriju."
+
+#: Extension_Genesis_Page_View.php:252
+msgid "Select roles:"
+msgstr "Odabir uloga:"
+
+#: Extension_Genesis_Page_View.php:247
+msgid "Select hooks from the list that should not be cached if user belongs to any of the roles selected below."
+msgstr "Odaberite kuke (hooks) iz liste koje ne bi trebale biti predmemorirane ako korisnik pripada bilo kojoj ulozi navedenoj ispod."
+
+#: Extension_Genesis_Page_View.php:203
+msgid "Disable fragment cache:"
+msgstr "Isključi fragment predmemoriju:"
+
+#: Extension_Genesis_Page_View.php:195
+msgid "Caches wp_footer loop."
+msgstr "Predmemorira wp_footer petlju."
+
+#: Extension_Genesis_Page_View.php:186
+msgid "Caches footer loop."
+msgstr "Predmemorira petlju podnožja (footer)."
+
+#: Extension_Genesis_Page_View.php:194
+msgid "Cache footer:"
+msgstr "Predmemorija podnožja:"
+
+#: Extension_Genesis_Page_View.php:169
+msgid "List of pages that should not have sidebar cached. Specify one page / post per line. This area supports regular expressions."
+msgstr "Popis stranica koje ne bi trebali imati predmemoriranu bočnu traku. Navedite jednu stranicu / objavu po retku. Podržava regularne izraze."
+
+#: Extension_Genesis_Page_View.php:168
+msgid "Exclude pages:"
+msgstr "Izuzeti stranice:"
+
+#: Extension_Genesis_Page_View.php:161
+msgid "Caches sidebar loop, the widget area."
+msgstr "Predmemorira bočnu traku, petlju, widget područje."
+
+#: Extension_Genesis_Page_View.php:160
+msgid "Cache sidebar:"
+msgstr "Predmemorija bočne trake:"
+
+#: Extension_Genesis_Page_View.php:144
+msgid "Caches the ping loop, pagination is supported. One per line."
+msgstr "Predmemorira pin petlju, numeriranje stranica je podržano. Jedna stavka po retku."
+
+#: Extension_Genesis_Page_View.php:143
+msgid "Cache pings:"
+msgstr "Predmemorija pingova:"
+
+#: Extension_Genesis_Page_View.php:135
+msgid "Caches the comments loop, pagination is supported."
+msgstr "Predmemorira petlju komentara, numeriranje stranica je podržano."
+
+#: Extension_Genesis_Page_View.php:134
+msgid "Cache comments:"
+msgstr "Predmemorija komentara:"
+
+#: Extension_Genesis_Page_View.php:117
+msgid "Cache single post / page:"
+msgstr "Predmemorija samostalne objave / stranice:"
+
+#: Extension_Genesis_Page_View.php:126
+msgid "List of pages / posts that should not have the single post / post loop cached. Specify one page / post per line. This area supports regular expressions."
+msgstr "Popis stranica / objava koje ne bi trebali imati predmemoriranu samostalnu objavu / petlju objave. Navedite jednu stranicu / objavu po retku. Podržava regularne izraze."
+
+#: Extension_Genesis_Page_View.php:125
+msgid "Excluded single pages / posts:"
+msgstr "Izuzete samostalne stranice / objave:"
+
+#: Extension_Genesis_Page_View.php:118
+msgid "Caches the single post / page loop, pagination is supported."
+msgstr "Predmemorira samostalnu objavu / petlju stranice, numeriranje stranica je podržano."
+
+#: Extension_Genesis_Page_View.php:109
+msgid "Flushes the posts loop cache on post updates. See setting above for affected loops."
+msgstr "Pročišćava predmemoriju petlje objava pri ažuriranju objava. Pogledajte postavke iznad, kako bi znali na koje petlje se odnosi."
+
+#: Extension_Genesis_Page_View.php:108
+msgid "Flush posts loop:"
+msgstr "Pročisti petlju objava:"
+
+#: Extension_Genesis_Page_View.php:92
+msgid "Caches the posts listed on tag, categories, author and other term pages, pagination is supported."
+msgstr "Predmemorira objave izlistane na stranicama oznaka, kategorija, autora i stranicama ostalih pojamova, numeriranje stranica je podržano."
+
+#: Extension_Genesis_Page_View.php:91
+msgid "Cache author/tag/categories/term post loop:"
+msgstr "Predmemorirati autor/oznaka/kategorija/pojam petlju objava:"
+
+#: Extension_Genesis_Page_View.php:83
+msgid "Caches the front page post loop, pagination is supported."
+msgstr "Predmemorirati petlju objava početne stranice, numeriranje stranica je podržano."
+
+#: Extension_Genesis_Page_View.php:82
+msgid "Cache front page post loop:"
+msgstr "Predmemorirati petlju objava početne stranice:"
+
+#: Extension_Genesis_Page_View.php:66
+msgid "Caches secondary navigation filter; per page."
+msgstr "Predmemorira filter sekundarne navigacije; po stranici."
+
+#: Extension_Genesis_Page_View.php:64
+msgid "Cache secondary navigation:"
+msgstr "Predmemorirati filter sekundarne navigacije:"
+
+#: Extension_Genesis_Page_View.php:57
+msgid "Caches the navigation filter; per page."
+msgstr "Predmemorirati filter navigacije; po stranici."
+
+#: Extension_Genesis_Page_View.php:55
+msgid "Cache primary navigation:"
+msgstr "Predmemorirati filter navigacije:"
+
+#: Extension_Genesis_Page_View.php:48
+msgid "Cache header loop. This is the area where the logo is located."
+msgstr "Predmemorirati petlju zaglavlja. To je područje gdje se nalazi logo."
+
+#: Extension_Genesis_Page_View.php:46
+msgid "Cache header:"
+msgstr "Predmemorija zaglavlja:"
+
+#: Extension_Genesis_Page_View.php:39
+msgid "Cache wp_head. This includes the embedded CSS, JS etc."
+msgstr "Predmemorirati wp_head. To uključuje ugrađene CSS, JS itd."
+
+#: Extension_Genesis_Page_View.php:37
+msgid "Cache wp_head loop:"
+msgstr "Predmemorirati wp_head:"
+
+#: Extension_FeedBurner_Plugin_Admin.php:43
+msgid "Network Admin has no main URL."
+msgstr "Mrežni Admin nema glavni URL."
+
+#: Extension_FeedBurner_Plugin_Admin.php:42
+msgid "Automatically ping (purge) FeedBurner feeds when pages / posts are modified. Default URL: %s"
+msgstr "Automatski pingaj (pročisti) FeedBurner kanale kada su stranice / objave modificirane. Izvorni URL: %s"
+
+#: Extension_CloudFlare_GeneralPage_View.php:11
+msgid "CloudFlare protects and accelerates websites."
+msgstr "CloudFlare štiti i ubrzava web-stranice."
+
+#: Extension_Genesis_Plugin_Admin.php:130
+#: Extension_WordPressSeo_Plugin_Admin.php:93
+#: Extension_Wpml_Plugin_Admin.php:126 Util_Ui.php:103
+msgid "Hide this message"
+msgstr "Sakrij ovu poruku"
+
+#: Cdnfsd_Page_View_Header.php:19 Cdn_Page_View_Header.php:20
+#: Extension_CloudFlare_Page_View.php:20
+#: Extension_FragmentCache_Page_View.php:29 Extension_Genesis_Page_View.php:21
+#: Extension_NewRelic_Page_View_Apm.php:18 Extension_Swarmify_Page_View.php:17
+#: inc/options/browsercache.php:27 inc/options/cdn.php:33
+#: inc/options/dashboard.php:27 inc/options/dbcache.php:21
+#: inc/options/general.php:20 inc/options/minify.php:31
+#: inc/options/objectcache.php:21 inc/options/pgcache.php:21
+msgid "enabled"
+msgstr "uključen"
+
+#: BrowserCache_ConfigLabels.php:20 BrowserCache_ConfigLabels.php:40
+#: inc/options/browsercache.php:183
+msgid "Prevent caching of objects after settings change"
+msgstr "Spriječava predmemoriranje objekata nakon izmijene postavki"

@@ -1,0 +1,11 @@
+'c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:187;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-09-13 12:04:33";s:13:"post_date_gmt";s:19:"2022-09-13 12:04:33";s:12:"post_content";s:1351:"<!-- wp:paragraph -->
+<p><strong>Karakteristike:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Sigurnosni pojas u 3 tačke</li><li>Vesele melodije (podesive)</li><li>Vibracije koje smiruju bebu (podesiva)</li><li>Gumene podloge za osiguranje stabilnosti</li><li>Širok pojas koji obezbeđuje siguran položaj deteta</li><li>3 igračke: ogledalo, plišana žirafa, šarena mekana knjižica sa ružičastim stranicama, svaka strana sadrži grafičke motive</li><li>Lako i brzo pričvršćivanje / uklanjanje igračke za bebe</li><li>Lako preklapanje</li><li>Sa kompaktnom veličinom i malom težinom, ljuljaškaje laka i zgodana za nošenje tokom putovanja</li><li>Za uzrast od 0 do 12 meseci</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>ANIMALS ljuljaška je velika pomoć koja će služiti i kod kuće i u pokretu! Tri živopisne igračke u kombinaciji sa melodijama su odličan način da se dete interesuje i razvije svoja čula. Oni su izvanredan način da usrećite bebu dok je u ljuljaci. Vrlo nežne vibracije pomažu i uspavljuju bebu. Svaka od igračaka se može odvojiti od igračke i pričvrstiti na drugom mestu. Dete je obezbeđeno pojasevima sa 3 tačke, što garantuje sigurnost. Zahvaljujući maloj veličini, lako se može pomerati sa mesta na mesto ili čak poneti na dugo putovanje.</p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:40:"KINDERKRAFT STOLICA ZA LJULJANJE ANIMALS";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:40:"kinderkraft-stolica-za-ljuljanje-animals";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-09-13 12:04:33";s:17:"post_modified_gmt";s:19:"2022-09-13 12:04:33";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:79:"https://dstojanovic.wppsbootcamp.com/Projekat/?post_type=coming_soon&#038;p=187";s:10:"menu_order";i:0;s:9:"post_type";s:11:"coming_soon";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

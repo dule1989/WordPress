@@ -1,0 +1,624 @@
+
+18-09-2022 09:49:29 [dstojanovic.wppsbootcamp.com][info] Parent plugin start installation!
+18-09-2022 09:49:29 [dstojanovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+18-09-2022 09:49:29 [dstojanovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+18-09-2022 09:50:06 [dstojanovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/dstojanovic/public_html/Projekat/wp-content/uploads/wio_backup)
+-------------------------------
+18-09-2022 09:51:57 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:51:57 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+18-09-2022 09:51:57 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;12&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:119323,&quot;final_size&quot;:84347,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:102644,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494718}
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 58
+-------------------------------
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/dstojanovic/public_html/Projekat/wp-content/uploads/wio_backup/2022/09)
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/banca_intesa.png) to a remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/banca_intesa-150x37.png) to a remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;70&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:24988,&quot;final_size&quot;:8866,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:17393,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494718}
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 57
+-------------------------------
+18-09-2022 09:51:58 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart.png) to a remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart-150x150.png) to a remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart-300x42.png) to a remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;71&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:626521,&quot;final_size&quot;:40972,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:602849,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494719}
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 56
+-------------------------------
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/footer-bg.jpg) to a remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/footer-bg-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:51:59 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/footer-bg-300x250.jpg) to a remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;72&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:63779,&quot;final_size&quot;:45281,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:56285,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494720}
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 55
+-------------------------------
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blogo_vectorized.png) to a remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blogo_vectorized-150x150.png) to a remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;103&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:25539,&quot;final_size&quot;:10719,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:14714,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494720}
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 54
+-------------------------------
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blogo_vectorized-1.png) to a remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:00 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blogo_vectorized-1-150x150.png) to a remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blogo_vectorized-1-300x300.png) to a remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;109&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:127226,&quot;final_size&quot;:46426,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:84437,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494721}
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 53
+-------------------------------
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-main.jpg) to a remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-main-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-main-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;132&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:204148,&quot;final_size&quot;:65919,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:192231,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494721}
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 52
+-------------------------------
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:01 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-main.jpg) to a remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-main-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-main-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;134&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:205353,&quot;final_size&quot;:77178,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:191416,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494722}
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 51
+-------------------------------
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-1.jpg) to a remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-1-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-1-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;136&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:303419,&quot;final_size&quot;:109912,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:282961,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494722}
+18-09-2022 09:52:02 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 50
+-------------------------------
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-oneto3-black-grey-9-36kg-isofix.jpg) to a remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-oneto3-black-grey-9-36kg-isofix-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-oneto3-black-grey-9-36kg-isofix-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;138&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:76410,&quot;final_size&quot;:76410,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:60136,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494723}
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 49
+-------------------------------
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/3.jpg) to a remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/3-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/3-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:03 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;139&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:37109,&quot;final_size&quot;:37109,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:25372,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494724}
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 48
+-------------------------------
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/2.jpg) to a remote server (server_1).
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #140). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 600x600
+	-&gt; Relative path: 2022/09/2.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x480, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;140&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494724}
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][error] Failed to process (url: https://dstojanovic.wppsbootcamp.com/Projekat/wp-content/uploads/2022/09/2.jpg, path: /home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/2.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 47
+-------------------------------
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/1.jpg) to a remote server (server_1).
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/1-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/1-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;141&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:47111,&quot;final_size&quot;:47111,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:33030,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494724}
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:04 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/lj195.jpg) to a remote server (server_1).
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/lj195-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/lj195-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;143&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:176860,&quot;final_size&quot;:66881,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:166387,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494725}
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:05 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/sedista.png) to a remote server (server_1).
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/sedista-150x150.png) to a remote server (server_1).
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/sedista-300x95.png) to a remote server (server_1).
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;158&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1096524,&quot;final_size&quot;:369818,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1001844,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494727}
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/wf_thumb_391x391_bebetto-magnum-kolica-za-bebe-crni-ram-set-2u1-naslovna.jpg) to a remote server (server_1).
+18-09-2022 09:52:07 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/wf_thumb_391x391_bebetto-magnum-kolica-za-bebe-crni-ram-set-2u1-naslovna-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/wf_thumb_391x391_bebetto-magnum-kolica-za-bebe-crni-ram-set-2u1-naslovna-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;162&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:220916,&quot;final_size&quot;:60169,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:208065,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494728}
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-01.jpg) to a remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-01-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-01-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;164&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:176519,&quot;final_size&quot;:97442,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:155547,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494728}
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/naslovna.jpg) to a remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:08 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/naslovna-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/naslovna-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;166&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:106865,&quot;final_size&quot;:65946,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:91646,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494729}
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-03.jpg) to a remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-03-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-03-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;168&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:148094,&quot;final_size&quot;:64524,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:133889,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494729}
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:09 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/2022_04_07_12963-1024x1024-1.jpg) to a remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/2022_04_07_12963-1024x1024-1-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/2022_04_07_12963-1024x1024-1-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;170&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:295215,&quot;final_size&quot;:87106,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:277330,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494730}
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-5u1-unimo-stone-grey-2020.jpg) to a remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][error] Error to optimize attachment (ID: #177). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 800x800
+	-&gt; Relative path: 2022/09/kinderkraft-stolica-za-ljuljanje-5u1-unimo-stone-grey-2020.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x768, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 800x675, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x480, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x600, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;177&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494730}
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][error] Failed to process (url: https://dstojanovic.wppsbootcamp.com/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-5u1-unimo-stone-grey-2020.jpg, path: /home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-5u1-unimo-stone-grey-2020.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-finio-black-white.jpg) to a remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:10 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-finio-black-white-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-finio-black-white-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;180&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:193278,&quot;final_size&quot;:72017,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:182605,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494731}
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-felio-light-blue.jpg) to a remote server (server_1).
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-felio-light-blue-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-felio-light-blue-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:11 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;182&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:51840,&quot;final_size&quot;:51840,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:37947,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494732}
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/1_1_15.jpg) to a remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/1_1_15-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/1_1_15-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][debug] New queue created #24, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;184&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:199891,&quot;final_size&quot;:88705,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:184372,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494732}
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blue-main.jpg) to a remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blue-main-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blue-main-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][debug] New queue created #25, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;186&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:198728,&quot;final_size&quot;:65293,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:186217,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494732}
+18-09-2022 09:52:12 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-animals-galerija-01.jpg) to a remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-animals-galerija-01-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-stolica-za-ljuljanje-animals-galerija-01-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][debug] New queue created #26, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;188&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:75859,&quot;final_size&quot;:71176,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:57103,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494733}
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blogo_vectorized-2.png) to a remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/blogo_vectorized-2-150x150.png) to a remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][debug] New queue created #27, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;212&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:21797,&quot;final_size&quot;:9512,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:12293,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494733}
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/beba-i-mama.jpg) to a remote server (server_1).
+18-09-2022 09:52:13 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/beba-i-mama-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/beba-i-mama-300x189.jpg) to a remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][debug] New queue created #28, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;280&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:67998,&quot;final_size&quot;:44695,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:55092,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494734}
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/logobabyy.png) to a remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/logobabyy-150x150.png) to a remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/logobabyy-300x150.png) to a remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][debug] New queue created #29, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;282&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:23851,&quot;final_size&quot;:14953,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:10544,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494734}
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+18-09-2022 09:52:14 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/muuvo-baner-2021-kraj.jpg) to a remote server (server_1).
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/muuvo-baner-2021-kraj-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/muuvo-baner-2021-kraj-300x109.jpg) to a remote server (server_1).
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][debug] New queue created #30, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;284&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1233222,&quot;final_size&quot;:208050,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1217560,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494735}
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/000-baner-auto-sediste.jpg) to a remote server (server_1).
+18-09-2022 09:52:15 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/000-baner-auto-sediste-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/000-baner-auto-sediste-300x109.jpg) to a remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][debug] New queue created #31, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;285&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:396793,&quot;final_size&quot;:143289,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:379687,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494736}
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-kolica-za-bebe-baner.jpg) to a remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-kolica-za-bebe-baner-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-kolica-za-bebe-baner-300x109.jpg) to a remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][debug] New queue created #32, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;286&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:469956,&quot;final_size&quot;:176495,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:454388,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494736}
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+18-09-2022 09:52:16 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/baner_aveo_web.jpg) to a remote server (server_1).
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/baner_aveo_web-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/baner_aveo_web-300x109.jpg) to a remote server (server_1).
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][debug] New queue created #33, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;287&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:659967,&quot;final_size&quot;:147532,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:644150,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494737}
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:17 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kunert_web2.jpg) to a remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kunert_web2-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kunert_web2-300x109.jpg) to a remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][debug] New queue created #34, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;288&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:541244,&quot;final_size&quot;:148841,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:527051,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494738}
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto_baner_holland.jpg) to a remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto_baner_holland-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:18 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto_baner_holland-300x109.jpg) to a remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][debug] New queue created #35, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;289&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:378839,&quot;final_size&quot;:164831,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:359704,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494739}
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/comfotrup_mali_baner_kompresovan.jpg) to a remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/comfotrup_mali_baner_kompresovan-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/comfotrup_mali_baner_kompresovan-300x220.jpg) to a remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][debug] New queue created #36, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;292&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:294726,&quot;final_size&quot;:123656,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:263842,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494739}
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/logobaby1.png) to a remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:19 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/logobaby1-150x150.png) to a remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/logobaby1-300x120.png) to a remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][debug] New queue created #37, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;307&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:152524,&quot;final_size&quot;:49010,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:94426,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494740}
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/halo-beba-728x364-1.jpg) to a remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/halo-beba-728x364-1-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/halo-beba-728x364-1-300x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][debug] New queue created #38, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;344&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:43438,&quot;final_size&quot;:43438,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:30034,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494740}
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/download.jpg) to a remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/download-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:20 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:21 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/download-300x149.jpg) to a remote server (server_1).
+18-09-2022 09:52:21 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:21 [dstojanovic.wppsbootcamp.com][debug] New queue created #39, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;345&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:22100,&quot;final_size&quot;:22100,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:7378,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494741}
+18-09-2022 09:52:21 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+18-09-2022 09:52:21 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:21 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/ABOUT-contact-us_Mobile.jpg) to a remote server (server_1).
+18-09-2022 09:52:21 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:21 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/ABOUT-contact-us_Mobile-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/ABOUT-contact-us_Mobile-300x109.jpg) to a remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][debug] New queue created #40, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;346&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:95094,&quot;final_size&quot;:70146,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:87892,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494742}
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/mom-baby-banner.jpg) to a remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/mom-baby-banner-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/mom-baby-banner-300x95.jpg) to a remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][debug] New queue created #41, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;347&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:33903,&quot;final_size&quot;:33903,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:26356,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494742}
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:22 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Insurance.jpg) to a remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Insurance-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Insurance-300x94.jpg) to a remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][debug] New queue created #42, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;348&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:454595,&quot;final_size&quot;:74691,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:443329,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494743}
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-galerija-2.jpg) to a remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-galerija-2-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-galerija-2-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][debug] New queue created #43, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;375&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:112473,&quot;final_size&quot;:71825,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:98884,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494743}
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:23 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-galerija-1.jpg) to a remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-galerija-1-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-unity-isofix-15-36-kg-black-galerija-1-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][debug] New queue created #44, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;376&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:108866,&quot;final_size&quot;:68907,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:95438,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494744}
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-4.jpg) to a remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-4-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-4-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][debug] New queue created #45, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;377&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:170237,&quot;final_size&quot;:91071,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:154974,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494744}
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:24 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-3.jpg) to a remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-3-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-3-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][debug] New queue created #46, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;378&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:201295,&quot;final_size&quot;:90482,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:197198,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494745}
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-2.jpg) to a remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-2-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-vado-red-2-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][debug] New queue created #47, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;379&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:271302,&quot;final_size&quot;:136228,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:247683,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494745}
+18-09-2022 09:52:25 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/young-mother-walking-with-baby-stroller-scaled-e1663264608837.jpg) to a remote server (server_1).
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/young-mother-walking-with-baby-stroller-scaled-e1663264608837-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/young-mother-walking-with-baby-stroller-scaled-e1663264608837-243x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][debug] New queue created #48, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;482&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:307849,&quot;final_size&quot;:268326,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:282931,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494746}
+18-09-2022 09:52:26 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-03.jpg) to a remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-03-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-03-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][debug] New queue created #49, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;491&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:166689,&quot;final_size&quot;:90440,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:146998,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494747}
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-02.jpg) to a remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-02-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-gallery-02-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][debug] New queue created #50, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;492&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:139636,&quot;final_size&quot;:77815,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:122409,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494747}
+18-09-2022 09:52:27 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1.jpg) to a remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-set-3u1-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][debug] New queue created #51, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;493&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:110738,&quot;final_size&quot;:63499,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:96668,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494748}
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-02.jpg) to a remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-02-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-02-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][debug] New queue created #52, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;494&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:146454,&quot;final_size&quot;:67222,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:131717,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494748}
+18-09-2022 09:52:28 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-01.jpg) to a remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-01-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bexa-b4x-ideal-new-kolica-za-bebe-set-2u1-galerija-01-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][debug] New queue created #53, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;495&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:149698,&quot;final_size&quot;:68196,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:134562,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494749}
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-navy-galerija-01.jpg) to a remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-navy-galerija-01-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-navy-galerija-01-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][debug] New queue created #54, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;496&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:36284,&quot;final_size&quot;:36284,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:24948,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494749}
+18-09-2022 09:52:29 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-lime.jpg) to a remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-lime-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/kinderkraft-auto-sediste-comfort-up-lime-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][debug] New queue created #55, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;497&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:73319,&quot;final_size&quot;:59436,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:57849,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494750}
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Flavio_15__g1.jpg) to a remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Flavio_15__g1-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Flavio_15__g1-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][debug] New queue created #56, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;498&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:240569,&quot;final_size&quot;:94591,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:221664,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494750}
+18-09-2022 09:52:30 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-dezen-06.jpg) to a remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-dezen-06-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-dezen-06-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][debug] New queue created #57, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;499&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:107630,&quot;final_size&quot;:64483,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:93937,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494751}
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-dezen-07.jpg) to a remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-dezen-07-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/bebetto-flavio-kolica-za-bebe-dezen-07-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][debug] New queue created #58, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;500&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:103290,&quot;final_size&quot;:62302,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:90054,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494751}
+18-09-2022 09:52:31 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Flavio_11_g1.jpg) to a remote server (server_1).
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Flavio_11_g1-150x150.jpg) to a remote server (server_1).
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][info] Preparing to upload a file (/home/dstojanovic/public_html/Projekat/wp-content/uploads/2022/09/Flavio_11_g1-300x300.jpg) to a remote server (server_1).
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][debug] New queue created #59, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;501&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:243040,&quot;final_size&quot;:101162,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:224413,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663494752}
+18-09-2022 09:52:32 [dstojanovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+18-09-2022 09:54:19 [dstojanovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+18-09-2022 09:54:19 [dstojanovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------

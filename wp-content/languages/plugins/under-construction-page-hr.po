@@ -1,0 +1,686 @@
+# Translation of Plugins - Under Construction - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Under Construction - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-07 10:26:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Under Construction - Stable (latest release)\n"
+
+#: under-construction.php:1730
+msgid "WhatsApp phone number in international format without + or 00 prefix."
+msgstr "WhatsApp telefonski broj u internacionalnom obliku bez + ili 00 oznaka ispred."
+
+#: under-construction.php:1729
+msgid "123-456-789"
+msgstr "123-456-789 "
+
+#: under-construction.php:1807
+msgid "Temporarily Closed"
+msgstr "Privremeno zatvoreno"
+
+#: under-construction.php:1711
+msgid "VK profile URL"
+msgstr "VK profil url"
+
+#: under-construction.php:1710
+msgid "VK Profile"
+msgstr "VK profil"
+
+#: under-construction.php:1805
+msgid "Pink Lips"
+msgstr "Roze usne"
+
+#: under-construction.php:1762
+msgid "Simple Office"
+msgstr "Jednostavan ured"
+
+#: under-construction.php:1799
+msgid "Fitness Studio Landing Page"
+msgstr "Fitness Studio Landing Page"
+
+#: under-construction.php:1796
+msgid "Sunset"
+msgstr "Zalaz"
+
+#: under-construction.php:1793
+msgid "Forest in the Fog"
+msgstr "Šuma u magli"
+
+#: under-construction.php:1790
+msgid "Travel Blog"
+msgstr "Blog putovanja"
+
+#: under-construction.php:1760
+msgid "Simple Beige Text"
+msgstr "Jednostavan beige tekst"
+
+#: under-construction.php:1778
+msgid "Small Office"
+msgstr "Mali ured"
+
+#: under-construction.php:2202
+msgid "Features"
+msgstr "Značajke"
+
+#: under-construction.php:2104
+msgid "Save &amp; Validate License Key"
+msgstr "Spremite &amp; Potvrdite Licencni ključ"
+
+#: under-construction.php:2081 under-construction.php:2088
+msgid "License Status"
+msgstr "Status Licence"
+
+#: under-construction.php:2062
+msgid "License Key"
+msgstr "Licencni Ključ"
+
+#: under-construction.php:1909
+msgid "Secret Direct Access Links"
+msgstr "Tajna Poveznica za Direktan Pristup"
+
+#: under-construction.php:1774
+msgid "Green Smoothie Webinar"
+msgstr "Zeleni Smoothie Webinar"
+
+#: under-construction.php:1766
+msgid "The Watch Store"
+msgstr "Trgovina Satova"
+
+#: under-construction.php:1802
+msgid "Mountain Peak"
+msgstr "Planinski Vrh"
+
+#: under-construction.php:1622
+msgid "3rd Party Shortcode Support in Content"
+msgstr "Podrška za kratke kodove od treće strane u Sadržaju"
+
+#: under-construction.php:1457
+msgid "While performing maintenance or having any temporary content displayed, it is favorable for SEO to prevent search engines from indexing the temporaray site. This is a <a href=\"#\" class=\"open-ucp-upsell\" data-pro-ad=\"search_engines_text\">PRO feature</a>."
+msgstr "Dok radite na održavanju ili prikazujete bilo kakav privremeni sadržaj, dobro je za SEO da se tražilice spriječe od indeksiranja privremene web-stranice. Ovo je a <a href=\"#\" class=\"open-ucp-upsell\" data-pro-ad=\"search_engines_text\">PRO značajka</a>."
+
+#: under-construction.php:1450
+msgid "Prevent Search Engines from Indexing the Temporary Site"
+msgstr "Spriječite Tražilice da Indeksiraju Privremenu Web-stranicu"
+
+#: under-construction.php:1276
+msgid "License key saved and activated!"
+msgstr "Licencni ključ spremljen i aktiviran!"
+
+#: under-construction.php:1268
+msgid "License key saved."
+msgstr "Licencni ključ spremljen."
+
+#: under-construction.php:856 under-construction.php:873
+#: under-construction.php:890
+msgid "I'm not interested (remove this notice)"
+msgstr "Nisam zainteresiran (makni ovu obavijest)"
+
+#: under-construction.php:855
+msgid "Translate UCP into your language &amp; get a PRO license for free"
+msgstr "Prevedite UCP na svoj jezik i dobijte PRO licencu sasvim besplatno"
+
+#: under-construction.php:347
+msgid "UnderConstructionPage PRO"
+msgstr "UnderConstructionPage PRO"
+
+#. Description of the plugin
+msgid "Put your site behind a great looking under construction, coming soon, maintenance mode or landing page."
+msgstr "Stavite svoju web-stranicu iza sjajne stranice u izgradnji, uskoro dolazi, način održavanja ili odredišne stranice."
+
+#: under-construction.php:1899
+msgid "Whitelisted IP Addresses"
+msgstr "Izuzete IP adrese"
+
+#: under-construction.php:1758 under-construction.php:1781
+msgid "Build Your Own Custom Theme"
+msgstr "Izgradite vlastitu prilagođenu temu"
+
+#: under-construction.php:1804
+msgid "Christmas Greetings"
+msgstr "Božićna čestitka"
+
+#: under-construction.php:1488
+msgid "Reset all settings to default values"
+msgstr "Vratite sve postavke na zadane vrijednosti"
+
+#. Author of the plugin
+#: under-construction.php:1105
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#: under-construction.php:1086
+msgid "Get the <b>PRO</b> version"
+msgstr "Preuzmite <b>PRO</b> verziju"
+
+#: under-construction.php:1073
+msgid "Go <b>PRO</b>"
+msgstr "Krenite na <b>PRO</b> verziju"
+
+#: under-construction.php:1073 under-construction.php:1086
+#: under-construction.php:2201
+msgid "Get PRO"
+msgstr "Preuzmite PRO"
+
+#: under-construction.php:1932
+msgid "Selected users (when logged in) will <b>not</b> be affected by the under construction mode and will always see the \"normal\" site."
+msgstr "Odabrani korisnici (kada su prijavljeni) <b>neće</b> biti pod utjecajem under construction načina rada te će uvijek vidjeti \"normalnu\" web-stranicu."
+
+#: under-construction.php:1924
+msgid "Selected user roles will <b>not</b> be affected by the under construction mode and will always see the \"normal\" site. Default: administrator."
+msgstr "Odabrane korisničke uloge <b>neće</b> biti pod utjecajem under construction načina rada te će uvijek vidjeti \"normalnu\" web-stranicu. Zadano: administrator."
+
+#: under-construction.php:1745
+msgid "Show more Social &amp; Contact Icons"
+msgstr "Prikaži više Društvenih i Kontakt Ikona"
+
+#: under-construction.php:1742
+msgid "Phone number in full international format."
+msgstr "Broj telefona u potpunom međunarodnom formatu."
+
+#: under-construction.php:1740
+msgid "Phone Number"
+msgstr "Broj telefona"
+
+#: under-construction.php:1736
+msgid "Email will be encoded on the page to protect it from email address harvesters."
+msgstr "Adresa e-pošte na stranici će biti zaštićena kako bi se zaštitila od skupljača adresa e-pošte."
+
+#: under-construction.php:1735
+msgid "name@domain.com"
+msgstr "name@domain.com"
+
+#: under-construction.php:1734
+msgid "Email Address"
+msgstr "Adresa e-pošte"
+
+#: under-construction.php:1741
+msgid "+1-123-456-789"
+msgstr "+1-123-456-789"
+
+#: under-construction.php:1728
+msgid "WhatsApp Phone Number"
+msgstr "WhatsApp broj telefona"
+
+#: under-construction.php:1724
+msgid "Skype username or account name."
+msgstr "Skype korisničko ime ili ime računa"
+
+#: under-construction.php:1723
+msgid "Skype username or account name"
+msgstr "Skype korisničko ime ili ime računa"
+
+#: under-construction.php:1722
+msgid "Skype Username"
+msgstr "Skype korisničko ime"
+
+#: under-construction.php:1718
+msgid "Complete URL, with https prefix to Telegram group, channel or account."
+msgstr "Potpuni URL, s https prefiksom za Telegram grupu, kanal ili račun."
+
+#: under-construction.php:1717
+msgid "Telegram group, channel or account URL"
+msgstr "Telegram grupa, kanal ili URL računa"
+
+#: under-construction.php:1716
+msgid "Telegram Group, Channel or Account"
+msgstr "Telegram Grupa, Kanal ili Račun"
+
+#: under-construction.php:1706
+msgid "Complete URL, with https prefix, to Instagram profile."
+msgstr "Potpuni URL, s https prefiksom, za Instagram profil."
+
+#: under-construction.php:1705
+msgid "Instagram profile URL"
+msgstr "Instagram profil URL"
+
+#: under-construction.php:1704
+msgid "Instagram Profile"
+msgstr "Instagram Profil"
+
+#: under-construction.php:1712
+msgid "Complete URL, with https prefix, to VK profile."
+msgstr "Potpuni URL, s https prefiksom, za VK profil."
+
+#: under-construction.php:1699
+msgid "Behance profile URL"
+msgstr "Behance profil URL"
+
+#: under-construction.php:1698
+msgid "Behance Profile"
+msgstr "Behance Profil"
+
+#: under-construction.php:1694
+msgid "Complete URL, with https prefix, to Dribbble profile."
+msgstr "Potpuni URL, s https prefiksom, za Dribble profil."
+
+#: under-construction.php:1693
+msgid "Dribbble profile URL"
+msgstr "Dribbble profil URL"
+
+#: under-construction.php:1692
+msgid "Dribbble Profile"
+msgstr "Dribbble Profil"
+
+#: under-construction.php:1688
+msgid "Complete URL, with https prefix, to Pinterest profile."
+msgstr "Potpuni URL, s https prefiksom, za Pinterest profil."
+
+#: under-construction.php:1687
+msgid "Pinterest profile URL"
+msgstr "Pinterest profil URL"
+
+#: under-construction.php:1686
+msgid "Pinterest Profile"
+msgstr "Pinterest Profil"
+
+#: under-construction.php:1682
+msgid "Complete URL, with https prefix, to Vimeo page or video."
+msgstr "Potpuni URL, s https prefiksom, za Vimeo stranicu ili video."
+
+#: under-construction.php:1681
+msgid "Vimeo page or video URL"
+msgstr "Vimeo stranica ili video URL"
+
+#: under-construction.php:1680
+msgid "Vimeo Profile Page or Video"
+msgstr "Vimeo stranica profila ili video"
+
+#: under-construction.php:1676
+msgid "Complete URL, with https prefix, to YouTube page or video."
+msgstr "Potpuni URL, s https prefiksom, za YouTube stranicu ili video."
+
+#: under-construction.php:1675
+msgid "YouTube page or video URL"
+msgstr "YouTube stranica ili video URL"
+
+#: under-construction.php:1674
+msgid "YouTube Profile Page or Video"
+msgstr "YouTube stranica profila ili video"
+
+#: under-construction.php:1670
+msgid "Complete URL, with https prefix, to LinkedIn profile page."
+msgstr "Potpuni URL, s https prefiksom, za LinkedIn stranicu profila."
+
+#: under-construction.php:1669
+msgid "LinkedIn profile page URL"
+msgstr "LinkedIn URL za profilnu stranicu"
+
+#: under-construction.php:1668
+msgid "LinkedIn Profile"
+msgstr "LinkedIn Profil"
+
+#: under-construction.php:1664
+msgid "Complete URL, with https prefix, to Twitter profile page."
+msgstr "Potpuni URL, s https prefiksom, za Twitter profilnu stranicu."
+
+#: under-construction.php:1663
+msgid "Twitter profile URL"
+msgstr "Twitter profil URL"
+
+#: under-construction.php:1662
+msgid "Twitter Profile"
+msgstr "Twitter Profil"
+
+#: under-construction.php:1658
+msgid "Complete URL, with https prefix, to Facebook page."
+msgstr "Potpuni URL, s https prefiksom, za Facebook stranicu."
+
+#: under-construction.php:1657
+msgid "Facebook business or personal page URL"
+msgstr "URL za Facebook poslovnu ili osobnu stranicu"
+
+#: under-construction.php:1656
+msgid "Facebook Page"
+msgstr "Facebook Stranica"
+
+#: under-construction.php:1652
+msgid "Social &amp; Contact Icons"
+msgstr "Društvene i Kontakt Ikone"
+
+#: under-construction.php:1602
+msgid "Show Some Love"
+msgstr "Pokažite ljubav"
+
+#: under-construction.php:1632
+msgid "Login Button"
+msgstr "Tipka za Prijavu"
+
+#: under-construction.php:1589
+msgid "Headline"
+msgstr "Naslov"
+
+#: under-construction.php:1583
+msgid "Description"
+msgstr "Opis"
+
+#: under-construction.php:1569
+msgid "Title"
+msgstr "Naslov"
+
+#: under-construction.php:1489
+msgid "By resetting all settings to their default values any customizations you have done will be lost. There is no undo."
+msgstr "Poništavajući sve postavke na njihove početne vrijednosti, sva prilagođavanja koja ste dosada napravili će biti izgubljena. Nakon toga nije moguće vratiti se na prethodno stanje."
+
+#: under-construction.php:1486
+msgid "Reset Settings"
+msgstr "Poništi Postavke"
+
+#: under-construction.php:1480
+msgid "Enter the unique tracking ID found in your GA tracking profile settings to track visits to pages."
+msgstr "Unesite jedinstveni ID praćenja koji se nalazi u postavkama Vašeg GA profila kako biste pratili posjete stranici."
+
+#: under-construction.php:1468
+msgid ""
+"If enabled, construction mode will automatically stop showing on the selected date.\n"
+"    This option will not \"auto-enable\" construction mode. Status has to be set to \"On\"."
+msgstr ""
+"Ako je omogućeno, način rada \"u izradi\" automatski će se prestati prikazivati ​​na odabrani datum.\n"
+"Ova opcija neće \"automatski omogućiti\"  način rada \"u izradi\". Status je potrebno postaviti na \"Uključeno\"."
+
+#: under-construction.php:1446
+msgid "By enabling construction mode users will not be able to access the site's content. They will only see the under construction page. To configure exceptions set <a class=\"change_tab\" data-tab=\"3\" href=\"#whitelisted-roles\">whitelisted user roles</a>."
+msgstr "Uključivanjem načina rada \"u izradi\", korisnici neće biti u mogućnosti pristupiti sadržaju web-stranice. Vidjet će samo stranicu u izradi. Da biste konfigurirali iznimke, postavite <a class=\"change_tab\" data-tab=\"3\" href=\"#whitelisted-roles\">dopuštene korisničke uloge</a>."
+
+#: under-construction.php:1105
+msgid "Visit our site to get more great plugins"
+msgstr "Posjetite našu web-stranicu kako biste došli do još odličnih dodataka."
+
+#: under-construction.php:1105
+msgid "Visit UCP's site for more info"
+msgstr "Posjetite UCP web-stranicu za više informacija"
+
+#: under-construction.php:832
+msgid "Thank you very much! The UCP team"
+msgstr "Puno Vam hvala! UCP tim"
+
+#: under-construction.php:784
+msgid "Configure UnderConstructionPage"
+msgstr "Konfiguriraj UnderConstructionPage"
+
+#: under-construction.php:784
+msgid "Preview UnderConstructionPage"
+msgstr "Pregledaj UnderConstructionPage"
+
+#: under-construction.php:784
+msgid "<b>Under Construction Mode is enabled</b> but you are whitelisted so you see the normal site."
+msgstr "<b>Način rada \"u izradi\" je uključen</b>, ali ste Vi na popisu dopuštenih korisnika te stoga vidite normalnu web-stranicu."
+
+#: under-construction.php:460
+msgid "Something is not right with your wp_mail() function. Please email as at ucp@webfactoryltd.com."
+msgstr "Nešto nije uredu s Vašom wp_mail() funkcijom. Molimo, kontaktirajte nas na ucp@webfactoryltd.com."
+
+#: under-construction.php:438
+msgid "Please double-check your email address."
+msgstr "Molimo Vas da još jednom provjerite adresu svoje e-pošte."
+
+#: under-construction.php:1803
+msgid "Bulldozer at Work"
+msgstr "Buldožer na Poslu"
+
+#: under-construction.php:2129
+msgid "PRO"
+msgstr "PRO"
+
+#: under-construction.php:1258
+msgid "Please enter a valid Google Analytics Tracking ID or disable tracking."
+msgstr "Molimo, unesite ispravan Google Analytics ID za praćenje ili onemogućite praćenje."
+
+#: under-construction.php:1801
+msgid "Clock"
+msgstr "Sat"
+
+#: under-construction.php:1979
+msgid "Contact Support"
+msgstr "Kontaktirajte Podršku"
+
+#: under-construction.php:1800
+msgid "Stop"
+msgstr "Stop"
+
+#: under-construction.php:1461
+msgid "Automatic End Date &amp; Time"
+msgstr "Automatski datum završetka i vrijeme"
+
+#: under-construction.php:1798
+msgid "Setup"
+msgstr "Postavljanje"
+
+#: under-construction.php:1797
+msgid "Internet of Things"
+msgstr "Internet Stvari"
+
+#: under-construction.php:1795
+msgid "Puzzles"
+msgstr "Slagalica"
+
+#: under-construction.php:1794
+msgid "Laptop"
+msgstr "Prijenosno Računalo"
+
+#: under-construction.php:1792
+msgid "Ambulance"
+msgstr "Hitna Pomoć"
+
+#: under-construction.php:1791
+msgid "Light Bulb"
+msgstr "Žarulja"
+
+#: under-construction.php:1051 under-construction.php:1072
+msgid "Settings"
+msgstr "Postavke"
+
+#: under-construction.php:1021
+msgid "Under construction mode is disabled"
+msgstr "Under construction način rada je onemogućen"
+
+#: under-construction.php:1018 under-construction.php:1025
+#: under-construction.php:1438
+msgid "Under Construction Mode"
+msgstr "Under Construction Način Rada"
+
+#: under-construction.php:1014
+msgid "Under construction mode is enabled"
+msgstr "Under Construction Način Rada je uključen"
+
+#: under-construction.php:831
+msgid "I've already rated the plugin"
+msgstr "Već sam ocijenio dodatak"
+
+#: under-construction.php:830
+msgid "Help make the plugin better by rating it"
+msgstr "Pomozite nam poboljšati dodatak tako što ćete ga ocijeniti"
+
+#: under-construction.php:696
+msgid "Free UnderConstructionPage plugin for WordPress"
+msgstr "Besplatan UnderConstructionPage dodatak za WordPress"
+
+#: under-construction.php:1044 under-construction.php:2355
+msgid "Preview"
+msgstr "Pregled"
+
+#: under-construction.php:2354
+msgid "Save Changes"
+msgstr "Spremi Promjene"
+
+#: under-construction.php:2127
+msgid "Access"
+msgstr "Pristupnost"
+
+#: under-construction.php:1595 under-construction.php:2126
+msgid "Content"
+msgstr "Sadržaj"
+
+#: under-construction.php:2125
+msgid "Design"
+msgstr "Dizajn"
+
+#: under-construction.php:2124
+msgid "Main"
+msgstr "Glavne Postavke"
+
+#: under-construction.php:1980
+msgid "FAQ"
+msgstr "FAQ"
+
+#: under-construction.php:1928
+msgid "Whitelisted Users"
+msgstr "Popis dopuštenih korisnika"
+
+#: under-construction.php:1919
+msgid "Whitelisted User Roles"
+msgstr "Popis dopuštenih korisničkih uloga"
+
+#: under-construction.php:1864
+msgid "Custom CSS"
+msgstr "Prilagođeni CSS"
+
+#: under-construction.php:1832
+msgid "Theme"
+msgstr "Tema"
+
+#: under-construction.php:1789
+msgid "Rocket Launch #2"
+msgstr "Lansiranje rakete #2"
+
+#: under-construction.php:1788
+msgid "People at Work #2"
+msgstr "Ljudi na Poslu #2"
+
+#: under-construction.php:1786
+msgid "Hot Air Balloon"
+msgstr "Balon na vrući zrak"
+
+#: under-construction.php:1785
+msgid "Lighthouse"
+msgstr "Svjetionik"
+
+#: under-construction.php:1783
+msgid "Sad Site"
+msgstr "Tužna Stranica"
+
+#: under-construction.php:1782
+msgid "Windmill"
+msgstr "Vjetrenjača"
+
+#: under-construction.php:1780
+msgid "People at Work"
+msgstr "Ljudi na Poslu"
+
+#: under-construction.php:1779
+msgid "Safe"
+msgstr "Sef"
+
+#: under-construction.php:1777
+msgid "Cyber Chick Dark"
+msgstr "Cyber Cura Tamna Verzija"
+
+#: under-construction.php:1775
+msgid "Loader at Work"
+msgstr "Bager na Poslu"
+
+#: under-construction.php:1773
+msgid "Rocket Launch"
+msgstr "Lansiranje Rakete"
+
+#: under-construction.php:1771
+msgid "Cyber Chick"
+msgstr "Cyber Cura"
+
+#: under-construction.php:1769
+msgid "Under Construction Text"
+msgstr "Under Construction Tekst"
+
+#: under-construction.php:1767
+msgid "Forklift at Work"
+msgstr "Viljuškar na Poslu"
+
+#: under-construction.php:1765
+msgid "Things Went Dark"
+msgstr "Stvari su se Zatamnile"
+
+#: under-construction.php:1761
+msgid "Plain Text"
+msgstr "Običan Tekst"
+
+#: under-construction.php:1759
+msgid "Mad Designer"
+msgstr "Ljuti Dizajner"
+
+#: under-construction.php:1473
+msgid "Google Analytics Tracking"
+msgstr "Google Analytics Praćenje"
+
+#: under-construction.php:1467
+msgid "Open date & time picker"
+msgstr "Otvorite birač datuma i vremena"
+
+#: under-construction.php:1167
+msgid "Thank you for being patient. We are doing some work on the site and will be back shortly."
+msgstr "Hvala na strpljivosti. Trenutno radimo na web-stranici i vratit ćemo se vrlo brzo."
+
+#: under-construction.php:1166
+msgid "Sorry, we're doing some work on the site"
+msgstr "Oprostite, radimo na web-stranici."
+
+#: under-construction.php:1085 under-construction.php:2128
+msgid "Support"
+msgstr "Podrška"
+
+#: under-construction.php:1085
+msgid "Get help"
+msgstr "Potraži pomoć"
+
+#: under-construction.php:1072
+msgid "UnderConstruction Settings"
+msgstr "UnderConstruction Postavke"
+
+#: under-construction.php:1062
+msgid "Under Construction Mode is <b>enabled</b>."
+msgstr "Način rada \"u izradi\" je <b>uključen</b>."
+
+#: under-construction.php:673
+msgid "Log in to WordPress admin"
+msgstr "Prijavi se u WordPress admin"
+
+#: under-construction.php:670
+msgid "Open WordPress admin"
+msgstr "Otvori WordPress admin"
+
+#: under-construction.php:342
+msgid "Select whitelisted user(s)"
+msgstr "Odaberi dopuštene korisnike"
+
+#: under-construction.php:150
+msgid "UnderConstruction plugin <b>requires WordPress version 4.0</b> or higher to function properly. You are using WordPress version %s. Please <a href=\"%s\">update it</a>."
+msgstr "UnderConstruction dodatak <b>zahtijeva WordPress verziju 4.0</b> ili noviju kako bi ispravno radio. Vi koristite WordPress verziju %s. Molimo, <a href=\"%s\">nadogradite ju</a>."
+
+#: under-construction.php:340 under-construction.php:1105
+msgid "UnderConstructionPage"
+msgstr "UnderConstructionPage"
+
+#: under-construction.php:1014 under-construction.php:1021
+#: under-construction.php:1140
+msgid "UnderConstruction"
+msgstr "UnderConstruction"
+
+#. Plugin URI of the plugin
+msgid "https://underconstructionpage.com/"
+msgstr "https://underconstructionpage.com/"
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Plugin Name of the plugin
+#: under-construction.php:1763
+msgid "Under Construction"
+msgstr "Under Construction"
+
+#: under-construction.php:339
+msgid "An undocumented error has occured. Please refresh the page and try again."
+msgstr "Pojavila se nedokumentirana greška. Molimo Vas da osvježite stranicu i pokušate ponovno."
